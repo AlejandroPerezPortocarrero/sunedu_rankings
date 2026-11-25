@@ -11,6 +11,11 @@ Este paquete no está en CRAN. Puedes instalarlo con `devtools`:
 ```r
 devtools::install_github("AlejandroPerezPortocarrero/sunedu_rankings")
 ```
+Puedes pegar este texto en el README, justo debajo de la figura:
+
+```markdown
+*Cómo leer la figura.* Cada celda compara dos rankings y muestra la correlación de Spearman entre las posiciones que asignan a las mismas universidades, dentro de su sector (públicas o privadas). Un valor de 1 indica que ambos rankings ordenan a las universidades exactamente igual; valores cercanos a 0, que el orden de uno no dice nada del orden del otro. Las celdas más oscuras indican mayor coincidencia. **n** es el número de universidades que aparecen ordenadas en ambos rankings y sobre las que se calcula la correlación; por eso varía entre celdas (por ejemplo, el I Informe ordenó solo a 18 de las privadas que luego aparecen en el II). La línea punteada separa los rankings de solo investigación (I–III, grupo A) de los multidimensionales (IV–V, grupo B). Los rankings del grupo A coinciden mucho entre sí (0,79–0,96), mientras que el IV y el V, aunque son ediciones consecutivas, coinciden poco (0,75 en privadas y 0,50 en públicas).
+```
 
 ### Nota
 
