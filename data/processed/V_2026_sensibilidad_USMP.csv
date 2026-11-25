@@ -1,9 +1,0 @@
-escenario,posicion_USMP_privadas
-Réplica base (sin bonificadores),3
-Sin el indicador PIN (los demás pesos sin cambio),16
-PIN con tope de 3.0,3
-PIN con tope de 2.0,6
-PIN con tope de 1.5,6
-PIN de la USMP = mediana de las privadas,18
-"PIN de la USMP = 1,0 (promedio mundial)",15
-PIN ponderado por volumen (como en el IV: impacto x publicaciones; aprox. con PIC),5

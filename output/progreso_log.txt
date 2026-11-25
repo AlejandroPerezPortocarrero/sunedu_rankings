@@ -1,0 +1,96 @@
+Universidades ordenadas por ranking y sector:
+ gestion              Privada  Pública
+ranking_id                           
+I_2018_general            19       13
+II_2020_wos               28       17
+II_2020_scopus            28       25
+III_2021_historico        33       25
+IV_2025                   43       39
+V_2026                    45       42
+III_2021_excelencia       13        6 
+
+ sector          ranking_a          ranking_b  n_comun  spearman  coincidencia_top10
+Privada     I_2018_general        II_2020_wos       18     0.944                   9
+Privada     I_2018_general     II_2020_scopus       18     0.924                   9
+Privada     I_2018_general III_2021_historico       18     0.905                   9
+Privada     I_2018_general            IV_2025       18     0.637                   7
+Privada     I_2018_general             V_2026       18     0.773                   8
+Privada        II_2020_wos     II_2020_scopus       28     0.961                  10
+Privada        II_2020_wos III_2021_historico       28     0.891                   8
+Privada        II_2020_wos            IV_2025       28     0.483                   5
+Privada        II_2020_wos             V_2026       28     0.654                   7
+Privada     II_2020_scopus III_2021_historico       28     0.877                   8
+Privada     II_2020_scopus            IV_2025       28     0.578                   5
+Privada     II_2020_scopus             V_2026       28     0.674                   7
+Privada III_2021_historico            IV_2025       33     0.726                   7
+Privada III_2021_historico             V_2026       33     0.795                   8
+Privada            IV_2025             V_2026       43     0.747                   7
+Pública     I_2018_general        II_2020_wos        8     0.786                   8
+Pública     I_2018_general     II_2020_scopus        8     0.810                   8
+Pública     I_2018_general III_2021_historico       12     0.937                  10
+Pública     I_2018_general            IV_2025       12     0.748                   9
+Pública     I_2018_general             V_2026       12     0.818                  10
+Pública        II_2020_wos     II_2020_scopus       17     0.917                   9
+Pública        II_2020_wos III_2021_historico       17     0.853                   8
+Pública        II_2020_wos            IV_2025       15     0.825                   9
+Pública        II_2020_wos             V_2026       17     0.792                   9
+Pública     II_2020_scopus III_2021_historico       18     0.953                   9
+Pública     II_2020_scopus            IV_2025       23     0.644                   7
+Pública     II_2020_scopus             V_2026       25     0.631                   7
+Pública III_2021_historico            IV_2025       23     0.693                   8
+Pública III_2021_historico             V_2026       25     0.615                   7
+Pública            IV_2025             V_2026       39     0.502                   6 
+
+gestion  patron_grupo_A                                       
+Privada  cobertura incompleta                                     13
+         entra a la lista (sin producción indexada en 2014-16)    15
+         estable fuera del top 10                                 10
+         rango amplio                                              1
+         siempre en el top 10                                      4
+         siempre en el top 5                                       3
+Pública  cobertura incompleta                                     22
+         entra a la lista (sin producción indexada en 2014-16)    13
+         siempre en el top 10                                      4
+         siempre en el top 5                                       4
+dtype: int64 
+
+sector   clasificacion                  
+Privada  baja (robusto a la ponderación)     6
+         no concluyente                     31
+         solo en V                           2
+         sube (robusto a la ponderación)     6
+Pública  baja (robusto a la ponderación)     8
+         no concluyente                     25
+         solo en V                           3
+         sube (robusto a la ponderación)     6
+dtype: int64
+                                                                nombre   sector  posicion_publicada_IV  posicion_publicada_V  posicion_mejor_IV  posicion_peor_IV  posicion_mejor_V  posicion_peor_V                    clasificacion
+id_univ                                                                                                                                                                                                                              
+132                             Universidad de Ingeniería y Tecnología  Privada                   14.0                     4               10.0              17.0                 3                8  sube (robusto a la ponderación)
+068                              Universidad Científica del Sur S.A.C.  Privada                    3.0                     5                2.0               3.0                 4                8  baja (robusto a la ponderación)
+054                   Universidad Peruana de Ciencias Aplicadas S.A.C.  Privada                    4.0                     9                4.0               5.0                 6               23  baja (robusto a la ponderación)
+015                                Universidad Católica de Santa María  Privada                   23.0                    10               17.0              31.0                 6               13  sube (robusto a la ponderación)
+079                                                   Universidad ESAN  Privada                   32.0                    15               20.0              34.0                11               18  sube (robusto a la ponderación)
+067                                     Universidad Continental S.A.C.  Privada                    8.0                    18                8.0              17.0                18               35  baja (robusto a la ponderación)
+104                                  Universidad Le Cordon Bleu S.A.C.  Privada                   38.0                    21               29.0              43.0                17               27  sube (robusto a la ponderación)
+039                                       Universidad Andina del Cusco  Privada                   39.0                    27               34.0              39.0                17               31  sube (robusto a la ponderación)
+133                                               Universidad La Salle  Privada                   36.0                    28               32.0              36.0                17               31  sube (robusto a la ponderación)
+087                                 Universidad Autónoma de Ica S.A.C.  Privada                   18.0                    38               13.0              32.0                33               41  baja (robusto a la ponderación)
+074                     Universidad Católica de Trujillo Benedicto XVI  Privada                   24.0                    39               19.0              33.0                37               45  baja (robusto a la ponderación)
+082                              Universidad para el Desarrollo Andino  Privada                   31.0                    45               23.0              37.0                39               45  baja (robusto a la ponderación)
+007                             Universidad Nacional Agraria La Molina  Pública                    4.0                     1                3.0               5.0                 1                2  sube (robusto a la ponderación)
+076      Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas  Pública                    9.0                     3                8.0              11.0                 1                5  sube (robusto a la ponderación)
+089                           Universidad Nacional José María Arguedas  Pública                   31.0                     4               28.0              32.0                 3               14  sube (robusto a la ponderación)
+006                                 Universidad Nacional de Ingeniería  Pública                    3.0                     7                3.0               4.0                 5               18  baja (robusto a la ponderación)
+106                                   Universidad Nacional de Frontera  Pública                   35.0                    10               31.0              37.0                 7               20  sube (robusto a la ponderación)
+101                                       Universidad Nacional de Jaén  Pública                   27.0                    11               19.0              34.0                10               18  sube (robusto a la ponderación)
+021                           Universidad Nacional Federico Villarreal  Pública                    6.0                    18                5.0               7.0                 9               25  baja (robusto a la ponderación)
+010                           Universidad Nacional del Centro del Perú  Pública                   17.0                    22               12.0              18.0                19               24  baja (robusto a la ponderación)
+098                                    Universidad Nacional de Juliaca  Pública                   39.0                    26               36.0              39.0                24               29  sube (robusto a la ponderación)
+002                  Universidad Nacional de San Cristóbal de Huamanga  Pública                   20.0                    34               16.0              30.0                31               38  baja (robusto a la ponderación)
+016                                  Universidad Nacional de Cajamarca  Pública                   16.0                    35                9.0              18.0                29               37  baja (robusto a la ponderación)
+032                        Universidad Nacional Jorge Basadre Grohmann  Pública                   12.0                    36               11.0              17.0                26               38  baja (robusto a la ponderación)
+120                             Universidad Nacional Autónoma de Chota  Pública                   18.0                    39               15.0              23.0                29               42  baja (robusto a la ponderación)
+042                                     Universidad Nacional del Santa  Pública                   25.0                    41               16.0              24.0                40               42  baja (robusto a la ponderación)
+
+Cambios publicados de 10 o más puestos que no son robustos: 8 de 27

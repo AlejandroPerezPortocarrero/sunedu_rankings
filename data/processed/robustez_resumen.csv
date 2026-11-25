@@ -1,0 +1,170 @@
+edicion,sector,institucion,posicion_publicada,posicion_replica,posicion_mejor,posicion_peor,posicion_mediana,amplitud,n_sector,indicador_de_mayor_aporte,indice_sin_ese_indicador,indicadores_atipicos,alerta_dependencia,alerta_inestable,alerta_datos
+IV_2025,Pública,Universidad Nacional Mayor de San Marcos,1,1,1,1,1.0,0,39,PI,1.555,PI (z=+4.8); IN (z=+3.0),False,False,False
+IV_2025,Pública,Universidad Nacional de San Cristóbal de Huamanga,20,23,16,30,23.0,14,39,TPT,-0.312,,False,True,False
+IV_2025,Pública,Universidad Nacional de San Antonio Abad del Cusco,8,8,6,18,8.5,12,39,IN,-0.068,,False,True,False
+IV_2025,Pública,Universidad Nacional de Trujillo,5,5,2,6,5.0,4,39,DE,0.194,,False,False,False
+IV_2025,Pública,Universidad Nacional de San Agustín de Arequipa,2,2,2,4,2.0,2,39,PI,0.359,,False,False,False
+IV_2025,Pública,Universidad Nacional de Ingeniería,3,3,3,4,3.0,1,39,DE,0.29,,False,False,False
+IV_2025,Pública,Universidad Nacional Agraria La Molina,4,4,3,5,4.0,2,39,PAC,0.319,,False,False,False
+IV_2025,Pública,Universidad Nacional San Luis Gonzaga,28,27,17,28,27.0,11,39,DE,-0.38,,False,True,False
+IV_2025,Pública,Universidad Nacional del Centro del Perú,17,17,12,18,16.0,6,39,DE,-0.203,,False,False,False
+IV_2025,Pública,Universidad Nacional de la Amazonía Peruana,13,16,9,20,16.5,11,39,PAC,-0.174,,False,True,False
+IV_2025,Pública,Universidad Nacional del Altiplano,10,10,9,15,11.5,6,39,DE,-0.182,,False,False,False
+IV_2025,Pública,Universidad Nacional de Piura,24,24,16,26,24.0,10,39,TPT,-0.275,,False,True,False
+IV_2025,Pública,Universidad Nacional de Cajamarca,16,11,9,18,10.5,9,39,DE,-0.267,,False,False,False
+IV_2025,Pública,Universidad Nacional Federico Villarreal,6,6,5,7,6.0,2,39,DE,-0.1,,False,False,False
+IV_2025,Pública,Universidad Nacional Agraria de la Selva,34,33,29,35,33.0,6,39,DE,-0.537,,False,False,False
+IV_2025,Pública,Universidad Nacional Hermilio Valdizán de Huánuco,11,13,10,21,12.0,11,39,TPT,-0.235,,False,True,False
+IV_2025,Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,26,22,9,38,22.0,29,39,DE,-0.595,,False,True,False
+IV_2025,Pública,Universidad Nacional Daniel Alcides Carrión,32,30,22,34,30.0,12,39,DE,-0.492,,False,True,False
+IV_2025,Pública,Universidad Nacional del Callao,33,34,29,37,34.0,8,39,PI,-0.439,,False,False,False
+IV_2025,Pública,Universidad Nacional José Faustino Sánchez Carrión,29,31,26,35,31.0,9,39,DE,-0.37,,False,False,False
+IV_2025,Pública,Universidad Nacional Jorge Basadre Grohmann,12,14,11,17,14.0,6,39,TPT,-0.188,,False,False,False
+IV_2025,Pública,Universidad Nacional Santiago Antúnez de Mayolo,21,21,16,28,21.0,12,39,DE,-0.384,,False,True,False
+IV_2025,Pública,Universidad Nacional de San Martín,23,26,20,33,25.5,13,39,TPT,-0.356,,False,True,False
+IV_2025,Pública,Universidad Nacional de Tumbes,15,15,12,25,14.5,13,39,TPT,-0.269,,False,True,False
+IV_2025,Pública,Universidad Nacional del Santa,25,19,16,24,19.0,8,39,DE,-0.342,,False,False,False
+IV_2025,Pública,Universidad Nacional Amazónica de Madre de Dios,19,20,19,27,20.0,8,39,DE,-0.312,,False,False,False
+IV_2025,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,9,9,8,11,8.0,3,39,DE,-0.119,,False,False,False
+IV_2025,Pública,Universidad Nacional Micaela Bastidas de Apurímac,30,29,24,30,29.0,6,39,DE,-0.411,,False,False,False
+IV_2025,Pública,Universidad Nacional Intercultural de la Amazonía,37,36,31,39,36.0,8,39,DE,-0.601,,False,False,False
+IV_2025,Pública,Universidad Nacional Tecnológica de Lima Sur,22,28,19,31,27.5,12,39,DE,-0.314,,False,True,False
+IV_2025,Pública,Universidad Nacional José María Arguedas,31,32,28,32,32.0,4,39,DE,-0.482,,False,False,False
+IV_2025,Pública,Universidad Nacional de Moquegua,7,7,6,12,7.0,6,39,DE,-0.166,,False,False,False
+IV_2025,Pública,Universidad Nacional de Juliaca,39,39,36,39,39.0,3,39,DE,-0.587,,False,False,False
+IV_2025,Pública,Universidad Nacional de Jaén,27,25,19,34,24.5,15,39,TPT,-0.363,,False,True,False
+IV_2025,Pública,Universidad Nacional de Frontera,35,35,31,37,35.0,6,39,DE,-0.521,,False,False,False
+IV_2025,Pública,Universidad Nacional Autónoma de Chota,18,18,15,23,18.0,8,39,DE,-0.316,,False,False,False
+IV_2025,Pública,Universidad Nacional de Barranca,14,12,8,35,12.0,27,39,DE,-0.357,,False,True,False
+IV_2025,Pública,Universidad Nacional de Cañete,36,37,34,38,37.0,4,39,DE,-0.534,,False,False,False
+IV_2025,Pública,Universidad Nacional Autónoma de Alto Amazonas,38,38,36,39,38.0,3,39,DE,-0.58,,False,False,False
+IV_2025,Privada,Pontificia Universidad Católica del Perú,2,2,2,3,2.0,1,43,IN,2.215,PI (z=+4.0); PAC (z=+4.4); IN (z=+4.5),False,False,False
+IV_2025,Privada,Universidad Peruana Cayetano Heredia,1,1,1,1,1.0,0,43,PAC,2.899,DE (z=+3.8); PI (z=+3.4); PAC (z=+6.2); IN (z=+5.5),False,False,False
+IV_2025,Privada,Universidad Católica de Santa María,23,23,17,31,23.5,14,43,TPT,-0.237,,False,True,False
+IV_2025,Privada,Universidad del Pacífico,15,15,7,21,17.5,14,43,PAC,-0.063,,False,True,False
+IV_2025,Privada,Universidad de Lima,10,8,7,16,9.5,9,43,IN,0.089,,False,False,False
+IV_2025,Privada,Universidad de San Martín de Porres,6,6,4,7,6.0,3,43,IN,0.318,,False,False,False
+IV_2025,Privada,Universidad Femenina del Sagrado Corazón,17,19,12,32,18.5,20,43,DE,-0.253,,False,True,False
+IV_2025,Privada,Universidad de Piura,19,22,14,31,23.0,17,43,DE,-0.242,,False,True,False
+IV_2025,Privada,Universidad Ricardo Palma,9,9,6,12,8.0,6,43,TPT,0.08,,False,False,False
+IV_2025,Privada,Universidad Peruana Los Andes,37,37,30,40,37.0,10,43,PAC,-0.415,,False,False,False
+IV_2025,Privada,Universidad Peruana Unión,13,14,12,15,14.0,3,43,TPT,-0.019,,False,False,False
+IV_2025,Privada,Universidad Andina del Cusco,39,39,34,39,38.0,5,43,TPT,-0.437,,False,False,False
+IV_2025,Privada,Universidad Tecnológica de los Andes,43,43,38,43,43.0,5,43,PAC,-0.509,,False,False,False
+IV_2025,Privada,Universidad Privada de Tacna,27,24,18,30,23.0,12,43,TPT,-0.283,,False,True,False
+IV_2025,Privada,Universidad Privada Antenor Orrego,26,27,23,34,27.5,11,43,TPT,-0.341,,False,True,False
+IV_2025,Privada,Universidad de Huánuco,41,41,35,41,41.0,6,43,TPT,-0.518,,False,False,False
+IV_2025,Privada,Universidad Marcelino Champagnat,34,35,27,41,33.0,14,43,TPT,-0.553,,False,True,False
+IV_2025,Privada,Universidad César Vallejo SAC,7,7,5,12,6.5,7,43,TPT,0.073,,False,False,False
+IV_2025,Privada,Universidad Peruana de Ciencias Aplicadas SAC,4,4,4,5,4.0,1,43,PI,0.56,,False,False,False
+IV_2025,Privada,Universidad Privada del Norte SAC,11,11,9,20,11.5,11,43,PI,-0.062,,False,True,False
+IV_2025,Privada,Universidad San Ignacio de Loyola SRL,5,5,5,15,6.5,10,43,IN,0.265,,False,False,False
+IV_2025,Privada,Universidad Privada Norbert Wiener SA,20,17,13,24,18.5,11,43,TPT,-0.145,,False,True,False
+IV_2025,Privada,Universidad Católica San Pablo,29,28,22,33,30.0,11,43,DE,-0.206,,False,True,False
+IV_2025,Privada,Universidad Privada San Juan Bautista SAC,12,12,8,16,9.5,8,43,TPT,-0.025,,False,False,False
+IV_2025,Privada,Universidad Tecnológica del Perú SAC,33,34,19,40,34.5,21,43,IN,-0.386,,False,True,False
+IV_2025,Privada,Universidad Continental SAC,8,10,8,17,10.0,9,43,PI,0.021,,False,False,False
+IV_2025,Privada,Universidad Científica del Sur SAC,3,3,2,3,3.0,1,43,PI,1.205,,False,False,False
+IV_2025,Privada,Universidad Católica Santo Toribio de Mogrovejo,16,16,9,25,15.5,16,43,TPT,-0.267,,False,True,False
+IV_2025,Privada,Universidad Católica Sedes Sapientiae,40,42,39,42,42.0,3,43,TPT,-0.526,,False,False,False
+IV_2025,Privada,Universidad Señor de Sipán SAC,25,25,16,36,26.0,20,43,TPT,-0.427,,False,True,False
+IV_2025,Privada,Universidad Católica de Trujillo Benedicto XVI,24,26,19,33,25.0,14,43,TPT,-0.396,,False,True,False
+IV_2025,Privada,Universidad ESAN,32,31,20,34,33.0,14,43,DE,-0.316,,False,True,False
+IV_2025,Privada,Universidad Antonio Ruiz de Montoya,21,18,10,40,17.0,30,43,DE,-0.432,,True,True,False
+IV_2025,Privada,Universidad para el Desarrollo Andino,31,32,23,37,31.0,14,43,DE,-0.386,,False,True,False
+IV_2025,Privada,Universidad Autónoma de Ica SAC,18,20,13,32,19.0,19,43,TPT,-0.397,,True,True,False
+IV_2025,Privada,Universidad Autónoma del Perú SAC,28,29,26,33,29.0,7,43,TPT,-0.408,,False,False,False
+IV_2025,Privada,Asociación Civil Universidad de Ciencias y Humanidades,22,21,18,28,21.0,10,43,TPT,-0.182,,False,False,False
+IV_2025,Privada,Universidad Jaime Bausate y Meza,42,40,35,43,40.0,8,43,DE,-0.503,,False,False,False
+IV_2025,Privada,Universidad Le Cordon Bleu SAC,38,38,29,43,37.5,14,43,DE,-0.537,,False,True,False
+IV_2025,Privada,Universidad Privada de Huancayo Franklin Roosevelt SAC,30,30,20,43,28.0,23,43,TPT,-0.624,,True,True,False
+IV_2025,Privada,Universidad de Ingeniería y Tecnología,14,13,10,17,13.0,7,43,TPT,-0.042,,False,False,False
+IV_2025,Privada,Universidad La Salle,36,36,32,36,35.5,4,43,TPT,-0.402,,False,False,False
+IV_2025,Privada,Universidad María Auxiliadora SAC,35,33,23,42,31.5,19,43,TPT,-0.573,,False,True,False
+V_2026,Privada,Asociación Civil Universidad de Ciencias y Humanidades,36,36,27,42,36.0,15,45,DR,-0.493,,False,True,False
+V_2026,Privada,Facultad de Teología Pontificia y Civil de Lima,29,10,4,44,10.0,40,45,RED,-0.618,RED (z=+6.2),True,True,False
+V_2026,Privada,Pontificia Universidad Católica del Perú,3,2,1,4,2.0,3,45,PIC,0.486,PIC (z=+3.5),False,False,False
+V_2026,Privada,Universidad Andina del Cusco,27,26,17,31,25.0,14,45,TPB,-0.301,,False,True,False
+V_2026,Privada,Universidad Antonio Ruiz de Montoya,23,18,13,28,18.0,15,45,RED,-0.191,,False,True,False
+V_2026,Privada,Universidad Autónoma de Ica S.A.C.,38,37,33,41,37.0,8,45,TPT,-0.486,,False,False,False
+V_2026,Privada,Universidad Autónoma del Perú S.A.C.,30,32,22,35,31.0,13,45,DR,-0.303,,False,True,False
+V_2026,Privada,Universidad Católica San Pablo,19,23,17,31,24.0,14,45,PAC,-0.194,,False,True,False
+V_2026,Privada,Universidad Católica Santo Toribio de Mogrovejo,31,29,11,32,29.0,21,45,TPB,-0.307,,False,True,False
+V_2026,Privada,Universidad Católica Sedes Sapientiae,43,41,39,44,41.0,5,45,TPB,-0.579,,False,False,False
+V_2026,Privada,Universidad Católica de Santa María,10,9,6,13,9.0,7,45,PAC,0.056,,False,False,False
+V_2026,Privada,Universidad Católica de Trujillo Benedicto XVI,39,42,37,45,42.0,8,45,TPT,-0.594,,False,False,False
+V_2026,Privada,Universidad Científica del Sur S.A.C.,5,5,4,8,5.0,4,45,PIC,0.15,,False,False,False
+V_2026,Privada,Universidad Continental S.A.C.,18,28,18,35,27.0,17,45,PIC,-0.43,,False,True,False
+V_2026,Privada,Universidad César Vallejo S.A.C.,7,7,2,19,7.0,17,45,PIC,-0.051,TPT (z=+7.1),True,True,False
+V_2026,Privada,Universidad ESAN,15,16,11,18,15.0,7,45,PAC,-0.161,,False,False,False
+V_2026,Privada,Universidad Femenina del Sagrado Corazón,26,19,16,30,19.0,14,45,RED,-0.24,,False,True,False
+V_2026,Privada,Universidad Jaime Bausate y Meza,40,40,36,45,40.0,9,45,PAC,-0.641,,False,False,False
+V_2026,Privada,Universidad La Salle,28,24,17,31,24.0,14,45,PAC,-0.242,,False,True,False
+V_2026,Privada,Universidad Le Cordon Bleu S.A.C.,21,20,17,27,20.0,10,45,PAC,-0.201,,False,False,False
+V_2026,Privada,Universidad Marcelino Champagnat,25,27,19,35,26.0,16,45,PAC,-0.314,,False,True,False
+V_2026,Privada,Universidad María Auxiliadora S.A.C.,41,44,35,44,42.0,9,45,TPT,-0.624,,False,False,False
+V_2026,Privada,Universidad Peruana Cayetano Heredia,1,1,1,2,1.0,1,45,PIN,0.92,PIN (z=+3.7),False,False,False
+V_2026,Privada,Universidad Peruana Los Andes,42,38,35,42,39.0,7,45,TC,-0.535,,False,False,False
+V_2026,Privada,Universidad Peruana Unión,13,14,8,15,12.0,7,45,PAC,-0.024,,False,False,False
+V_2026,Privada,Universidad Peruana de Ciencias Aplicadas S.A.C.,9,12,6,23,11.0,17,45,PIC,-0.144,TPB (z=+5.0),False,True,False
+V_2026,Privada,Universidad Privada Antenor Orrego,34,33,29,35,33.0,6,45,TC,-0.376,,False,False,False
+V_2026,Privada,Universidad Privada Norbert Wiener S.A.,22,22,17,30,22.0,13,45,PIC,-0.221,,False,True,False
+V_2026,Privada,Universidad Privada San Juan Bautista S.A.C.,20,21,16,23,20.0,7,45,TPT,-0.164,,False,False,False
+V_2026,Privada,Universidad Privada de Huancayo Franklin Roosevelt S.A.C.,44,43,25,44,43.0,19,45,TPT,-0.677,,False,True,False
+V_2026,Privada,Universidad Privada de Tacna,32,30,24,35,30.0,11,45,RED,-0.292,,False,False,False
+V_2026,Privada,Universidad Privada del Norte S.A.C.,17,25,16,43,24.0,27,45,PIC,-0.515,,True,True,False
+V_2026,Privada,Universidad Ricardo Palma,11,11,6,18,12.0,12,45,RED,-0.025,,False,True,False
+V_2026,Privada,Universidad San Ignacio de Loyola S.R.L.,6,6,5,15,7.0,10,45,PIN,0.091,,False,False,False
+V_2026,Privada,Universidad Señor de Sipán S.A.C.,12,15,8,16,13.0,8,45,PAC,-0.049,,False,False,False
+V_2026,Privada,Universidad Tecnológica de los Andes,35,35,31,38,35.0,7,45,TC,-0.401,,False,False,False
+V_2026,Privada,Universidad Tecnológica del Perú S.A.C.,24,31,19,44,30.0,25,45,PIC,-0.56,,False,True,False
+V_2026,Privada,Universidad de Ciencias y Artes de América Latina S.A.C.,37,39,36,44,39.0,8,45,PAC,-0.614,,False,False,False
+V_2026,Privada,Universidad de Huánuco,33,34,30,40,34.0,10,45,PAC,-0.462,,False,False,False
+V_2026,Privada,Universidad de Ingeniería y Tecnología,4,4,3,8,4.0,5,45,DR,0.262,,False,False,False
+V_2026,Privada,Universidad de Lima,16,17,13,26,18.0,13,45,PAC,-0.202,,False,True,False
+V_2026,Privada,Universidad de Piura,14,13,10,17,13.0,7,45,RED,-0.066,,False,False,False
+V_2026,Privada,Universidad de San Martín de Porres,2,3,2,16,3.0,14,45,PIN,-0.072,PIN (z=+7.7),True,True,False
+V_2026,Privada,Universidad del Pacífico,8,8,3,13,8.0,10,45,PAC,0.057,,False,False,False
+V_2026,Privada,Universidad para el Desarrollo Andino,45,45,39,45,45.0,6,45,RED,-0.771,,False,False,False
+V_2026,Pública,Universidad Nacional Agraria La Molina,1,1,1,2,1.0,1,42,DR,0.553,DR (z=+4.4),False,False,False
+V_2026,Pública,Universidad Nacional Agraria de la Selva,31,31,25,37,31.0,12,42,PDD,-0.208,,False,True,False
+V_2026,Pública,Universidad Nacional Amazónica de Madre de Dios,25,26,20,29,26.0,9,42,PIN,-0.016,,False,False,False
+V_2026,Pública,Universidad Nacional Autónoma de Alto Amazonas,33,32,26,38,32.0,12,42,TPB,-0.219,,False,True,False
+V_2026,Pública,Universidad Nacional Autónoma de Chota,39,41,29,42,41.0,13,42,PAC,-1.149,TC (z=-7.7),False,True,True
+V_2026,Pública,Universidad Nacional Autónoma de Huanta,8,5,4,12,5.0,8,42,PDD,0.275,,False,False,False
+V_2026,Pública,Universidad Nacional Daniel Alcides Carrión,28,28,24,32,28.0,8,42,RED,-0.119,,False,False,False
+V_2026,Pública,Universidad Nacional Federico Villarreal,18,14,9,25,14.0,16,42,RED,0.071,,False,True,False
+V_2026,Pública,Universidad Nacional Hermilio Valdizán de Huánuco,17,19,11,23,19.0,12,42,PDD,-0.01,,False,True,False
+V_2026,Pública,Universidad Nacional Intercultural de la Amazonía,24,24,18,36,23.0,18,42,PDD,-0.218,,True,True,False
+V_2026,Pública,Universidad Nacional Jorge Basadre Grohmann,36,36,26,38,36.0,12,42,PAC,-0.268,,False,True,False
+V_2026,Pública,Universidad Nacional José Faustino Sánchez Carrión,37,35,31,38,35.0,7,42,PDD,-0.336,,False,False,False
+V_2026,Pública,Universidad Nacional José María Arguedas,4,4,3,14,4.0,11,42,DR,0.248,,False,True,False
+V_2026,Pública,Universidad Nacional Mayor de San Marcos,2,2,1,7,2.0,6,42,PIC,0.487,PIC (z=+4.1),False,False,False
+V_2026,Pública,Universidad Nacional Micaela Bastidas de Apurímac,32,33,30,36,33.0,6,42,TC,-0.186,,False,False,False
+V_2026,Pública,Universidad Nacional San Luis Gonzaga,20,16,12,22,16.0,10,42,PDD,-0.034,,False,False,False
+V_2026,Pública,Universidad Nacional Santiago Antúnez de Mayolo,15,18,11,22,17.0,11,42,PDD,0.139,,False,True,False
+V_2026,Pública,Universidad Nacional Tecnológica de Lima Sur,14,12,7,26,12.0,19,42,DR,-0.005,,False,True,False
+V_2026,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,3,3,1,5,3.0,4,42,DR,0.412,,False,False,False
+V_2026,Pública,Universidad Nacional de Barranca,19,20,16,25,20.0,9,42,PDD,0.091,,False,False,False
+V_2026,Pública,Universidad Nacional de Cajamarca,35,34,29,37,34.0,8,42,TC,-0.214,,False,False,False
+V_2026,Pública,Universidad Nacional de Cañete,27,27,19,37,27.0,18,42,DR,-0.155,,False,True,False
+V_2026,Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,38,38,37,39,38.0,2,42,RED,-0.409,,False,False,False
+V_2026,Pública,Universidad Nacional de Frontera,10,11,7,20,10.0,13,42,DR,0.142,,False,True,False
+V_2026,Pública,Universidad Nacional de Huancavelica,40,39,39,41,39.0,2,42,TC,-0.98,,False,False,True
+V_2026,Pública,Universidad Nacional de Ingeniería,7,9,5,18,9.0,13,42,RED,0.28,,False,True,False
+V_2026,Pública,Universidad Nacional de Jaén,11,13,10,18,13.0,8,42,PDD,0.154,,False,False,False
+V_2026,Pública,Universidad Nacional de Juliaca,26,25,24,29,25.0,5,42,PDD,-0.059,,False,False,False
+V_2026,Pública,Universidad Nacional de Moquegua,9,6,5,15,6.0,10,42,PAC,0.286,,False,False,False
+V_2026,Pública,Universidad Nacional de Piura,23,21,12,27,20.0,15,42,PDD,-0.087,,False,True,False
+V_2026,Pública,Universidad Nacional de San Agustín de Arequipa,6,7,4,13,7.0,9,42,PIC,0.326,,False,False,False
+V_2026,Pública,Universidad Nacional de San Antonio Abad del Cusco,13,17,10,27,17.0,17,42,PAC,0.08,,False,True,False
+V_2026,Pública,Universidad Nacional de San Cristóbal de Huamanga,34,37,31,38,36.0,7,42,TC,-0.229,,False,False,False
+V_2026,Pública,Universidad Nacional de San Martín,21,22,11,24,22.0,13,42,TC,0.085,,False,True,False
+V_2026,Pública,Universidad Nacional de Trujillo,12,10,4,12,9.0,8,42,PDD,0.194,,False,False,False
+V_2026,Pública,Universidad Nacional de Tumbes,30,29,20,31,29.0,11,42,PDD,-0.178,,False,True,False
+V_2026,Pública,Universidad Nacional de Ucayali,42,40,39,42,40.0,3,42,TC,-1.025,,False,False,True
+V_2026,Pública,Universidad Nacional de la Amazonía Peruana,5,8,3,17,7.0,14,42,PAC,0.244,,False,True,False
+V_2026,Pública,Universidad Nacional del Altiplano,16,15,14,24,16.0,10,42,PDD,0.102,,False,False,False
+V_2026,Pública,Universidad Nacional del Callao,29,30,28,34,30.0,6,42,PDD,-0.205,,False,False,False
+V_2026,Pública,Universidad Nacional del Centro del Perú,22,23,19,24,23.0,5,42,PDD,-0.04,,False,False,False
+V_2026,Pública,Universidad Nacional del Santa,41,42,40,42,42.0,2,42,PAC,-1.296,TC (z=-3.6),False,False,True

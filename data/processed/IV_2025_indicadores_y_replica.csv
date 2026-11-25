@@ -1,0 +1,83 @@
+codigo,institucion,sector,DE,TPT,PI,PAC,IN,revisar_manual,puntaje,posicion,replica,posicion_replica
+001,Universidad Nacional Mayor de San Marcos,Pública,0.08,13.72,3892,775,2335,False,100.0,1,100.0,1
+002,Universidad Nacional de San Cristóbal de Huamanga,Pública,0.06,15.96,154,31,79,False,11.0,20,9.813961237423994,23
+003,Universidad Nacional de San Antonio Abad del Cusco,Pública,0.06,20.15,522,154,553,False,19.1,8,19.105652677966415,8
+004,Universidad Nacional de Trujillo,Pública,0.09,13.19,681,126,409,False,29.7,5,29.85309020079244,5
+005,Universidad Nacional de San Agustín de Arequipa,Pública,0.06,17.1,1498,268,1064,False,41.3,2,40.16890006608866,2
+006,Universidad Nacional de Ingeniería,Pública,0.1,21.95,1035,211,745,False,35.3,3,34.81118748132755,3
+007,Universidad Nacional Agraria La Molina,Pública,0.09,22.33,1024,295,727,False,34.5,4,34.77192099434919,4
+009,Universidad Nacional San Luis Gonzaga,Pública,0.07,21.84,194,31,142,False,8.6,28,8.340356834467597,27
+010,Universidad Nacional del Centro del Perú,Pública,0.07,17.52,293,40,211,False,13.9,17,13.721224712719351,17
+011,Universidad Nacional de la Amazonía Peruana,Pública,0.06,17.68,274,104,258,False,15.2,13,13.854773635720733,16
+012,Universidad Nacional del Altiplano,Pública,0.08,19.2,421,54,232,False,16.6,10,16.383177056126723,10
+013,Universidad Nacional de Piura,Pública,0.06,17.51,207,34,128,False,10.3,24,9.74529247697542,24
+016,Universidad Nacional de Cajamarca,Pública,0.09,15.13,135,18,65,False,14.5,16,15.88237671225599,11
+021,Universidad Nacional Federico Villarreal,Pública,0.11,20.43,609,68,341,False,25.2,6,25.046230630566928,6
+022,Universidad Nacional Agraria de la Selva,Pública,0.07,24.35,83,14,34,False,4.1,34,3.587656067883211,33
+023,Universidad Nacional Hermilio Valdizán de Huánuco,Pública,0.07,12.21,187,20,108,False,16.2,11,15.098330989503692,13
+025,Universidad Nacional de Educación Enrique Guzmán y Valle,Pública,0.11,27.79,142,13,68,False,9.3,26,10.028132069455513,22
+026,Universidad Nacional Daniel Alcides Carrión,Pública,0.08,22.2,60,8,43,False,6.4,32,7.008160642009172,30
+027,Universidad Nacional del Callao,Pública,0.05,21.84,184,13,90,False,4.1,33,3.0121818686108126,34
+028,Universidad Nacional José Faustino Sánchez Carrión,Pública,0.06,17.99,100,5,51,False,7.7,29,6.581909009271362,31
+032,Universidad Nacional Jorge Basadre Grohmann,Pública,0.07,14.38,171,46,180,False,16.0,12,14.829434206861619,14
+033,Universidad Nacional Santiago Antúnez de Mayolo,Pública,0.08,20.47,137,18,122,False,10.9,21,10.284604198319219,21
+034,Universidad Nacional de San Martín,Pública,0.06,15.27,92,18,50,False,10.5,23,9.02569102467738,26
+041,Universidad Nacional de Tumbes,Pública,0.07,12.13,135,15,74,False,14.9,15,14.126152750739811,15
+042,Universidad Nacional del Santa,Pública,0.08,17.55,94,19,62,False,9.5,25,11.529613567440714,19
+075,Universidad Nacional Amazónica de Madre de Dios,Pública,0.07,16.18,84,18,60,False,11.5,19,10.396675489205252,20
+076,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,Pública,0.08,15.91,283,93,184,False,18.3,9,18.29487702736795,9
+077,Universidad Nacional Micaela Bastidas de Apurímac,Pública,0.07,20.94,169,9,76,False,7.0,30,7.400988005842054,29
+084,Universidad Nacional Intercultural de la Amazonía,Pública,0.07,26.25,60,8,28,False,1.4,37,1.6226974643392922,36
+088,Universidad Nacional Tecnológica de Lima Sur,Pública,0.06,19.94,217,18,206,False,10.7,22,8.286329630334365,28
+089,Universidad Nacional José María Arguedas,Pública,0.07,22.72,92,16,55,False,6.9,31,5.240954498239929,32
+095,Universidad Nacional de Moquegua,Pública,0.1,15.08,156,54,220,False,22.7,7,20.97670097498976,7
+098,Universidad Nacional de Juliaca,Pública,0.06,25.88,60,7,44,False,0.0,39,0.0,39
+101,Universidad Nacional de Jaén,Pública,0.06,14.77,77,19,40,False,9.2,27,9.192443981816774,25
+106,Universidad Nacional de Frontera,Pública,0.06,24.39,105,13,64,False,3.9,35,2.0118841932569667,35
+120,Universidad Nacional Autónoma de Chota,Pública,0.08,16.49,91,8,94,False,12.2,18,12.332813344616731,18
+121,Universidad Nacional de Barranca,Pública,0.1,16.03,32,4,12,False,14.9,14,15.209709515619076,12
+122,Universidad Nacional de Cañete,Pública,0.06,23.44,66,1,28,False,3.5,36,1.6090697063872854,37
+126,Universidad Nacional Autónoma de Alto Amazonas,Pública,0.06,24.9,31,8,17,False,0.9,38,0.22097547588819258,38
+008,Pontificia Universidad Católica del Perú,Privada,0.08,9.48,3323,1093,3290,False,78.4,2,78.12862396152478,2
+014,Universidad Peruana Cayetano Heredia,Privada,0.15,6.31,2933,1507,3930,False,100.0,1,100.0,1
+015,Universidad Católica de Santa María,Privada,0.04,13.8,448,89,237,False,9.5,23,8.732984240565456,23
+017,Universidad del Pacífico,Privada,0.08,25.38,573,206,476,False,13.8,15,13.136198415654068,15
+018,Universidad de Lima,Privada,0.05,15.38,717,192,839,False,17.1,10,17.51247471709094,8
+019,Universidad de San Martín de Porres,Privada,0.06,11.99,1029,165,1091,False,24.0,6,23.95033783889461,6
+020,Universidad Femenina del Sagrado Corazón,Privada,0.09,12.1,32,3,20,False,11.0,17,10.388372227664833,19
+029,Universidad de Piura,Privada,0.08,21.24,358,76,208,False,10.8,19,9.258942100497688,22
+030,Universidad Ricardo Palma,Privada,0.08,9.82,520,65,369,False,17.7,9,17.20891334407499,9
+037,Universidad Peruana Los Andes,Privada,0.05,19.9,151,10,44,False,3.2,37,1.9434223064388572,37
+038,Universidad Peruana Unión,Privada,0.07,12.38,389,87,338,False,14.2,13,13.878519831560551,14
+039,Universidad Andina del Cusco,Privada,0.05,19.39,64,8,68,False,1.7,39,1.7698084563972627,39
+040,Universidad Tecnológica de los Andes,Privada,0.05,22.23,65,8,27,False,0.0,43,0.0,43
+043,Universidad Privada de Tacna,Privada,0.07,12.91,103,18,56,False,8.5,27,8.26433797103378,24
+046,Universidad Privada Antenor Orrego,Privada,0.04,12.28,397,35,147,False,8.6,26,7.423109980629791,27
+047,Universidad de Huánuco,Privada,0.04,18.57,53,7,42,False,0.9,41,0.5485817241746087,41
+049,Universidad Marcelino Champagnat,Privada,0.04,7.44,8,0,6,False,6.2,34,5.654123660706103,35
+052,Universidad César Vallejo SAC,Privada,0.04,1.56,1112,74,545,False,21.3,7,21.379639610110875,7
+054,Universidad Peruana de Ciencias Aplicadas SAC,Privada,0.05,14.53,2294,317,1491,False,35.5,4,35.58945782879502,4
+055,Universidad Privada del Norte SAC,Privada,0.03,14.99,1280,127,704,False,16.4,11,16.352270050750978,11
+057,Universidad San Ignacio de Loyola SRL,Privada,0.04,19.58,1211,379,1247,False,24.1,5,24.010409841830345,5
+061,Universidad Privada Norbert Wiener SA,Privada,0.04,13.01,516,99,402,False,10.5,20,10.98625071463404,17
+062,Universidad Católica San Pablo,Privada,0.06,17.96,308,51,188,False,7.4,29,7.241317226071097,28
+064,Universidad Privada San Juan Bautista SAC,Privada,0.06,7.93,523,89,382,False,16.2,12,16.068110802858104,12
+065,Universidad Tecnológica del Perú SAC,Privada,0.03,22.54,668,56,548,False,6.5,33,5.802905209176467,34
+067,Universidad Continental SAC,Privada,0.03,11.81,1050,121,725,False,17.8,8,16.52837253365698,10
+068,Universidad Científica del Sur SAC,Privada,0.1,6.96,1669,479,1335,False,47.7,3,44.51904139291535,3
+069,Universidad Católica Santo Toribio de Mogrovejo,Privada,0.07,6.03,176,11,55,False,12.6,16,12.179366911845706,16
+071,Universidad Católica Sedes Sapientiae,Privada,0.04,18.95,47,7,27,False,1.4,40,0.20305163300582904,42
+072,Universidad Señor de Sipán SAC,Privada,0.03,8.35,296,42,166,False,9.0,25,7.723283194104774,25
+074,Universidad Católica de Trujillo Benedicto XVI,Privada,0.06,9.61,29,6,31,False,9.4,24,7.702232043238088,26
+079,Universidad ESAN,Privada,0.07,20.92,216,58,158,False,7.0,32,6.3919379124505475,31
+080,Universidad Antonio Ruiz de Montoya,Privada,0.12,19.22,24,9,23,False,10.0,21,10.874910160483095,18
+082,Universidad para el Desarrollo Andino,Privada,0.08,16.47,1,0,0,False,7.1,31,6.330625645740318,32
+087,Universidad Autónoma de Ica SAC,Privada,0.06,4.46,43,1,30,False,10.9,18,10.369287309524791,20
+096,Universidad Autónoma del Perú SAC,Privada,0.04,10.54,266,17,128,False,7.4,28,6.9609045788964785,29
+097,Asociación Civil Universidad de Ciencias y Humanidades,Privada,0.05,13.98,610,27,232,False,9.9,22,9.748743043965652,21
+100,Universidad Jaime Bausate y Meza,Privada,0.06,21.02,3,0,1,False,0.7,42,1.2400498110238394,40
+104,Universidad Le Cordon Bleu SAC,Privada,0.07,22.54,11,2,3,False,1.8,38,1.9244958794006608,38
+105,Universidad Privada de Huancayo Franklin Roosevelt SAC,Privada,0.03,2.93,4,0,1,False,7.2,30,6.5753356349722045,30
+132,Universidad de Ingeniería y Tecnología,Privada,0.07,11.15,368,89,287,False,13.8,14,14.056686536932082,13
+133,Universidad La Salle,Privada,0.06,15.96,43,2,12,False,5.0,36,4.262354017687628,36
+136,Universidad María Auxiliadora SAC,Privada,0.03,5.81,76,14,36,False,5.6,35,6.087982766658235,33

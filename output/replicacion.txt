@@ -1,0 +1,8 @@
+II wos   : error absoluto medio 0.07 pts (máx. 0.20)
+II scopus: error absoluto medio 0.82 pts (máx. 5.28)
+I        : puntaje general desde los 6 puntajes por área, error máx. 0.001 pts
+IV_2025 Privada : Spearman 0.994; error absoluto medio 0.60 pts
+IV_2025 Pública : Spearman 0.982; error absoluto medio 0.79 pts
+V_2026 Privada : Spearman 0.949; error absoluto medio 2.16 pts
+V_2026 Pública : Spearman 0.988; error absoluto medio 6.95 pts
+(V sin bonificadores; IV y V con z-score sobre públicas y privadas juntas, reescalado por sector)

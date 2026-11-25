@@ -1,0 +1,101 @@
+
+IV_2025: amplitud mediana del intervalo de posiciones = 9; universidades con alerta de dependencia = 3; inestables = 35
+ sector                                              institucion  posicion_publicada  posicion_mejor  posicion_peor indicador_de_mayor_aporte indicadores_atipicos
+Pública        Universidad Nacional de San Cristóbal de Huamanga                  20              16             30                       TPT                     
+Pública       Universidad Nacional de San Antonio Abad del Cusco                   8               6             18                        IN                     
+Pública                    Universidad Nacional San Luis Gonzaga                  28              17             28                        DE                     
+Pública              Universidad Nacional de la Amazonía Peruana                  13               9             20                       PAC                     
+Pública                            Universidad Nacional de Piura                  24              16             26                       TPT                     
+Pública        Universidad Nacional Hermilio Valdizán de Huánuco                  11              10             21                       TPT                     
+Pública Universidad Nacional de Educación Enrique Guzmán y Valle                  26               9             38                        DE                     
+Pública              Universidad Nacional Daniel Alcides Carrión                  32              22             34                        DE                     
+Pública          Universidad Nacional Santiago Antúnez de Mayolo                  21              16             28                        DE                     
+Pública                       Universidad Nacional de San Martín                  23              20             33                       TPT                     
+Pública                           Universidad Nacional de Tumbes                  15              12             25                       TPT                     
+Pública             Universidad Nacional Tecnológica de Lima Sur                  22              19             31                        DE                     
+Pública                             Universidad Nacional de Jaén                  27              19             34                       TPT                     
+Pública                         Universidad Nacional de Barranca                  14               8             35                        DE                     
+Privada                      Universidad Católica de Santa María                  23              17             31                       TPT                     
+Privada                                 Universidad del Pacífico                  15               7             21                       PAC                     
+Privada                 Universidad Femenina del Sagrado Corazón                  17              12             32                        DE                     
+Privada                                     Universidad de Piura                  19              14             31                        DE                     
+Privada                             Universidad Privada de Tacna                  27              18             30                       TPT                     
+Privada                       Universidad Privada Antenor Orrego                  26              23             34                       TPT                     
+Privada                         Universidad Marcelino Champagnat                  34              27             41                       TPT                     
+Privada                        Universidad Privada del Norte SAC                  11               9             20                        PI                     
+Privada                    Universidad Privada Norbert Wiener SA                  20              13             24                       TPT                     
+Privada                           Universidad Católica San Pablo                  29              22             33                        DE                     
+Privada                     Universidad Tecnológica del Perú SAC                  33              19             40                        IN                     
+Privada          Universidad Católica Santo Toribio de Mogrovejo                  16               9             25                       TPT                     
+Privada                           Universidad Señor de Sipán SAC                  25              16             36                       TPT                     
+Privada           Universidad Católica de Trujillo Benedicto XVI                  24              19             33                       TPT                     
+Privada                                         Universidad ESAN                  32              20             34                        DE                     
+Privada                      Universidad Antonio Ruiz de Montoya                  21              10             40                        DE                     
+Privada                    Universidad para el Desarrollo Andino                  31              23             37                        DE                     
+Privada                          Universidad Autónoma de Ica SAC                  18              13             32                       TPT                     
+Privada                           Universidad Le Cordon Bleu SAC                  38              29             43                        DE                     
+Privada   Universidad Privada de Huancayo Franklin Roosevelt SAC                  30              20             43                       TPT                     
+Privada                        Universidad María Auxiliadora SAC                  35              23             42                       TPT                     
+
+V_2026: amplitud mediana del intervalo de posiciones = 10; universidades con alerta de dependencia = 5; inestables = 38
+ sector                                               institucion  posicion_publicada  posicion_mejor  posicion_peor indicador_de_mayor_aporte indicadores_atipicos
+Privada    Asociación Civil Universidad de Ciencias y Humanidades                  36              27             42                        DR                     
+Privada           Facultad de Teología Pontificia y Civil de Lima                  29               4             44                       RED         RED (z=+6.2)
+Privada                              Universidad Andina del Cusco                  27              17             31                       TPB                     
+Privada                       Universidad Antonio Ruiz de Montoya                  23              13             28                       RED                     
+Privada                      Universidad Autónoma del Perú S.A.C.                  30              22             35                        DR                     
+Privada                            Universidad Católica San Pablo                  19              17             31                       PAC                     
+Privada           Universidad Católica Santo Toribio de Mogrovejo                  31              11             32                       TPB                     
+Privada                            Universidad Continental S.A.C.                  18              18             35                       PIC                     
+Privada                          Universidad César Vallejo S.A.C.                   7               2             19                       PIC         TPT (z=+7.1)
+Privada                  Universidad Femenina del Sagrado Corazón                  26              16             30                       RED                     
+Privada                                      Universidad La Salle                  28              17             31                       PAC                     
+Privada                          Universidad Marcelino Champagnat                  25              19             35                       PAC                     
+Privada          Universidad Peruana de Ciencias Aplicadas S.A.C.                   9               6             23                       PIC         TPB (z=+5.0)
+Privada                   Universidad Privada Norbert Wiener S.A.                  22              17             30                       PIC                     
+Privada Universidad Privada de Huancayo Franklin Roosevelt S.A.C.                  44              25             44                       TPT                     
+Privada                      Universidad Privada del Norte S.A.C.                  17              16             43                       PIC                     
+Privada                                 Universidad Ricardo Palma                  11               6             18                       RED                     
+Privada                   Universidad Tecnológica del Perú S.A.C.                  24              19             44                       PIC                     
+Privada                                       Universidad de Lima                  16              13             26                       PAC                     
+Privada                       Universidad de San Martín de Porres                   2               2             16                       PIN         PIN (z=+7.7)
+Pública                  Universidad Nacional Agraria de la Selva                  31              25             37                       PDD                     
+Pública            Universidad Nacional Autónoma de Alto Amazonas                  33              26             38                       TPB                     
+Pública                    Universidad Nacional Autónoma de Chota                  39              29             42                       PAC          TC (z=-7.7)
+Pública                  Universidad Nacional Federico Villarreal                  18               9             25                       RED                     
+Pública         Universidad Nacional Hermilio Valdizán de Huánuco                  17              11             23                       PDD                     
+Pública         Universidad Nacional Intercultural de la Amazonía                  24              18             36                       PDD                     
+Pública               Universidad Nacional Jorge Basadre Grohmann                  36              26             38                       PAC                     
+Pública                  Universidad Nacional José María Arguedas                   4               3             14                        DR                     
+Pública           Universidad Nacional Santiago Antúnez de Mayolo                  15              11             22                       PDD                     
+Pública              Universidad Nacional Tecnológica de Lima Sur                  14               7             26                        DR                     
+Pública                            Universidad Nacional de Cañete                  27              19             37                        DR                     
+Pública                          Universidad Nacional de Frontera                  10               7             20                        DR                     
+Pública                        Universidad Nacional de Ingeniería                   7               5             18                       RED                     
+Pública                             Universidad Nacional de Piura                  23              12             27                       PDD                     
+Pública        Universidad Nacional de San Antonio Abad del Cusco                  13              10             27                       PAC                     
+Pública                        Universidad Nacional de San Martín                  21              11             24                        TC                     
+Pública                            Universidad Nacional de Tumbes                  30              20             31                       PDD                     
+Pública               Universidad Nacional de la Amazonía Peruana                   5               3             17                       PAC                     
+
+Valores atípicos (|z|>3):
+edicion  sector                                      institucion indicador     valor     z    media  mediana
+IV_2025 Privada             Universidad Peruana Cayetano Heredia       PAC  1507.000  6.18  101.463   19.500
+IV_2025 Privada             Universidad Peruana Cayetano Heredia        IN  3930.000  5.45  356.634  125.000
+IV_2025 Pública         Universidad Nacional Mayor de San Marcos        PI  3892.000  4.77  461.634  180.000
+IV_2025 Privada         Pontificia Universidad Católica del Perú        IN  3290.000  4.48  356.634  125.000
+IV_2025 Privada         Pontificia Universidad Católica del Perú       PAC  1093.000  4.36  101.463   19.500
+IV_2025 Privada         Pontificia Universidad Católica del Perú        PI  3323.000  3.98  461.634  180.000
+IV_2025 Privada             Universidad Peruana Cayetano Heredia        DE     0.150  3.79    0.066    0.060
+IV_2025 Privada             Universidad Peruana Cayetano Heredia        PI  2933.000  3.44  461.634  180.000
+IV_2025 Pública         Universidad Nacional Mayor de San Marcos        IN  2335.000  3.02  356.634  125.000
+ V_2026 Privada              Universidad de San Martín de Porres       PIN     6.250  7.67    0.702    0.550
+ V_2026 Privada                 Universidad César Vallejo S.A.C.       TPT     5.570  7.09   21.027   21.350
+ V_2026 Privada  Facultad de Teología Pontificia y Civil de Lima       RED     3.720  6.23   15.521   14.840
+ V_2026 Privada Universidad Peruana de Ciencias Aplicadas S.A.C.       TPB     2.050  4.99   11.759   10.210
+ V_2026 Pública           Universidad Nacional Agraria La Molina        DR     0.078  4.38    0.017    0.014
+ V_2026 Pública         Universidad Nacional Mayor de San Marcos       PIC 12484.000  4.10 1889.437  851.000
+ V_2026 Privada             Universidad Peruana Cayetano Heredia       PIN     3.360  3.68    0.702    0.550
+ V_2026 Privada         Pontificia Universidad Católica del Perú       PIC 10938.000  3.50 1889.437  851.000
+ V_2026 Pública                   Universidad Nacional del Santa        TC     0.490 -3.56    0.912    0.940
+ V_2026 Pública           Universidad Nacional Autónoma de Chota        TC     0.000 -7.70    0.912    0.940

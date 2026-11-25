@@ -1,0 +1,20 @@
+edicion,sector,institucion,indicador,valor,z,media,mediana
+IV_2025,Privada,Universidad Peruana Cayetano Heredia,PAC,1507.0,6.18,101.463,19.5
+IV_2025,Privada,Universidad Peruana Cayetano Heredia,IN,3930.0,5.45,356.634,125.0
+IV_2025,Pública,Universidad Nacional Mayor de San Marcos,PI,3892.0,4.77,461.634,180.0
+IV_2025,Privada,Pontificia Universidad Católica del Perú,IN,3290.0,4.48,356.634,125.0
+IV_2025,Privada,Pontificia Universidad Católica del Perú,PAC,1093.0,4.36,101.463,19.5
+IV_2025,Privada,Pontificia Universidad Católica del Perú,PI,3323.0,3.98,461.634,180.0
+IV_2025,Privada,Universidad Peruana Cayetano Heredia,DE,0.15,3.79,0.066,0.06
+IV_2025,Privada,Universidad Peruana Cayetano Heredia,PI,2933.0,3.44,461.634,180.0
+IV_2025,Pública,Universidad Nacional Mayor de San Marcos,IN,2335.0,3.02,356.634,125.0
+V_2026,Privada,Universidad de San Martín de Porres,PIN,6.25,7.67,0.702,0.55
+V_2026,Privada,Universidad César Vallejo S.A.C.,TPT,5.57,7.09,21.027,21.35
+V_2026,Privada,Facultad de Teología Pontificia y Civil de Lima,RED,3.72,6.23,15.521,14.84
+V_2026,Privada,Universidad Peruana de Ciencias Aplicadas S.A.C.,TPB,2.05,4.99,11.759,10.21
+V_2026,Pública,Universidad Nacional Agraria La Molina,DR,0.078,4.38,0.017,0.014
+V_2026,Pública,Universidad Nacional Mayor de San Marcos,PIC,12484.0,4.1,1889.437,851.0
+V_2026,Privada,Universidad Peruana Cayetano Heredia,PIN,3.36,3.68,0.702,0.55
+V_2026,Privada,Pontificia Universidad Católica del Perú,PIC,10938.0,3.5,1889.437,851.0
+V_2026,Pública,Universidad Nacional del Santa,TC,0.49,-3.56,0.912,0.94
+V_2026,Pública,Universidad Nacional Autónoma de Chota,TC,0.0,-7.7,0.912,0.94
