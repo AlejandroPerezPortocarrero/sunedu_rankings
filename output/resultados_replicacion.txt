@@ -1,0 +1,30 @@
+II wos: error absoluto medio de la réplica = 0.07 pts (máx 0.20)
+II scopus: error absoluto medio de la réplica = 0.82 pts (máx 5.28)
+IV: error absoluto medio de la réplica = 0.69 pts (máx 3.18); z-score sobre el conjunto público+privado, reescalado por sector
+V Privada: correlación de Spearman réplica vs. publicado = 0.949; error absoluto medio = 2.2 pts (sin bonificadores)
+V Pública: correlación de Spearman réplica vs. publicado = 0.988; error absoluto medio = 7.0 pts (sin bonificadores)
+
+USMP - contribución de cada indicador al índice (z x peso):
+   PDD  -0.050
+   RED  +0.027
+   TC   -0.002
+   PIN  +0.987
+   PIC  +0.047
+   PAC  +0.014
+   DR   -0.072
+   DTC  -0.030
+   TPT  +0.009
+   TPB  -0.014
+   total +0.915 ; sin PIN -0.072
+USMP: FWCI promedio = 6.25; z = 7.7 desviaciones estándar (media del conjunto 0.70, mediana 0.55)
+
+Sensibilidad - posición de la USMP entre privadas (publicada: 2):
+                                                                         escenario  posicion_USMP_privadas
+                                                  Réplica base (sin bonificadores)                       3
+                                 Sin el indicador PIN (los demás pesos sin cambio)                      16
+                                                               PIN con tope de 3.0                       3
+                                                               PIN con tope de 2.0                       6
+                                                               PIN con tope de 1.5                       6
+                                          PIN de la USMP = mediana de las privadas                      18
+                                           PIN de la USMP = 1,0 (promedio mundial)                      15
+PIN ponderado por volumen (como en el IV: impacto x publicaciones; aprox. con PIC)                       5

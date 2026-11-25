@@ -1,0 +1,54 @@
+posicion,universidad,puntaje,produccion_per_capita,impacto_cientifico_h5,excelencia_internacional_top10
+1,Universidad Peruana Cayetano Heredia,100.0,0.389,53.0,182.0
+2,Pontificia Universidad Católica del Perú,80.69,0.237,47.0,155.0
+3,Universidad Nacional Mayor de San Marcos,46.68,0.221,29.0,68.0
+4,Universidad Nacional Agraria La Molina,35.78,0.365,17.0,21.0
+5,Universidad Científica del Sur,35.14,0.333,19.0,21.0
+6,Universidad de Ingeniería y Tecnología,33.03,0.442,14.0,0.0
+7,Universidad Nacional de Ingeniería,27.95,0.156,22.0,26.0
+8,Universidad Nacional de San Antonio Abad del Cusco,26.31,0.109,23.0,28.0
+9,Universidad Peruana de Ciencias Aplicadas,21.84,0.073,22.0,21.0
+10,Universidad del Pacífico,20.27,0.223,9.0,11.0
+11,Universidad de Ciencias y Humanidades,17.24,0.25,6.0,0.0
+12,Universidad Nacional de la Amazonía Peruana,16.12,0.091,14.0,13.0
+13,Universidad de San Martín de Porres,13.39,0.062,14.0,9.0
+14,Universidad Nacional de San Agustín,12.04,0.084,10.0,8.0
+15,Universidad de Piura,10.16,0.109,7.0,2.0
+16,Universidad Nacional de Trujillo,10.05,0.04,10.0,10.0
+17,Universidad ESAN,9.96,0.094,9.0,0.0
+18,Universidad Privada San Ignacio de Loyola,9.57,0.059,10.0,4.0
+19,Universidad Ricardo Palma,8.52,0.059,10.0,0.0
+20,Universidad Católica San Pablo,7.94,0.075,7.0,1.0
+21,Universidad Continental,6.44,0.073,5.0,0.0
+22,Universidad de Lima,5.7,0.031,7.0,2.0
+23,Universidad La Salle,5.34,0.085,2.0,0.0
+24,Universidad Privada del Norte,5.11,0.018,6.0,5.0
+25,Universidad Privada Antenor Orrego,4.87,0.046,5.0,0.0
+26,Universidad Nacional del Altiplano,4.59,0.027,6.0,1.0
+27,Universidad Nacional Intercultural de la Amazonía,4.52,0.051,4.0,0.0
+28,Universidad Nacional de Cajamarca,4.41,0.038,5.0,0.0
+29,Universidad Católica de Santa María,4.37,0.039,4.0,2.0
+30,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,4.03,0.032,5.0,0.0
+31,Universidad Nacional de San Cristóbal de Huamanga,3.6,0.024,5.0,0.0
+32,Universidad Nacional Santiago Antúnez de Mayolo,3.51,0.023,5.0,0.0
+33,Universidad Nacional José María Arguedas,3.44,0.052,2.0,0.0
+34,Universidad Nacional Agraria de la Selva,2.75,0.04,2.0,0.0
+35,Universidad Privada César Vallejo,2.72,0.005,5.0,1.0
+36,Universidad Nacional del Centro del Perú,2.67,0.029,3.0,0.0
+37,Universidad Nacional del Santa,2.65,0.028,3.0,0.0
+38,Universidad Nacional Autónoma de Chota,2.56,0.047,1.0,0.0
+39,Universidad Privada San Juan Bautista S. A. C.,2.5,0.016,4.0,0.0
+40,Universidad Católica Santo Toribio de Mogrovejo,2.36,0.023,3.0,0.0
+41,Universidad Católica Sedes Sapientiae,2.21,0.01,4.0,0.0
+42,Universidad Nacional Daniel Alcides Carrión,2.15,0.01,4.0,0.0
+43,Universidad Nacional de Ucayali,2.0,0.027,2.0,0.0
+44,Universidad Nacional de Huancavelica,1.91,0.015,3.0,0.0
+45,Universidad Nacional Jorge Basadre Grohmann,1.85,0.015,3.0,0.0
+46,Universidad Peruana Unión,1.74,0.013,3.0,0.0
+47,Universidad Privada de Tacna,1.72,0.022,2.0,0.0
+48,Universidad Nacional de San Martín,1.43,0.017,2.0,0.0
+49,Universidad Nacional Hermilio Valdizán,1.43,0.017,2.0,0.0
+50,Universidad Autónoma del Perú,1.34,0.016,2.0,0.0
+51,Universidad Andina del Cusco,1.33,0.006,3.0,0.0
+52,Universidad Antonio Ruiz de Montoya,0.65,0.004,2.0,0.0
+53,Universidad Nacional Tecnológica de Lima Sur,0.2,0.006,1.0,0.0

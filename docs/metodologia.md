@@ -1,0 +1,89 @@
+# Metodología de los rankings de los Informes Bienales de SUNEDU
+
+La Ley Universitaria (Ley 30220, art. 15.15) obliga a SUNEDU a publicar un informe bienal que incluya un ranking universitario "respecto al número de publicaciones indexadas, entre otros indicadores". Hubo cinco ediciones y **cinco metodologías distintas**: ninguna edición repitió la del anterior. Este documento describe cada una a partir del texto de la fuente y evalúa qué comparaciones admiten.
+
+La tabla resumen está en `data/processed/rankings_metodologia.csv` y la lista completa de indicadores, con sus pesos, en `data/processed/indicadores_metodologia.csv`.
+
+---
+
+## I Informe Bienal (2018)
+
+- **Ranking**: "Ranking de universidades – General" (Cuadro 4.40 y Anexo F) y seis rankings por área de la OCDE (Anexos G–L).
+- **Dimensión**: solo producción de investigación. El informe dice explícitamente que con la información disponible "solo es posible incluir […] la dimensión de producción de investigación".
+- **Fuente**: Web of Science Core Collection (InCites), documentos indexados al 08/09/2017.
+- **Indicadores** (por cada una de las 6 áreas OCDE): (1) n.º de artículos 2014–2016; (2) n.º de documentos citables 2014–2016; (3) índice H 1996–2016; (4) n.º de artículos en el 10% más citado 2014–2016.
+- **Agregación**: cada indicador se divide entre el máximo del área (escala 0–100); se promedian los 4 indicadores (25% c/u) dentro de cada área y luego las 6 áreas (16,67% c/u); al final se vuelve a dividir entre el máximo (Anexos B y C).
+- **Universo**: todas las universidades. Solo 32 tienen un puntaje mayor que cero; las demás empatan en el puesto 33.
+- **Rasgos clave**: conteos absolutos (favorecen a las universidades grandes), ningún ajuste por tamaño y ranking único nacional (públicas y privadas juntas).
+
+## II Informe Bienal (2020)
+
+- **Ranking**: "Ranking nacional de universidades según investigación", en dos versiones paralelas: Web of Science (Tabla 3.1, 45 universidades) y Scopus (Tabla 3.2, 53 universidades; datos provistos por Concytec).
+- **Indicadores** (33,3% c/u): (1) **producción per cápita**: (artículos × 4 + otros documentos × 1) de 2016–2018, dividido entre el total de docentes (SIBE 2017); (2) **índice H5** (2014–2018, citas al 15/09/2019); (3) **excelencia**: documentos en el 10% más citado (2016–2018).
+- **Agregación**: z-score de cada indicador, promedio simple y reescalamiento min-max a 0–100.
+- **Universo**: universidades licenciadas y en proceso de evaluación al 31/12/2019.
+- **Rasgos clave**: primera y única edición con un indicador por docente. Cambia la estandarización (de cociente sobre el máximo a z-score) y se abandona la desagregación por áreas.
+- **Réplica**: con los componentes publicados, la versión WoS se reproduce casi exactamente (error medio de 0,07 puntos). La versión Scopus se reproduce solo de forma aproximada (0,8 puntos), lo que sugiere que se estandarizó sobre un universo mayor que el publicado.
+- **Anomalía**: en la versión WoS, la columna "excelencia internacional" da 1 174 documentos en el top 10% para la UPCH, frente a 182 en Scopus. La cifra parece incompatible con la definición, aunque es la que produce el puntaje publicado.
+
+## III Informe Bienal (2021)
+
+- **Ranking principal**: "Ranking histórico de instituciones universitarias (1980–2020)" (Tabla 4.3).
+  - **Indicadores**: producción científica histórica, índice H histórico y documentos en el top 10% (31,67% c/u, 1980–2020, WoS), más **patentes vigentes** en Indecopi (5%).
+  - **Agregación**: z-score, promedio ponderado y min-max a 0–100.
+  - **Universo**: universidades y escuelas de posgrado con licencia y actividades académicas; 58 tienen puntaje y 35 figuran como N.A. (sin documentos indizados).
+  - **Rasgos clave**: ventana **acumulada de 41 años**, sin ajuste por tamaño. Mide trayectoria histórica, no desempeño reciente.
+  - **Inconsistencias menores**: el texto habla de 56 instituciones con producción, pero la tabla lista 58; el anexo escribe el peso como "31666%" y la fórmula usa 0,316 (los pesos suman 99,8%); la fecha de corte de las patentes es el 21/09/2021 en el anexo y el 01/10/2021 en el texto.
+- **Ranking complementario**: "Ranking Excelencia 2021" (Tabla 4.4), una réplica de la metodología ARWU (Shanghái) con 19 instituciones. **Es otro tipo de ranking y no entra en la serie principal.**
+
+## IV Informe Bienal (2025, datos 2021–2022)
+
+- **Ranking**: dos rankings separados, uno de públicas (39) y otro de privadas (43).
+- **Ámbitos e indicadores**:
+  - Formativo (30%): ratio docente-estudiante (15%; rotulado "TA" en las tablas) y tiempo promedio de titulación (15%; meses × % de bachilleres sin título, que entra como complemento).
+  - Investigación (70%): publicaciones indizadas (23,33%), publicaciones en Q1 (23,33%) e impacto normalizado **multiplicado por el número de publicaciones** (23,33%). Todo en Scopus vía SCImago IBER, 2018–2022.
+- **Agregación**: z-score, suma ponderada y min-max a 0–100 dentro de cada sector.
+- **Universo**: universidades licenciadas al 2022 con información completa en los cinco indicadores.
+- **Réplica**: con los indicadores publicados el puntaje se reproduce con un error medio de 0,7 puntos (z-score sobre públicas y privadas juntas). Esto valida la transcripción.
+- **Rasgos clave**: primer ranking multidimensional y primer ranking separado por sector. Los tres indicadores de investigación son de **volumen**.
+- **Anomalías**: algunos códigos de la tabla de ranking llevan un sufijo "A" que el texto no explica (052A, 064A, 074A, 087A, 100A).
+
+## V Informe Bienal (documento de ranking, 2026; datos 2023–2024)
+
+El V Informe todavía no se ha publicado. Este repositorio usa el documento "Ranking universitario – V Informe Bienal" (fichas técnicas y resultados) y el anexo "Análisis por indicador" (.docx), que trae el valor de cada indicador por universidad.
+
+- **Ranking**: públicas (42) y privadas (45) por separado; puntajes reescalados de 1 a 100.
+- **Ámbitos e indicadores**:
+  - Formativo (38,57%): doctores (PDD), ratio estudiante-docente (RED, entra como inversa) y tasa de continuidad (TC), con 12,86% c/u.
+  - Investigación (51,43%): impacto normalizado (PIN), publicaciones ponderadas por decil de citación (PIC), proporción de publicaciones en Q1–Q2 (PAC) y docentes en Renacyt ponderados por nivel (DR), con 12,86% c/u.
+  - Capacidad institucional (10%): docentes a tiempo completo (DTC), tiempo hasta el título (TPT) y tiempo hasta el bachillerato (TPB), con 3,33% c/u.
+  - **Bonificadores** (multiplican el ámbito): programas acreditados (+10% formativo), patentes por docente a tiempo completo (+10% investigación), publicaciones citadas en patentes o en documentos de política (+10% investigación), gestión ambiental RSAUP (+10% capacidad institucional) y acreditación institucional (+3% global). **Sus valores por universidad no se publicaron.**
+- **Fuente bibliométrica**: Scopus vía **SciVal** (Elsevier). Cambia respecto del IV, que usó SCImago IBER.
+- **Normalización**: z-score sobre "el conjunto de universidades con periodos académicos en el SIU" (indicadores administrativos) o "con información en Scopus/SciVal" (indicadores bibliométricos). La réplica funciona mejor con un conjunto común a públicas y privadas.
+- **Cambio decisivo respecto del IV**: el impacto normalizado (PIN) pasa a ser el **FWCI promedio por documento**, sin ponderar por volumen. La propia ficha técnica advierte que "puede sobredimensionar a universidades con baja producción científica, pero con altos niveles de impacto normalizado". Ver `docs/caso_usmp.md`.
+- **Elementos descartados** (según la nota 1 del documento, con justificación en el capítulo aún no publicado): el indicador de inserción laboral formal de los bachilleres y el **penalizador por publicaciones en revistas excluidas de Scopus**.
+- **Réplica sin bonificadores**: correlación de Spearman de 0,95 en privadas y 0,99 en públicas.
+- **Problemas de datos**:
+  - En el .docx, la tabla 3 duplica la tabla 13 y la tabla 17 (PAC de privadas) está rotulada como "Públicas".
+  - Tres públicas (Huancavelica, Ucayali y Del Santa) tienen 0 en todos los indicadores que dependen de docentes (PDD, RED, DTC y DR). Esto parece información faltante en el SIU, no desempeño, y explica que ocupen los tres últimos puestos.
+
+---
+
+## ¿Qué se puede comparar?
+
+**Ningún puntaje es comparable entre ediciones**: todos se reescalan dentro de cada edición (al máximo = 100 o a min-max), así que un 50 en el II no equivale a un 50 en el V. Solo cabe comparar **posiciones relativas**, y solo dentro del mismo grupo metodológico.
+
+| | I 2018 | II 2020 (WoS/Scopus) | III 2021 histórico | IV 2025 | V 2026 |
+|---|---|---|---|---|---|
+| **I 2018** | — | Parcial | Parcial | No | No |
+| **II 2020** | Parcial | WoS ↔ Scopus: sí (misma metodología, distinta base) | Parcial | No | No |
+| **III 2021** | Parcial | Parcial | — | No | No |
+| **IV 2025** | No | No | No | — | Limitada |
+| **V 2026** | No | No | No | Limitada | — |
+
+- **Parcial (grupo A: I, II y III histórico)**. Los tres miden solo investigación, en un ranking nacional y con WoS como base principal. Pero difieren en la ventana (3 años, 3–5 años y 41 años), en el ajuste por tamaño (solo el II tiene un indicador por docente), en la estandarización (cociente sobre el máximo frente a z-score), en el tratamiento por áreas (solo el I) y en el universo. Sirven para hablar de **estratos** (top 3, top 10), no de cambios de uno o dos puestos.
+- **Limitada (grupo B: IV y V)**. Ambos son multidimensionales, separados por sector, con z-score y min-max. Pero entre uno y otro cambiaron el número de indicadores (5 frente a 10 más bonificadores), el peso de la investigación (70% frente a 51%), la fuente bibliométrica (SCImago frente a SciVal), la definición del impacto normalizado (volumen frente a promedio) y el universo. Un cambio de posición entre el IV y el V **no puede interpretarse como un cambio de desempeño** sin descomponerlo.
+- **No (A frente a B)**. Son rankings de naturaleza distinta: solo investigación y nacional frente a multidimensional y por sector. En el archivo procesado, la "posición dentro del sector" de los rankings I–III es una posición **calculada** en este repositorio para facilitar la lectura, no una posición publicada por SUNEDU.
+- **Ranking Excelencia 2021 (ARWU)**: no es comparable con ningún otro.
+
+En `serie_rankings_long.csv`, la variable `grupo_comparabilidad` codifica estos grupos: `A_investigacion_nacional`, `B_multidimensional_por_sector` y `X_excelencia_ARWU`.

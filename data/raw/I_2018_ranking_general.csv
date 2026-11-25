@@ -1,0 +1,125 @@
+posicion,universidad,anios_al_2016,sede,tipo_gestion,n_programas_pregrado_2015,autorizacion_licencia,rank_cn,puntaje_cn,rank_it,puntaje_it,rank_mcs,puntaje_mcs,rank_ca,puntaje_ca,rank_cs,puntaje_cs,rank_hum,puntaje_hum,produccion_cientifica,puntaje
+1,Pontificia Universidad Católica del Perú,99,Lima,Asociativa,63.0,Licenciada,1,100.0,1,100.0,7,6.525,5,42.529,1,100.0,1,100.0,74.842,100.0
+2,Universidad Peruana Cayetano Heredia,55,Lima,Asociativa,24.0,Licenciada,2,61.31,5,23.9,1,100.0,3,60.607,2,40.218,3,24.653,51.781,69.187
+3,Universidad Nacional Mayor de San Marcos,465,Lima,Pública,65.0,Autorización Definitiva,3,51.439,3,29.854,2,30.758,2,84.626,3,28.653,4,19.618,40.825,54.548
+4,Universidad Nacional Agraria La Molina,56,Lima,Pública,12.0,Licenciada,5,29.063,4,28.67,8,5.127,1,100.0,14,5.554,11,4.167,28.763,38.432
+5,Universidad Nacional de Ingeniería,61,Lima,Pública,28.0,Autorización Definitiva,6,25.992,2,66.374,16,1.96,11,13.729,13,7.351,15,1.736,19.524,26.086
+6,Universidad Nacional de San Antonio Abad del Cusco,324,Cusco,Pública,40.0,Autorización Definitiva,4,33.347,10,7.903,11,3.858,4,46.36,16,5.235,7,9.201,17.651,23.584
+7,Universidad Nacional de Trujillo,192,La Libertad,Pública,45.0,Autorización Definitiva,11,9.67,8,13.439,13,3.109,8,21.868,8,11.025,2,30.903,15.002,20.045
+8,Universidad Científica del Sur,18,Lima,Societaria,21.0,Autorización Definitiva,7,16.884,7,19.155,5,8.615,6,36.189,11,8.361,18,0.0,14.867,19.865
+9,Universidad de Piura,48,Piura,Asociativa,28.0,Licenciada,10,9.738,6,19.791,27,0.387,9,17.443,7,13.046,8,6.25,11.109,14.843
+10,Universidad del Pacífico,54,Lima,Asociativa,9.0,Licenciada,20,3.388,18,3.554,19,1.555,13,7.469,4,22.539,5,11.285,8.298,11.088
+11,Universidad Nacional del Altiplano,55,Puno,Pública,35.0,Autorización Definitiva,14,5.834,11,7.474,14,3.016,7,26.213,20,2.632,11,4.167,8.223,10.987
+12,Universidad Peruana de Ciencias Aplicadas,22,Lima,Societaria,52.0,Licenciada,12,7.524,13,6.178,3,17.749,22,0.594,12,7.891,9,4.861,7.466,9.976
+13,Universidad Nacional de la Amazonía Peruana,55,Loreto,Pública,30.0,Autorización Definitiva,8,16.035,15,5.105,6,6.7,10,15.587,24,0.0,18,0.0,7.238,9.671
+14,Universidad de San Martín de Porres,54,Lima,Asociativa,23.0,Licenciada,13,7.22,14,5.171,4,9.57,16,4.998,9,9.788,18,0.0,6.125,8.183
+15,Universidad de Lima,54,Lima,Asociativa,11.0,Licenciada,19,3.538,16,4.852,26,0.438,15,5.611,6,15.454,11,4.167,5.677,7.585
+16,Universidad Nacional de San Agustín,188,Arequipa,Pública,47.0,Autorización Definitiva,9,13.193,12,6.923,12,3.684,14,6.856,19,3.304,18,0.0,5.66,7.562
+17,Universidad ESAN,13,Lima,Asociativa,10.0,Autorización Definitiva,23,2.485,17,4.175,22,0.876,24,0.0,5,19.031,11,4.167,5.122,6.844
+18,Universidad Ricardo Palma,47,Lima,Asociativa,23.0,Licenciada,15,5.776,26,0.503,10,3.86,19,2.489,15,5.437,6,9.896,4.66,6.227
+19,Universidad Católica San Pablo,19,Arequipa,Asociativa,11.0,Licenciada,18,4.222,9,10.2,28,0.352,24,0.0,18,3.728,16,0.347,3.142,4.198
+20,Universidad Privada San Ignacio de Loyola,21,Lima,Societaria,41.0,Licenciada,24,2.057,22,2.334,25,0.456,17,3.753,10,9.386,18,0.0,2.998,4.005
+21,Universidad Nacional Federico Villarreal,53,Lima,Pública,67.0,Autorización Definitiva,21,3.253,19,3.312,15,2.224,12,8.081,22,0.336,16,0.347,2.926,3.909
+22,Universidad Nacional de Piura,55,Piura,Pública,35.0,Autorización Definitiva,22,2.851,21,2.693,18,1.573,18,2.509,17,4.284,18,0.0,2.318,3.097
+23,Universidad Católica de Santa María,55,Arequipa,Asociativa,28.0,Autorización Definitiva,24,2.057,24,1.113,9,4.733,24,0.0,24,0.0,10,4.514,2.07,2.765
+24,Universidad Nacional Pedro Ruiz Gallo,46,Lambayeque,Pública,,Autorización Definitiva,16,5.258,20,2.799,21,1.05,21,1.264,24,0.0,18,0.0,1.728,2.309
+25,Universidad Privada Antenor Orrego,28,La Libertad,Asociativa,23.0,Autorización Definitiva,17,4.332,26,0.503,17,1.856,24,0.0,22,0.336,18,0.0,1.171,1.565
+26,Universidad Nacional del Callao,50,Lima-Callao,Pública,17.0,Autorización Definitiva,26,1.19,23,1.724,30,0.0,24,0.0,20,2.632,18,0.0,0.924,1.235
+27,Universidad Alas Peruanas,20,Lima,Societaria,31.0,Autorización Definitiva,30,0.397,29,0.0,23,0.79,19,2.489,24,0.0,18,0.0,0.613,0.819
+28,Universidad Nacional de Tumbes,32,Tumbes,Pública,20.0,Autorización Definitiva,27,0.979,28,0.397,30,0.0,22,0.594,24,0.0,18,0.0,0.328,0.439
+29,Universidad La Salle,5,Arequipa,Asociativa,3.0,Autorización Provisional,28,0.849,25,1.035,30,0.0,24,0.0,24,0.0,18,0.0,0.314,0.42
+30,Universidad Privada San Juan Bautista S.A.C,19,Lima,Societaria,16.0,Autorización Definitiva,29,0.651,29,0.0,24,0.663,24,0.0,24,0.0,18,0.0,0.219,0.292
+31,Universidad Andina del Cusco,32,Cusco,Asociativa,18.0,Autorización Definitiva,32,0.0,29,0.0,20,1.263,24,0.0,24,0.0,18,0.0,0.21,0.281
+32,Universidad Privada del Norte,22,La Libertad,Societaria,44.0,Licenciada,31,0.179,29,0.0,29,0.104,24,0.0,24,0.0,18,0.0,0.047,0.063
+33,Universidad Andina Néstor Cáceres Velásquez,33,Puno,Asociativa,26.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Antonio Ruiz de Montoya,13,Lima,Asociativa,10.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad José Carlos Mariátegui,27,Moquegua,Asociativa,26.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Latinoamericana Cima,5,Tacna,Societaria,4.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Le Cordon Bleu,7,Lima,Societaria,8.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad María Auxiliadora,5,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Marítima del Perú,4,Lima-Callao,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Agraria de la Selva,52,Huánuco,Pública,12.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Amazónica de Madre de Dios,16,Madre De Dios,Pública,12.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Autónoma de Chota,6,Cajamarca,Pública,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Daniel Alcides Carrión,51,Pasco,Pública,28.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Barranca,6,Lima-Barranca,Pública,7.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Cajamarca,54,Cajamarca,Pública,42.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Cañete,7,Lima-Cañete,Pública,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Educación Enrique Guzmán y Valle,51,Lima,Pública,,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Frontera,6,Piura,Pública,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Huancavelica,26,Huancavelica,Pública,21.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Jaén,8,Cajamarca,Pública,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Juliaca,9,Puno,Pública,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Moquegua,11,Moquegua,Pública,6.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de San Cristóbal de Huamanga,339,Ayacucho,Pública,28.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de San Martín,37,San Martín,Pública,20.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional de Ucayali,37,Ucayali,Pública,17.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Autónoma de Ica SAC,10,Ica,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Autónoma del Perú,9,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Autónoma San Francisco,6,Arequipa,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Católica de Trujillo Benedicto XVI,16,La Libertad,Asociativa,18.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Católica los Ángeles de Chimbote,31,Áncash,Asociativa,21.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Católica Santo Toribio de Mogrovejo,18,Lambayeque,Asociativa,18.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Católica Sedes Sapientiae,17,Lima,Asociativa,32.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Ciencias de la Salud,6,Arequipa,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Científica del Perú,26,Loreto,Asociativa,18.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Continental,18,Junín,Societaria,29.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de Ayacucho Federico Froebel,6,Ayacucho,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de Ciencias y Artes de América Latina,6,Lima,Societaria,3.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de Ciencias y Humanidades,10,Lima,Asociativa,5.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de Huánuco,27,Huánuco,Asociativa,15.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de Ingeniería y Tecnología,5,Lima,Asociativa,5.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de la Amazonía Mario Peláez Bazán,5,Amazonas,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad de Lambayeque,6,Lambayeque,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Femenina del Sagrado Corazón,54,Lima,Asociativa,12.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Global del Cusco,4,Cusco,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Inca Garcilaso de la Vega,52,Lima,Asociativa,32.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Interamericana para el Desarrollo,6,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Jaime Bausate y Meza,8,Lima,Asociativa,1.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana Simón Bolívar,10,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana Unión,33,Lima,Asociativa,29.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Antonio Guillermo Urrelo,18,Cajamarca,Societaria,13.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Arzobispo Loayza,7,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Autónoma del Sur,5,Arequipa,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada César Vallejo,25,La Libertad,Societaria,34.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,"Universidad Privada de Huancayo ""Franklin Roosevelt""",7,Junín,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada de Ica S.A.,19,Ica,Societaria,4.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada de La Selva Peruana,6,Loreto,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada de Pucallpa,11,Ucayali,Societaria,4.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada de Tacna,31,Tacna,Asociativa,25.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada de Trujillo,5,La Libertad,Asociativa,,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Juan Mejía Baca,8,Lambayeque,Societaria,6.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Juan Pablo II,6,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Leonardo da Vinci S.A.C.,6,La Libertad,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Líder Peruana,4,Cusco,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Marcelino Champagnat,26,Lima,Asociativa,6.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Norbert Wiener,20,Lima,Societaria,16.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada San Carlos,10,Puno,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada SISE,4,Lima,Asociativa,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Privada Telesup,12,Lima,Societaria,,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad San Andrés,6,Lima,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad San Pedro,28,Áncash,Asociativa,24.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Santo Domingo de Guzmán,4,Lima-Huaro- chirí,Societaria,4.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional del Centro del Perú,57,Junín,Pública,40.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional del Santa,32,Áncash,Pública,15.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Hermilio Valdizán,52,Huánuco,Pública,27.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Intercultural de la Amazonía,17,Ucayali,Pública,,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Jorge Basadre Grohmann,45,Tacna,Pública,30.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional José Faustino Sánchez Carrión,48,Lima-Huaura,Pública,37.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional José María Arguedas,12,Apurímac,Pública,3.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Micaela Bastidas De Apurímac,16,Apurímac,Pública,10.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional San Luis Gonzaga de Ica,61,Ica,Pública,,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Santiago Antúnez de Mayolo,39,Áncash,Pública,27.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Tecnológica de Lima Sur,15,Lima,Pública,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,16,Amazonas,Pública,22.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Para el Desarrollo Andino,14,Huancavelica,Asociativa,5.0,Licenciada,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Particular de Chiclayo,31,Lambayeque,Asociativa,16.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana Austral del Cusco,6,Cusco,Societaria,4.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana de Arte Orval,6,Lima,Societaria,3.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana de Ciencias e Informática,14,Lima,Societaria,8.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana de Integración Global,9,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana de Investigación y Negocios,6,Lima,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana de las Américas,14,Lima,Societaria,8.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana del Centro,7,Junín,Asociativa,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana del Oriente S.A.C.,10,Loreto,Societaria,5.0,Autorización Provisional,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0
+33,Universidad Peruana Los Andes,33,Junín,Asociativa,28.0,Autorización Definitiva,32,0.0,29,0.0,30,0.0,24,0.0,24,0.0,18,0.0,0.0,0.0

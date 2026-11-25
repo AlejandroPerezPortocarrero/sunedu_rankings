@@ -1,0 +1,88 @@
+sector,institucion,DR,DTC,PAC,PDD,PIC,PIN,RED,TC,TPB,TPT,puntaje,posicion
+Privada,Asociación Civil Universidad de Ciencias y Humanidades,0.022,0.31,0.28,0.19,1128.0,0.32,16.99,0.88,8.31,17.12,15.08,36
+Privada,Facultad de Teología Pontificia y Civil de Lima,0.001,0.31,0.0,0.42,15.0,0.24,3.72,0.9,54.35,25.77,24.04,29
+Privada,Pontificia Universidad Católica del Perú,0.028,0.28,1.27,0.27,10938.0,0.89,11.09,0.94,7.75,17.01,76.04,3
+Privada,Universidad Andina del Cusco,0.006,0.29,0.73,0.18,870.0,0.7,17.38,0.95,3.22,23.3,24.85,27
+Privada,Universidad Antonio Ruiz de Montoya,0.008,0.28,0.9,0.16,224.0,0.79,11.2,0.96,8.62,26.28,27.66,23
+Privada,Universidad Autónoma de Ica S.A.C.,0.009,0.33,0.43,0.27,324.0,0.36,14.35,0.84,19.21,16.18,13.19,38
+Privada,Universidad Autónoma del Perú S.A.C.,0.019,0.25,0.74,0.26,1693.0,0.51,24.01,0.81,8.27,17.86,23.95,30
+Privada,Universidad Católica San Pablo,0.017,0.26,0.81,0.19,864.0,0.7,16.01,0.92,10.26,25.43,29.36,19
+Privada,Universidad Católica Santo Toribio de Mogrovejo,0.011,0.28,0.51,0.16,825.0,0.34,13.01,0.94,4.07,12.14,22.34,31
+Privada,Universidad Católica Sedes Sapientiae,0.004,0.28,0.6,0.12,309.0,0.5,16.38,0.87,7.92,22.92,10.94,43
+Privada,Universidad Católica de Santa María,0.025,0.31,1.07,0.32,2303.0,0.6,31.48,0.94,4.04,21.2,42.77,10
+Privada,Universidad Católica de Trujillo Benedicto XVI,0.003,0.25,0.7,0.23,245.0,0.43,34.27,0.83,6.95,16.77,12.71,39
+Privada,Universidad Científica del Sur S.A.C.,0.023,0.19,1.01,0.11,8006.0,0.78,9.69,0.87,6.37,12.16,56.14,5
+Privada,Universidad Continental S.A.C.,0.007,0.28,0.8,0.14,6164.0,0.58,25.05,0.83,5.64,19.3,30.13,18
+Privada,Universidad César Vallejo S.A.C.,0.011,0.31,0.64,0.25,9170.0,0.52,21.25,0.86,4.85,5.57,50.51,7
+Privada,Universidad ESAN,0.015,0.3,1.17,0.22,623.0,0.5,14.49,0.91,4.48,29.48,36.09,15
+Privada,Universidad Femenina del Sagrado Corazón,0.005,0.23,0.91,0.22,225.0,0.61,10.37,0.93,12.79,25.84,25.32,26
+Privada,Universidad Jaime Bausate y Meza,0.0,0.24,1.0,0.13,15.0,0.0,16.19,0.89,19.04,26.26,11.67,40
+Privada,Universidad La Salle,0.016,0.44,0.9,0.28,67.0,0.15,16.87,0.9,8.18,25.49,24.69,28
+Privada,Universidad Le Cordon Bleu S.A.C.,0.021,0.26,0.92,0.23,80.0,0.55,14.84,0.87,9.83,21.48,28.24,21
+Privada,Universidad Marcelino Champagnat,0.012,0.31,1.0,0.18,50.0,0.49,24.36,0.95,8.23,15.15,26.57,25
+Privada,Universidad María Auxiliadora S.A.C.,0.007,0.38,0.61,0.19,148.0,0.27,49.38,0.9,8.44,14.59,11.46,41
+Privada,Universidad Peruana Cayetano Heredia,0.032,0.22,1.29,0.12,7754.0,3.36,6.21,0.95,10.9,14.8,100.0,1
+Privada,Universidad Peruana Los Andes,0.007,0.33,0.4,0.18,720.0,0.53,15.85,0.92,19.05,26.66,11.08,42
+Privada,Universidad Peruana Unión,0.012,0.49,0.97,0.14,2453.0,0.9,16.54,0.93,3.44,18.69,37.52,13
+Privada,Universidad Peruana de Ciencias Aplicadas S.A.C.,0.014,0.33,0.89,0.1,6485.0,0.49,19.45,0.87,2.05,19.25,45.71,9
+Privada,Universidad Privada Antenor Orrego,0.009,0.17,0.55,0.2,1634.0,0.34,16.67,0.93,6.37,18.6,18.48,34
+Privada,Universidad Privada Norbert Wiener S.A.,0.018,0.22,0.74,0.2,2689.0,0.68,17.77,0.84,7.81,17.32,28.05,22
+Privada,Universidad Privada San Juan Bautista S.A.C.,0.016,0.35,0.83,0.13,1870.0,0.59,15.67,0.92,8.28,16.0,28.57,20
+Privada,Universidad Privada de Huancayo Franklin Roosevelt S.A.C.,0.011,0.26,0.22,0.22,46.0,0.18,23.83,0.9,6.59,10.17,9.3,44
+Privada,Universidad Privada de Tacna,0.007,0.2,0.78,0.18,799.0,0.53,12.53,0.93,14.21,19.01,21.32,32
+Privada,Universidad Privada del Norte S.A.C.,0.01,0.29,0.73,0.14,8042.0,0.43,32.04,0.84,7.68,21.39,31.34,17
+Privada,Universidad Ricardo Palma,0.021,0.21,0.73,0.19,2691.0,0.75,10.22,0.94,21.28,16.29,38.39,11
+Privada,Universidad San Ignacio de Loyola S.R.L.,0.02,0.3,1.08,0.17,5934.0,2.03,18.24,0.85,11.16,27.66,52.5,6
+Privada,Universidad Señor de Sipán S.A.C.,0.02,0.32,1.02,0.23,2429.0,0.98,26.11,0.89,8.66,13.81,38.31,12
+Privada,Universidad Tecnológica de los Andes,0.005,0.41,0.8,0.16,287.0,0.5,19.56,0.92,7.77,22.32,18.28,35
+Privada,Universidad Tecnológica del Perú S.A.C.,0.006,0.3,0.74,0.14,7625.0,0.59,26.48,0.77,6.65,22.01,27.31,24
+Privada,Universidad de Ciencias y Artes de América Latina S.A.C.,0.004,0.22,0.96,0.04,190.0,0.53,15.15,0.86,19.75,26.37,14.41,37
+Privada,Universidad de Huánuco,0.005,0.39,0.98,0.16,472.0,0.48,24.65,0.91,11.71,20.83,20.09,33
+Privada,Universidad de Ingeniería y Tecnología,0.048,0.26,1.36,0.29,1113.0,0.63,16.79,0.94,4.66,18.92,61.74,4
+Privada,Universidad de Lima,0.011,0.2,0.99,0.15,2631.0,0.79,21.28,0.95,8.08,21.7,33.31,16
+Privada,Universidad de Piura,0.014,0.32,1.06,0.16,957.0,0.46,9.71,0.95,5.77,28.26,36.6,14
+Privada,Universidad de San Martín de Porres,0.009,0.22,0.82,0.21,2832.0,6.25,13.09,0.91,11.7,17.94,77.15,2
+Privada,Universidad del Pacífico,0.026,0.25,1.25,0.2,1489.0,0.77,12.7,0.96,7.43,29.42,47.9,8
+Privada,Universidad para el Desarrollo Andino,0.006,0.32,0.13,0.11,45.0,0.3,13.16,0.92,17.25,23.37,1.0,45
+Pública,Universidad Nacional Agraria La Molina,0.078,0.79,1.08,0.44,3374.0,0.74,11.35,0.95,11.08,24.65,100.0,1
+Pública,Universidad Nacional Agraria de la Selva,0.016,0.92,0.45,0.37,305.0,0.41,14.87,0.96,11.27,27.38,38.84,31
+Pública,Universidad Nacional Amazónica de Madre de Dios,0.021,0.38,0.68,0.25,1277.0,0.97,13.89,0.94,7.53,21.23,47.67,25
+Pública,Universidad Nacional Autónoma de Alto Amazonas,0.013,0.14,0.79,0.24,334.0,0.87,21.19,0.9,3.33,15.0,36.61,33
+Pública,Universidad Nacional Autónoma de Chota,0.01,0.24,0.99,0.21,461.0,0.99,13.35,0.0,10.76,21.65,5.83,39
+Pública,Universidad Nacional Autónoma de Huanta,0.037,0.46,0.89,0.49,385.0,0.75,16.71,0.96,4.1,15.02,68.82,8
+Pública,Universidad Nacional Daniel Alcides Carrión,0.005,0.54,0.81,0.31,341.0,0.6,9.96,0.95,24.35,21.42,42.75,28
+Pública,Universidad Nacional Federico Villarreal,0.016,0.6,0.65,0.32,2855.0,0.51,8.26,0.98,24.88,20.91,53.37,18
+Pública,Universidad Nacional Hermilio Valdizán de Huánuco,0.027,0.7,0.58,0.47,556.0,0.39,14.35,0.98,12.92,17.61,53.51,17
+Pública,Universidad Nacional Intercultural de la Amazonía,0.018,0.64,0.58,0.6,276.0,0.62,17.4,0.93,12.48,28.62,48.81,24
+Pública,Universidad Nacional Jorge Basadre Grohmann,0.006,0.29,0.99,0.16,1114.0,0.66,14.02,0.93,18.63,19.57,34.77,36
+Pública,Universidad Nacional José Faustino Sánchez Carrión,0.007,0.49,0.43,0.42,689.0,0.54,16.04,0.96,14.81,20.59,34.15,37
+Pública,Universidad Nacional José María Arguedas,0.053,0.68,1.12,0.29,539.0,0.92,15.82,0.97,6.41,22.29,74.51,4
+Pública,Universidad Nacional Mayor de San Marcos,0.044,0.53,0.78,0.34,12484.0,0.69,10.39,0.97,18.08,20.61,93.75,2
+Pública,Universidad Nacional Micaela Bastidas de Apurímac,0.016,0.51,0.58,0.27,479.0,0.48,12.8,0.95,16.56,21.76,37.63,32
+Pública,Universidad Nacional San Luis Gonzaga,0.01,0.75,0.72,0.52,851.0,0.68,11.81,0.95,15.66,24.39,51.62,20
+Pública,Universidad Nacional Santiago Antúnez de Mayolo,0.008,0.8,0.95,0.35,901.0,1.12,12.55,0.96,14.22,23.96,55.48,15
+Pública,Universidad Nacional Tecnológica de Lima Sur,0.048,0.62,0.5,0.41,754.0,0.45,12.31,0.96,15.21,32.49,56.73,14
+Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,0.056,0.74,1.05,0.36,2133.0,0.73,12.35,0.97,8.23,19.21,81.84,3
+Pública,Universidad Nacional de Barranca,0.019,0.56,0.91,0.34,302.0,0.52,13.67,0.98,6.22,21.37,52.55,19
+Pública,Universidad Nacional de Cajamarca,0.007,0.52,0.52,0.31,734.0,0.44,11.87,0.97,13.34,21.04,35.27,35
+Pública,Universidad Nacional de Cañete,0.035,0.38,0.36,0.41,473.0,0.34,15.45,0.98,8.84,26.89,43.15,27
+Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,0.004,0.32,0.48,0.24,1130.0,0.44,10.1,0.94,28.17,25.98,22.8,38
+Pública,Universidad Nacional de Frontera,0.045,0.73,0.97,0.31,670.0,0.74,15.59,0.96,13.21,21.35,64.79,10
+Pública,Universidad Nacional de Huancavelica,0.0,0.0,0.44,0.0,753.0,0.47,0.0,0.96,18.46,20.3,4.23,40
+Pública,Universidad Nacional de Ingeniería,0.024,0.43,1.11,0.25,2969.0,0.67,9.12,0.97,13.05,26.9,69.05,7
+Pública,Universidad Nacional de Jaén,0.029,0.65,0.84,0.38,586.0,0.81,16.27,0.96,12.11,16.36,59.32,11
+Pública,Universidad Nacional de Juliaca,0.023,0.49,0.81,0.35,352.0,0.38,16.98,0.96,9.52,21.93,46.66,26
+Pública,Universidad Nacional de Moquegua,0.033,0.34,1.24,0.27,1242.0,0.77,9.47,0.95,16.22,20.87,68.26,9
+Pública,Universidad Nacional de Piura,0.009,0.89,0.81,0.51,872.0,0.43,16.68,0.98,18.79,22.69,50.03,23
+Pública,Universidad Nacional de San Agustín de Arequipa,0.022,0.69,0.94,0.4,5050.0,0.76,14.66,0.96,19.78,22.71,71.23,6
+Pública,Universidad Nacional de San Antonio Abad del Cusco,0.008,0.38,1.12,0.31,1932.0,1.03,12.87,0.96,12.51,24.01,58.56,13
+Pública,Universidad Nacional de San Cristóbal de Huamanga,0.009,0.6,0.61,0.27,604.0,0.5,15.17,0.96,10.21,18.4,35.97,34
+Pública,Universidad Nacional de San Martín,0.011,0.75,0.83,0.32,833.0,0.81,11.68,0.98,16.41,21.07,51.32,21
+Pública,Universidad Nacional de Trujillo,0.019,0.4,0.74,0.48,3151.0,0.76,12.28,0.98,7.08,21.51,59.11,12
+Pública,Universidad Nacional de Tumbes,0.012,0.52,0.44,0.39,493.0,0.59,14.8,0.96,4.37,18.56,40.38,30
+Pública,Universidad Nacional de Ucayali,0.0,0.0,0.35,0.0,260.0,0.4,0.0,0.92,8.95,18.64,1.0,42
+Pública,Universidad Nacional de la Amazonía Peruana,0.017,0.62,1.28,0.4,904.0,1.33,16.81,0.96,8.91,22.39,71.91,5
+Pública,Universidad Nacional del Altiplano,0.018,0.43,0.73,0.39,2835.0,0.54,11.12,0.96,16.5,22.48,55.4,16
+Pública,Universidad Nacional del Callao,0.015,0.58,0.59,0.38,999.0,0.34,15.72,0.96,16.79,24.26,40.41,29
+Pública,Universidad Nacional del Centro del Perú,0.017,0.81,0.65,0.43,1261.0,0.54,14.52,0.97,21.95,22.42,51.25,22
+Pública,Universidad Nacional del Santa,0.0,0.0,1.0,0.0,395.0,0.39,0.0,0.49,12.05,20.81,1.63,41

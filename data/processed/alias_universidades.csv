@@ -1,0 +1,504 @@
+ranking_id,nombre_fuente,nombre_normalizado,codigo_sunedu,id_univ,gestion
+I_2018_general,Pontificia Universidad Católica del Perú,pontificia universidad catolica del peru,008,008,Privada
+I_2018_general,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+I_2018_general,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+I_2018_general,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+I_2018_general,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+I_2018_general,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+I_2018_general,Universidad Nacional de Trujillo,universidad nacional de trujillo,004,004,Pública
+I_2018_general,Universidad Científica del Sur,universidad cientifica del sur,068,068,Privada
+I_2018_general,Universidad de Piura,universidad de piura,029,029,Privada
+I_2018_general,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+I_2018_general,Universidad Nacional del Altiplano,universidad nacional del altiplano,012,012,Pública
+I_2018_general,Universidad Peruana de Ciencias Aplicadas,universidad peruana de ciencias aplicadas,054,054,Privada
+I_2018_general,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+I_2018_general,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+I_2018_general,Universidad de Lima,universidad de lima,018,018,Privada
+I_2018_general,Universidad Nacional de San Agustín,universidad nacional de san agustin,005,005,Pública
+I_2018_general,Universidad ESAN,universidad esan,079,079,Privada
+I_2018_general,Universidad Ricardo Palma,universidad ricardo palma,030,030,Privada
+I_2018_general,Universidad Católica San Pablo,universidad catolica san pablo,062,062,Privada
+I_2018_general,Universidad Privada San Ignacio de Loyola,universidad privada san ignacio de loyola,057,057,Privada
+I_2018_general,Universidad Nacional Federico Villarreal,universidad nacional federico villarreal,021,021,Pública
+I_2018_general,Universidad Nacional de Piura,universidad nacional de piura,013,013,Pública
+I_2018_general,Universidad Católica de Santa María,universidad catolica de santa maria,015,015,Privada
+I_2018_general,Universidad Nacional Pedro Ruiz Gallo,universidad nacional pedro ruiz gallo,,X-universidad-nacional-pedro-ruiz-gallo,Pública
+I_2018_general,Universidad Privada Antenor Orrego,universidad privada antenor orrego,046,046,Privada
+I_2018_general,Universidad Nacional del Callao,universidad nacional del callao,027,027,Pública
+I_2018_general,Universidad Alas Peruanas,universidad alas peruanas,,X-universidad-alas-peruanas,Privada
+I_2018_general,Universidad Nacional de Tumbes,universidad nacional de tumbes,041,041,Pública
+I_2018_general,Universidad La Salle,universidad la salle,133,133,Privada
+I_2018_general,Universidad Privada San Juan Bautista S.A.C,universidad privada san juan bautista,064,064,Privada
+I_2018_general,Universidad Andina del Cusco,universidad andina del cusco,039,039,Privada
+I_2018_general,Universidad Privada del Norte,universidad privada del norte,055,055,Privada
+I_2018_general,Universidad Andina Néstor Cáceres Velásquez,universidad andina nestor caceres velasquez,,X-universidad-andina-nestor-caceres-velasquez,Privada
+I_2018_general,Universidad Antonio Ruiz de Montoya,universidad antonio ruiz de montoya,080,080,Privada
+I_2018_general,Universidad José Carlos Mariátegui,universidad jose carlos mariategui,,X-universidad-jose-carlos-mariategui,Privada
+I_2018_general,Universidad Latinoamericana Cima,universidad latinoamericana cima,,X-universidad-latinoamericana-cima,Privada
+I_2018_general,Universidad Le Cordon Bleu,universidad le cordon bleu,104,104,Privada
+I_2018_general,Universidad María Auxiliadora,universidad maria auxiliadora,136,136,Privada
+I_2018_general,Universidad Marítima del Perú,universidad maritima del peru,,X-universidad-maritima-del-peru,Privada
+I_2018_general,Universidad Nacional Agraria de la Selva,universidad nacional agraria de la selva,022,022,Pública
+I_2018_general,Universidad Nacional Amazónica de Madre de Dios,universidad nacional amazonica de madre de dios,075,075,Pública
+I_2018_general,Universidad Nacional Autónoma de Chota,universidad nacional autonoma de chota,120,120,Pública
+I_2018_general,Universidad Nacional Daniel Alcides Carrión,universidad nacional daniel alcides carrion,026,026,Pública
+I_2018_general,Universidad Nacional de Barranca,universidad nacional de barranca,121,121,Pública
+I_2018_general,Universidad Nacional de Cajamarca,universidad nacional de cajamarca,016,016,Pública
+I_2018_general,Universidad Nacional de Cañete,universidad nacional de canete,122,122,Pública
+I_2018_general,Universidad Nacional de Educación Enrique Guzmán y Valle,universidad nacional de educacion enrique guzman y valle,025,025,Pública
+I_2018_general,Universidad Nacional de Frontera,universidad nacional de frontera,106,106,Pública
+I_2018_general,Universidad Nacional de Huancavelica,universidad nacional de huancavelica,,X-universidad-nacional-de-huancavelica,Pública
+I_2018_general,Universidad Nacional de Jaén,universidad nacional de jaen,101,101,Pública
+I_2018_general,Universidad Nacional de Juliaca,universidad nacional de juliaca,098,098,Pública
+I_2018_general,Universidad Nacional de Moquegua,universidad nacional de moquegua,095,095,Pública
+I_2018_general,Universidad Nacional de San Cristóbal de Huamanga,universidad nacional de san cristobal de huamanga,002,002,Pública
+I_2018_general,Universidad Nacional de San Martín,universidad nacional de san martin,034,034,Pública
+I_2018_general,Universidad Nacional de Ucayali,universidad nacional de ucayali,,X-universidad-nacional-de-ucayali,Pública
+I_2018_general,Universidad Autónoma de Ica SAC,universidad autonoma de ica,087,087,Privada
+I_2018_general,Universidad Autónoma del Perú,universidad autonoma del peru,096,096,Privada
+I_2018_general,Universidad Autónoma San Francisco,universidad autonoma san francisco,,X-universidad-autonoma-san-francisco,Privada
+I_2018_general,Universidad Católica de Trujillo Benedicto XVI,universidad catolica de trujillo benedicto xvi,074,074,Privada
+I_2018_general,Universidad Católica los Ángeles de Chimbote,universidad catolica los angeles de chimbote,,X-universidad-catolica-los-angeles-de-chimbote,Privada
+I_2018_general,Universidad Católica Santo Toribio de Mogrovejo,universidad catolica santo toribio de mogrovejo,069,069,Privada
+I_2018_general,Universidad Católica Sedes Sapientiae,universidad catolica sedes sapientiae,071,071,Privada
+I_2018_general,Universidad Ciencias de la Salud,universidad ciencias de la salud,,X-universidad-ciencias-de-la-salud,Privada
+I_2018_general,Universidad Científica del Perú,universidad cientifica del peru,,X-universidad-cientifica-del-peru,Privada
+I_2018_general,Universidad Continental,universidad continental,067,067,Privada
+I_2018_general,Universidad de Ayacucho Federico Froebel,universidad de ayacucho federico froebel,,X-universidad-de-ayacucho-federico-froebel,Privada
+I_2018_general,Universidad de Ciencias y Artes de América Latina,universidad de ciencias y artes de america latina,,X-universidad-de-ciencias-y-artes-de-america-latina,Privada
+I_2018_general,Universidad de Ciencias y Humanidades,universidad de ciencias y humanidades,097,097,Privada
+I_2018_general,Universidad de Huánuco,universidad de huanuco,047,047,Privada
+I_2018_general,Universidad de Ingeniería y Tecnología,universidad de ingenieria y tecnologia,132,132,Privada
+I_2018_general,Universidad de la Amazonía Mario Peláez Bazán,universidad de la amazonia mario pelaez bazan,,X-universidad-de-la-amazonia-mario-pelaez-bazan,Privada
+I_2018_general,Universidad de Lambayeque,universidad de lambayeque,,X-universidad-de-lambayeque,Privada
+I_2018_general,Universidad Femenina del Sagrado Corazón,universidad femenina del sagrado corazon,020,020,Privada
+I_2018_general,Universidad Global del Cusco,universidad global del cusco,,X-universidad-global-del-cusco,Privada
+I_2018_general,Universidad Inca Garcilaso de la Vega,universidad inca garcilaso de la vega,,X-universidad-inca-garcilaso-de-la-vega,Privada
+I_2018_general,Universidad Interamericana para el Desarrollo,universidad interamericana para el desarrollo,,X-universidad-interamericana-para-el-desarrollo,Privada
+I_2018_general,Universidad Jaime Bausate y Meza,universidad jaime bausate y meza,100,100,Privada
+I_2018_general,Universidad Peruana Simón Bolívar,universidad peruana simon bolivar,,X-universidad-peruana-simon-bolivar,Privada
+I_2018_general,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+I_2018_general,Universidad Privada Antonio Guillermo Urrelo,universidad privada antonio guillermo urrelo,,X-universidad-privada-antonio-guillermo-urrelo,Privada
+I_2018_general,Universidad Privada Arzobispo Loayza,universidad privada arzobispo loayza,,X-universidad-privada-arzobispo-loayza,Privada
+I_2018_general,Universidad Privada Autónoma del Sur,universidad privada autonoma del sur,,X-universidad-privada-autonoma-del-sur,Privada
+I_2018_general,Universidad Privada César Vallejo,universidad privada cesar vallejo,052,052,Privada
+I_2018_general,"Universidad Privada de Huancayo ""Franklin Roosevelt""",universidad privada de huancayo franklin roosevelt,105,105,Privada
+I_2018_general,Universidad Privada de Ica S.A.,universidad privada de ica,,X-universidad-privada-de-ica,Privada
+I_2018_general,Universidad Privada de La Selva Peruana,universidad privada de la selva peruana,,X-universidad-privada-de-la-selva-peruana,Privada
+I_2018_general,Universidad Privada de Pucallpa,universidad privada de pucallpa,,X-universidad-privada-de-pucallpa,Privada
+I_2018_general,Universidad Privada de Tacna,universidad privada de tacna,043,043,Privada
+I_2018_general,Universidad Privada de Trujillo,universidad privada de trujillo,,X-universidad-privada-de-trujillo,Privada
+I_2018_general,Universidad Privada Juan Mejía Baca,universidad privada juan mejia baca,,X-universidad-privada-juan-mejia-baca,Privada
+I_2018_general,Universidad Privada Juan Pablo II,universidad privada juan pablo ii,,X-universidad-privada-juan-pablo-ii,Privada
+I_2018_general,Universidad Privada Leonardo da Vinci S.A.C.,universidad privada leonardo da vinci,,X-universidad-privada-leonardo-da-vinci,Privada
+I_2018_general,Universidad Privada Líder Peruana,universidad privada lider peruana,,X-universidad-privada-lider-peruana,Privada
+I_2018_general,Universidad Privada Marcelino Champagnat,universidad privada marcelino champagnat,049,049,Privada
+I_2018_general,Universidad Privada Norbert Wiener,universidad privada norbert wiener,061,061,Privada
+I_2018_general,Universidad Privada San Carlos,universidad privada san carlos,,X-universidad-privada-san-carlos,Privada
+I_2018_general,Universidad Privada SISE,universidad privada sise,,X-universidad-privada-sise,Privada
+I_2018_general,Universidad Privada Telesup,universidad privada telesup,,X-universidad-privada-telesup,Privada
+I_2018_general,Universidad San Andrés,universidad san andres,,X-universidad-san-andres,Privada
+I_2018_general,Universidad San Pedro,universidad san pedro,,X-universidad-san-pedro,Privada
+I_2018_general,Universidad Santo Domingo de Guzmán,universidad santo domingo de guzman,,X-universidad-santo-domingo-de-guzman,Privada
+I_2018_general,Universidad Nacional del Centro del Perú,universidad nacional del centro del peru,010,010,Pública
+I_2018_general,Universidad Nacional del Santa,universidad nacional del santa,042,042,Pública
+I_2018_general,Universidad Nacional Hermilio Valdizán,universidad nacional hermilio valdizan,023,023,Pública
+I_2018_general,Universidad Nacional Intercultural de la Amazonía,universidad nacional intercultural de la amazonia,084,084,Pública
+I_2018_general,Universidad Nacional Jorge Basadre Grohmann,universidad nacional jorge basadre grohmann,032,032,Pública
+I_2018_general,Universidad Nacional José Faustino Sánchez Carrión,universidad nacional jose faustino sanchez carrion,028,028,Pública
+I_2018_general,Universidad Nacional José María Arguedas,universidad nacional jose maria arguedas,089,089,Pública
+I_2018_general,Universidad Nacional Micaela Bastidas De Apurímac,universidad nacional micaela bastidas de apurimac,077,077,Pública
+I_2018_general,Universidad Nacional San Luis Gonzaga de Ica,universidad nacional san luis gonzaga de ica,009,009,Pública
+I_2018_general,Universidad Nacional Santiago Antúnez de Mayolo,universidad nacional santiago antunez de mayolo,033,033,Pública
+I_2018_general,Universidad Nacional Tecnológica de Lima Sur,universidad nacional tecnologica de lima sur,088,088,Pública
+I_2018_general,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,universidad nacional toribio rodriguez de mendoza de amazonas,076,076,Pública
+I_2018_general,Universidad Para el Desarrollo Andino,universidad para el desarrollo andino,082,082,Privada
+I_2018_general,Universidad Particular de Chiclayo,universidad particular de chiclayo,,X-universidad-particular-de-chiclayo,Privada
+I_2018_general,Universidad Peruana Austral del Cusco,universidad peruana austral del cusco,,X-universidad-peruana-austral-del-cusco,Privada
+I_2018_general,Universidad Peruana de Arte Orval,universidad peruana de arte orval,,X-universidad-peruana-de-arte-orval,Privada
+I_2018_general,Universidad Peruana de Ciencias e Informática,universidad peruana de ciencias e informatica,,X-universidad-peruana-de-ciencias-e-informatica,Privada
+I_2018_general,Universidad Peruana de Integración Global,universidad peruana de integracion global,,X-universidad-peruana-de-integracion-global,Privada
+I_2018_general,Universidad Peruana de Investigación y Negocios,universidad peruana de investigacion y negocios,,X-universidad-peruana-de-investigacion-y-negocios,Privada
+I_2018_general,Universidad Peruana de las Américas,universidad peruana de las americas,,X-universidad-peruana-de-las-americas,Privada
+I_2018_general,Universidad Peruana del Centro,universidad peruana del centro,,X-universidad-peruana-del-centro,Privada
+I_2018_general,Universidad Peruana del Oriente S.A.C.,universidad peruana del oriente,,X-universidad-peruana-del-oriente,Privada
+I_2018_general,Universidad Peruana Los Andes,universidad peruana los andes,037,037,Privada
+II_2020_wos,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+II_2020_wos,Pontificia Universidad Católica del Perú,pontificia universidad catolica del peru,008,008,Privada
+II_2020_wos,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+II_2020_wos,Universidad de Ingeniería y Tecnología,universidad de ingenieria y tecnologia,132,132,Privada
+II_2020_wos,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+II_2020_wos,Universidad Científica del Sur,universidad cientifica del sur,068,068,Privada
+II_2020_wos,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+II_2020_wos,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+II_2020_wos,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+II_2020_wos,Universidad Peruana de Ciencias Aplicadas,universidad peruana de ciencias aplicadas,054,054,Privada
+II_2020_wos,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+II_2020_wos,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+II_2020_wos,Universidad de Piura,universidad de piura,029,029,Privada
+II_2020_wos,Universidad Nacional de San Agustín,universidad nacional de san agustin,005,005,Pública
+II_2020_wos,Universidad de Ciencias y Humanidades,universidad de ciencias y humanidades,097,097,Privada
+II_2020_wos,Universidad ESAN,universidad esan,079,079,Privada
+II_2020_wos,Universidad Ricardo Palma,universidad ricardo palma,030,030,Privada
+II_2020_wos,Universidad Católica San Pablo,universidad catolica san pablo,062,062,Privada
+II_2020_wos,Universidad Nacional de Trujillo,universidad nacional de trujillo,004,004,Pública
+II_2020_wos,Universidad Privada San Ignacio de Loyola,universidad privada san ignacio de loyola,057,057,Privada
+II_2020_wos,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,universidad nacional toribio rodriguez de mendoza de amazonas,076,076,Pública
+II_2020_wos,Universidad de Lima,universidad de lima,018,018,Privada
+II_2020_wos,Universidad La Salle,universidad la salle,133,133,Privada
+II_2020_wos,Universidad Nacional Santiago Antúnez de Mayolo,universidad nacional santiago antunez de mayolo,033,033,Pública
+II_2020_wos,Universidad Nacional del Altiplano,universidad nacional del altiplano,012,012,Pública
+II_2020_wos,Universidad Continental,universidad continental,067,067,Privada
+II_2020_wos,Universidad Nacional de Cajamarca,universidad nacional de cajamarca,016,016,Pública
+II_2020_wos,Universidad Católica de Santa María,universidad catolica de santa maria,015,015,Privada
+II_2020_wos,Universidad Privada del Norte,universidad privada del norte,055,055,Privada
+II_2020_wos,Universidad Privada Antenor Orrego,universidad privada antenor orrego,046,046,Privada
+II_2020_wos,Universidad Nacional de Huancavelica,universidad nacional de huancavelica,,X-universidad-nacional-de-huancavelica,Pública
+II_2020_wos,Universidad Privada San Juan Bautista S. A. C.,universidad privada san juan bautista,064,064,Privada
+II_2020_wos,Universidad Católica Sedes Sapientiae,universidad catolica sedes sapientiae,071,071,Privada
+II_2020_wos,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+II_2020_wos,Universidad Nacional Jorge Basadre Grohmann,universidad nacional jorge basadre grohmann,032,032,Pública
+II_2020_wos,Universidad Nacional Agraria de la Selva,universidad nacional agraria de la selva,022,022,Pública
+II_2020_wos,Universidad Privada de Tacna,universidad privada de tacna,043,043,Privada
+II_2020_wos,Universidad Nacional de Ucayali,universidad nacional de ucayali,,X-universidad-nacional-de-ucayali,Pública
+II_2020_wos,Universidad Nacional de San Cristóbal de Huamanga,universidad nacional de san cristobal de huamanga,002,002,Pública
+II_2020_wos,Universidad Nacional Tecnológica de Lima Sur,universidad nacional tecnologica de lima sur,088,088,Pública
+II_2020_wos,Universidad Antonio Ruiz de Montoya,universidad antonio ruiz de montoya,080,080,Privada
+II_2020_wos,Universidad Autónoma del Perú,universidad autonoma del peru,096,096,Privada
+II_2020_wos,Universidad Andina del Cusco,universidad andina del cusco,039,039,Privada
+II_2020_wos,Universidad Privada César Vallejo,universidad privada cesar vallejo,052,052,Privada
+II_2020_wos,Universidad Católica Santo Toribio de Mogrovejo,universidad catolica santo toribio de mogrovejo,069,069,Privada
+II_2020_scopus,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+II_2020_scopus,Pontificia Universidad Católica del Perú,pontificia universidad catolica del peru,008,008,Privada
+II_2020_scopus,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+II_2020_scopus,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+II_2020_scopus,Universidad Científica del Sur,universidad cientifica del sur,068,068,Privada
+II_2020_scopus,Universidad de Ingeniería y Tecnología,universidad de ingenieria y tecnologia,132,132,Privada
+II_2020_scopus,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+II_2020_scopus,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+II_2020_scopus,Universidad Peruana de Ciencias Aplicadas,universidad peruana de ciencias aplicadas,054,054,Privada
+II_2020_scopus,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+II_2020_scopus,Universidad de Ciencias y Humanidades,universidad de ciencias y humanidades,097,097,Privada
+II_2020_scopus,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+II_2020_scopus,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+II_2020_scopus,Universidad Nacional de San Agustín,universidad nacional de san agustin,005,005,Pública
+II_2020_scopus,Universidad de Piura,universidad de piura,029,029,Privada
+II_2020_scopus,Universidad Nacional de Trujillo,universidad nacional de trujillo,004,004,Pública
+II_2020_scopus,Universidad ESAN,universidad esan,079,079,Privada
+II_2020_scopus,Universidad Privada San Ignacio de Loyola,universidad privada san ignacio de loyola,057,057,Privada
+II_2020_scopus,Universidad Ricardo Palma,universidad ricardo palma,030,030,Privada
+II_2020_scopus,Universidad Católica San Pablo,universidad catolica san pablo,062,062,Privada
+II_2020_scopus,Universidad Continental,universidad continental,067,067,Privada
+II_2020_scopus,Universidad de Lima,universidad de lima,018,018,Privada
+II_2020_scopus,Universidad La Salle,universidad la salle,133,133,Privada
+II_2020_scopus,Universidad Privada del Norte,universidad privada del norte,055,055,Privada
+II_2020_scopus,Universidad Privada Antenor Orrego,universidad privada antenor orrego,046,046,Privada
+II_2020_scopus,Universidad Nacional del Altiplano,universidad nacional del altiplano,012,012,Pública
+II_2020_scopus,Universidad Nacional Intercultural de la Amazonía,universidad nacional intercultural de la amazonia,084,084,Pública
+II_2020_scopus,Universidad Nacional de Cajamarca,universidad nacional de cajamarca,016,016,Pública
+II_2020_scopus,Universidad Católica de Santa María,universidad catolica de santa maria,015,015,Privada
+II_2020_scopus,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,universidad nacional toribio rodriguez de mendoza de amazonas,076,076,Pública
+II_2020_scopus,Universidad Nacional de San Cristóbal de Huamanga,universidad nacional de san cristobal de huamanga,002,002,Pública
+II_2020_scopus,Universidad Nacional Santiago Antúnez de Mayolo,universidad nacional santiago antunez de mayolo,033,033,Pública
+II_2020_scopus,Universidad Nacional José María Arguedas,universidad nacional jose maria arguedas,089,089,Pública
+II_2020_scopus,Universidad Nacional Agraria de la Selva,universidad nacional agraria de la selva,022,022,Pública
+II_2020_scopus,Universidad Privada César Vallejo,universidad privada cesar vallejo,052,052,Privada
+II_2020_scopus,Universidad Nacional del Centro del Perú,universidad nacional del centro del peru,010,010,Pública
+II_2020_scopus,Universidad Nacional del Santa,universidad nacional del santa,042,042,Pública
+II_2020_scopus,Universidad Nacional Autónoma de Chota,universidad nacional autonoma de chota,120,120,Pública
+II_2020_scopus,Universidad Privada San Juan Bautista S. A. C.,universidad privada san juan bautista,064,064,Privada
+II_2020_scopus,Universidad Católica Santo Toribio de Mogrovejo,universidad catolica santo toribio de mogrovejo,069,069,Privada
+II_2020_scopus,Universidad Católica Sedes Sapientiae,universidad catolica sedes sapientiae,071,071,Privada
+II_2020_scopus,Universidad Nacional Daniel Alcides Carrión,universidad nacional daniel alcides carrion,026,026,Pública
+II_2020_scopus,Universidad Nacional de Ucayali,universidad nacional de ucayali,,X-universidad-nacional-de-ucayali,Pública
+II_2020_scopus,Universidad Nacional de Huancavelica,universidad nacional de huancavelica,,X-universidad-nacional-de-huancavelica,Pública
+II_2020_scopus,Universidad Nacional Jorge Basadre Grohmann,universidad nacional jorge basadre grohmann,032,032,Pública
+II_2020_scopus,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+II_2020_scopus,Universidad Privada de Tacna,universidad privada de tacna,043,043,Privada
+II_2020_scopus,Universidad Nacional de San Martín,universidad nacional de san martin,034,034,Pública
+II_2020_scopus,Universidad Nacional Hermilio Valdizán,universidad nacional hermilio valdizan,023,023,Pública
+II_2020_scopus,Universidad Autónoma del Perú,universidad autonoma del peru,096,096,Privada
+II_2020_scopus,Universidad Andina del Cusco,universidad andina del cusco,039,039,Privada
+II_2020_scopus,Universidad Antonio Ruiz de Montoya,universidad antonio ruiz de montoya,080,080,Privada
+II_2020_scopus,Universidad Nacional Tecnológica de Lima Sur,universidad nacional tecnologica de lima sur,088,088,Pública
+III_2021_historico,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+III_2021_historico,Pontificia Universidad Católica del Perú,pontificia universidad catolica del peru,008,008,Privada
+III_2021_historico,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+III_2021_historico,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+III_2021_historico,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+III_2021_historico,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+III_2021_historico,Universidad Peruana de Ciencias Aplicadas S.A.C.,universidad peruana de ciencias aplicadas,054,054,Privada
+III_2021_historico,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+III_2021_historico,Universidad Nacional de San Agustín de Arequipa,universidad nacional de san agustin de arequipa,005,005,Pública
+III_2021_historico,Universidad Científica del Sur S.A.C.,universidad cientifica del sur,068,068,Privada
+III_2021_historico,Universidad Nacional de Trujillo,universidad nacional de trujillo,004,004,Pública
+III_2021_historico,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+III_2021_historico,Universidad de Piura,universidad de piura,029,029,Privada
+III_2021_historico,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+III_2021_historico,Universidad de Lima,universidad de lima,018,018,Privada
+III_2021_historico,Universidad de Ingeniería y Tecnología,universidad de ingenieria y tecnologia,132,132,Privada
+III_2021_historico,Universidad Nacional del Altiplano,universidad nacional del altiplano,012,012,Pública
+III_2021_historico,Universidad San Ignacio de Loyola S.A.,universidad san ignacio de loyola,057,057,Privada
+III_2021_historico,Universidad Ricardo Palma,universidad ricardo palma,030,030,Privada
+III_2021_historico,Universidad ESAN,universidad esan,079,079,Privada
+III_2021_historico,Universidad Privada del Norte S.A.C.,universidad privada del norte,055,055,Privada
+III_2021_historico,Universidad Nacional Federico Villarreal,universidad nacional federico villarreal,021,021,Pública
+III_2021_historico,Universidad Católica de Santa María,universidad catolica de santa maria,015,015,Privada
+III_2021_historico,Universidad Nacional de Cajamarca,universidad nacional de cajamarca,016,016,Pública
+III_2021_historico,Universidad Católica San Pablo,universidad catolica san pablo,062,062,Privada
+III_2021_historico,Universidad Nacional de Piura,universidad nacional de piura,013,013,Pública
+III_2021_historico,Universidad Continental S.A.C.,universidad continental,067,067,Privada
+III_2021_historico,Universidad Nacional de San Cristóbal de Huamanga,universidad nacional de san cristobal de huamanga,002,002,Pública
+III_2021_historico,Universidad Nacional Agraria de la Selva,universidad nacional agraria de la selva,022,022,Pública
+III_2021_historico,Asociación Civil Universidad de Ciencias y Humanidades,universidad de ciencias y humanidades,097,097,Privada
+III_2021_historico,Universidad Privada Antenor Orrego,universidad privada antenor orrego,046,046,Privada
+III_2021_historico,Universidad Nacional Jorge Basadre Grohmann,universidad nacional jorge basadre grohmann,032,032,Pública
+III_2021_historico,Universidad Nacional del Callao,universidad nacional del callao,027,027,Pública
+III_2021_historico,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,universidad nacional toribio rodriguez de mendoza de amazonas,076,076,Pública
+III_2021_historico,Universidad Nacional Santiago Antúnez de Mayolo,universidad nacional santiago antunez de mayolo,033,033,Pública
+III_2021_historico,Universidad Nacional Amazónica de Madre de Dios,universidad nacional amazonica de madre de dios,075,075,Pública
+III_2021_historico,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+III_2021_historico,Universidad Nacional de Huancavelica,universidad nacional de huancavelica,,X-universidad-nacional-de-huancavelica,Pública
+III_2021_historico,Universidad Nacional de Tumbes,universidad nacional de tumbes,041,041,Pública
+III_2021_historico,Universidad Privada San Juan Bautista S.A.C.,universidad privada san juan bautista,064,064,Privada
+III_2021_historico,Universidad Nacional de Educación Enrique Guzmán y Valle,universidad nacional de educacion enrique guzman y valle,025,025,Pública
+III_2021_historico,Universidad César Vallejo S.A.C.,universidad cesar vallejo,052,052,Privada
+III_2021_historico,Universidad Nacional Micaela Bastidas de Apurímac,universidad nacional micaela bastidas de apurimac,077,077,Pública
+III_2021_historico,Universidad Católica Sedes Sapientiae,universidad catolica sedes sapientiae,071,071,Privada
+III_2021_historico,Universidad Andina del Cusco,universidad andina del cusco,039,039,Privada
+III_2021_historico,Universidad Nacional Hermilio Valdizán de Huánuco,universidad nacional hermilio valdizan de huanuco,023,023,Pública
+III_2021_historico,Universidad Antonio Ruiz de Montoya,universidad antonio ruiz de montoya,080,080,Privada
+III_2021_historico,Universidad Nacional de Ucayali,universidad nacional de ucayali,,X-universidad-nacional-de-ucayali,Pública
+III_2021_historico,Universidad Privada Norbert Wiener S.A.,universidad privada norbert wiener,061,061,Privada
+III_2021_historico,Universidad Señor de Sipán S.A.C.,universidad senor de sipan,072,072,Privada
+III_2021_historico,Universidad Privada de Tacna,universidad privada de tacna,043,043,Privada
+III_2021_historico,Universidad Tecnológica del Perú S.A.C.,universidad tecnologica del peru,065,065,Privada
+III_2021_historico,Universidad Nacional Tecnológica de Lima Sur,universidad nacional tecnologica de lima sur,088,088,Pública
+III_2021_historico,Universidad La Salle,universidad la salle,133,133,Privada
+III_2021_historico,Universidad Autónoma del Perú S.A.C.,universidad autonoma del peru,096,096,Privada
+III_2021_historico,Universidad Peruana Los Andes,universidad peruana los andes,037,037,Privada
+III_2021_historico,Universidad Católica Santo Toribio de Mogrovejo,universidad catolica santo toribio de mogrovejo,069,069,Privada
+III_2021_historico,Universidad María Auxiliadora S.A.C.,universidad maria auxiliadora,136,136,Privada
+III_2021_historico,Universidad Nacional de Cañete,universidad nacional de canete,122,122,Pública
+III_2021_historico,Universidad Nacional Intercultural de la Selva Central Juan Santos Atahualpa,universidad nacional intercultural de la selva central juan santos atahualpa,,X-universidad-nacional-intercultural-de-la-selva-central-juan-santos-atahualpa,Pública
+III_2021_historico,Universidad Nacional de Jaén,universidad nacional de jaen,101,101,Pública
+III_2021_historico,Universidad Femenina del Sagrado Corazón,universidad femenina del sagrado corazon,020,020,Privada
+III_2021_historico,Universidad para el Desarrollo Andino,universidad para el desarrollo andino,082,082,Privada
+III_2021_historico,Universidad de Ciencias y Artes de América Latina S.A.C.,universidad de ciencias y artes de america latina,,X-universidad-de-ciencias-y-artes-de-america-latina,Privada
+III_2021_historico,Universidad Nacional de Moquegua,universidad nacional de moquegua,095,095,Pública
+III_2021_historico,Facultad de Teología Pontificia y Civil de Lima,facultad de teologia pontificia y civil de lima,,X-facultad-de-teologia-pontificia-y-civil-de-lima,Privada
+III_2021_historico,Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo,universidad nacional autonoma de tayacaja daniel hernandez morillo,,X-universidad-nacional-autonoma-de-tayacaja-daniel-hernandez-morillo,Pública
+III_2021_historico,Universidad Nacional Intercultural Fabiola Salazar Leguía de Bagua,universidad nacional intercultural fabiola salazar leguia de bagua,,X-universidad-nacional-intercultural-fabiola-salazar-leguia-de-bagua,Pública
+III_2021_historico,Universidad Nacional Intercultural de Quillabamba,universidad nacional intercultural de quillabamba,,X-universidad-nacional-intercultural-de-quillabamba,Pública
+III_2021_historico,Universidad Le Cordon Bleu S.A.C.,universidad le cordon bleu,104,104,Privada
+III_2021_historico,Universidad Nacional del Centro del Perú,universidad nacional del centro del peru,010,010,Pública
+III_2021_historico,Universidad Tecnológica de los Andes,universidad tecnologica de los andes,040,040,Privada
+III_2021_historico,Universidad Nacional del Santa,universidad nacional del santa,042,042,Pública
+III_2021_historico,Escuela de Postgrado Neumann S.A.C.,escuela de postgrado neumann,,X-escuela-de-postgrado-neumann,Privada
+III_2021_historico,Universidad Marcelino Champagnat,universidad marcelino champagnat,049,049,Privada
+III_2021_historico,Universidad Nacional José Faustino Sánchez Carrión,universidad nacional jose faustino sanchez carrion,028,028,Pública
+III_2021_historico,Universidad Jaime Bausate y Meza,universidad jaime bausate y meza,100,100,Privada
+III_2021_historico,Universidad Nacional Autónoma Altoandina de Tarma,universidad nacional autonoma altoandina de tarma,,X-universidad-nacional-autonoma-altoandina-de-tarma,Pública
+III_2021_historico,Universidad Privada de Huancayo Franklin Roosevelt S.A.C.,universidad privada de huancayo franklin roosevelt,105,105,Privada
+III_2021_historico,Universidad Nacional Intercultural de la Amazonía,universidad nacional intercultural de la amazonia,084,084,Pública
+III_2021_historico,Universidad Nacional de Barranca,universidad nacional de barranca,121,121,Pública
+III_2021_historico,Universidad Nacional Autónoma de Chota,universidad nacional autonoma de chota,120,120,Pública
+III_2021_historico,Universidad Nacional Autónoma de Huanta,universidad nacional autonoma de huanta,,X-universidad-nacional-autonoma-de-huanta,Pública
+III_2021_historico,Universidad Católica de Trujillo Benedicto XVI,universidad catolica de trujillo benedicto xvi,074,074,Privada
+III_2021_historico,Universidad Nacional Daniel Alcides Carrión,universidad nacional daniel alcides carrion,026,026,Pública
+III_2021_historico,Escuela de Postgrado Gerens S.A.,escuela de postgrado gerens,,X-escuela-de-postgrado-gerens,Privada
+III_2021_historico,Universidad Nacional de Juliaca,universidad nacional de juliaca,098,098,Pública
+III_2021_historico,Universidad Nacional Autónoma de Alto Amazonas,universidad nacional autonoma de alto amazonas,126,126,Pública
+III_2021_historico,Universidad de Huánuco,universidad de huanuco,047,047,Privada
+III_2021_historico,Universidad Nacional José María Arguedas,universidad nacional jose maria arguedas,089,089,Pública
+III_2021_historico,Universidad Nacional de San Martín,universidad nacional de san martin,034,034,Pública
+III_2021_historico,Universidad Nacional de Frontera,universidad nacional de frontera,106,106,Pública
+III_2021_historico,Universidad Autónoma de Ica S.A.C.,universidad autonoma de ica,087,087,Privada
+III_2021_excelencia,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+III_2021_excelencia,Pontificia Universidad Católica del Perú,pontificia universidad catolica del peru,008,008,Privada
+III_2021_excelencia,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+III_2021_excelencia,Universidad Científica del Sur S.A.C.,universidad cientifica del sur,068,068,Privada
+III_2021_excelencia,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+III_2021_excelencia,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+III_2021_excelencia,Universidad Nacional de San Agustín de Arequipa,universidad nacional de san agustin de arequipa,005,005,Pública
+III_2021_excelencia,Universidad San Ignacio de Loyola S.A.,universidad san ignacio de loyola,057,057,Privada
+III_2021_excelencia,Universidad Peruana de Ciencias Aplicadas S.A.C.,universidad peruana de ciencias aplicadas,054,054,Privada
+III_2021_excelencia,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+III_2021_excelencia,Universidad de Lima,universidad de lima,018,018,Privada
+III_2021_excelencia,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+III_2021_excelencia,Universidad ESAN,universidad esan,079,079,Privada
+III_2021_excelencia,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+III_2021_excelencia,Universidad Privada del Norte S.A.C.,universidad privada del norte,055,055,Privada
+III_2021_excelencia,Universidad de Piura,universidad de piura,029,029,Privada
+III_2021_excelencia,Universidad Continental S.A.C.,universidad continental,067,067,Privada
+III_2021_excelencia,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+III_2021_excelencia,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+IV_2025,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+IV_2025,Universidad Nacional de San Agustín de Arequipa,universidad nacional de san agustin de arequipa,005,005,Pública
+IV_2025,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+IV_2025,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+IV_2025,Universidad Nacional de Trujillo,universidad nacional de trujillo,004,004,Pública
+IV_2025,Universidad Nacional Federico Villarreal,universidad nacional federico villarreal,021,021,Pública
+IV_2025,Universidad Nacional de Moquegua,universidad nacional de moquegua,095,095,Pública
+IV_2025,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+IV_2025,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,universidad nacional toribio rodriguez de mendoza de amazonas,076,076,Pública
+IV_2025,Universidad Nacional del Altiplano,universidad nacional del altiplano,012,012,Pública
+IV_2025,Universidad Nacional Hermilio Valdizán de Huánuco,universidad nacional hermilio valdizan de huanuco,023,023,Pública
+IV_2025,Universidad Nacional Jorge Basadre Grohmann,universidad nacional jorge basadre grohmann,032,032,Pública
+IV_2025,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+IV_2025,Universidad Nacional de Barranca,universidad nacional de barranca,121,121,Pública
+IV_2025,Universidad Nacional de Tumbes,universidad nacional de tumbes,041,041,Pública
+IV_2025,Universidad Nacional de Cajamarca,universidad nacional de cajamarca,016,016,Pública
+IV_2025,Universidad Nacional del Centro del Perú,universidad nacional del centro del peru,010,010,Pública
+IV_2025,Universidad Nacional Autónoma de Chota,universidad nacional autonoma de chota,120,120,Pública
+IV_2025,Universidad Nacional Amazónica de Madre de Dios,universidad nacional amazonica de madre de dios,075,075,Pública
+IV_2025,Universidad Nacional de San Cristóbal de Huamanga,universidad nacional de san cristobal de huamanga,002,002,Pública
+IV_2025,Universidad Nacional Santiago Antúnez de Mayolo,universidad nacional santiago antunez de mayolo,033,033,Pública
+IV_2025,Universidad Nacional Tecnológica de Lima Sur,universidad nacional tecnologica de lima sur,088,088,Pública
+IV_2025,Universidad Nacional de San Martín,universidad nacional de san martin,034,034,Pública
+IV_2025,Universidad Nacional de Piura,universidad nacional de piura,013,013,Pública
+IV_2025,Universidad Nacional del Santa,universidad nacional del santa,042,042,Pública
+IV_2025,Universidad Nacional de Educación Enrique Guzmán y Valle,universidad nacional de educacion enrique guzman y valle,025,025,Pública
+IV_2025,Universidad Nacional de Jaén,universidad nacional de jaen,101,101,Pública
+IV_2025,Universidad Nacional San Luis Gonzaga,universidad nacional san luis gonzaga,009,009,Pública
+IV_2025,Universidad Nacional José Faustino Sánchez Carrión,universidad nacional jose faustino sanchez carrion,028,028,Pública
+IV_2025,Universidad Nacional Micaela Bastidas de Apurímac,universidad nacional micaela bastidas de apurimac,077,077,Pública
+IV_2025,Universidad Nacional José María Arguedas,universidad nacional jose maria arguedas,089,089,Pública
+IV_2025,Universidad Nacional Daniel Alcides Carrión,universidad nacional daniel alcides carrion,026,026,Pública
+IV_2025,Universidad Nacional del Callao,universidad nacional del callao,027,027,Pública
+IV_2025,Universidad Nacional Agraria de la Selva,universidad nacional agraria de la selva,022,022,Pública
+IV_2025,Universidad Nacional de Frontera,universidad nacional de frontera,106,106,Pública
+IV_2025,Universidad Nacional de Cañete,universidad nacional de canete,122,122,Pública
+IV_2025,Universidad Nacional Intercultural de la Amazonía,universidad nacional intercultural de la amazonia,084,084,Pública
+IV_2025,Universidad Nacional Autónoma de Alto Amazonas,universidad nacional autonoma de alto amazonas,126,126,Pública
+IV_2025,Universidad Nacional de Juliaca,universidad nacional de juliaca,098,098,Pública
+IV_2025,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+IV_2025,Pontificia Universidad Católica Del Perú,pontificia universidad catolica del peru,008,008,Privada
+IV_2025,Universidad Científica Del Sur,universidad cientifica del sur,068,068,Privada
+IV_2025,Universidad Peruana de Ciencias Aplicadas,universidad peruana de ciencias aplicadas,054,054,Privada
+IV_2025,Universidad San Ignacio de Loyola,universidad san ignacio de loyola,057,057,Privada
+IV_2025,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+IV_2025,Universidad César Vallejo SAC,universidad cesar vallejo,052,052,Privada
+IV_2025,Universidad Continental SAC,universidad continental,067,067,Privada
+IV_2025,Universidad Ricardo Palma,universidad ricardo palma,030,030,Privada
+IV_2025,Universidad de Lima,universidad de lima,018,018,Privada
+IV_2025,Universidad Privada del Norte,universidad privada del norte,055,055,Privada
+IV_2025,Universidad Privada San Juan Bautista,universidad privada san juan bautista,064,064,Privada
+IV_2025,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+IV_2025,Universidad de Ingeniería y Tecnología,universidad de ingenieria y tecnologia,132,132,Privada
+IV_2025,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+IV_2025,Universidad Católica Santo Toribio de Mogrovejo,universidad catolica santo toribio de mogrovejo,069,069,Privada
+IV_2025,Universidad Femenina del Sagrado Corazón,universidad femenina del sagrado corazon,020,020,Privada
+IV_2025,Universidad Autónoma de Ica SAC,universidad autonoma de ica,087,087,Privada
+IV_2025,Universidad de Piura,universidad de piura,029,029,Privada
+IV_2025,Universidad Privada Norbert Wiener SA,universidad privada norbert wiener,061,061,Privada
+IV_2025,Universidad Antonio Ruiz de Montoya,universidad antonio ruiz de montoya,080,080,Privada
+IV_2025,Asociación Civil Universidad de Ciencias y Humanidades,universidad de ciencias y humanidades,097,097,Privada
+IV_2025,Universidad Católica de Santa María,universidad catolica de santa maria,015,015,Privada
+IV_2025,Universidad Católica de Trujillo Benedicto XVI,universidad catolica de trujillo benedicto xvi,074,074,Privada
+IV_2025,Universidad Señor de Sipán SAC,universidad senor de sipan,072,072,Privada
+IV_2025,Universidad Privada Antenor Orrego,universidad privada antenor orrego,046,046,Privada
+IV_2025,Universidad Privada de Tacna,universidad privada de tacna,043,043,Privada
+IV_2025,Universidad Autónoma del Perú SAC,universidad autonoma del peru,096,096,Privada
+IV_2025,Universidad Católica San Pablo,universidad catolica san pablo,062,062,Privada
+IV_2025,Universidad Privada de Huancayo Franklin Roosevelt,universidad privada de huancayo franklin roosevelt,105,105,Privada
+IV_2025,Universidad para el Desarrollo Andino,universidad para el desarrollo andino,082,082,Privada
+IV_2025,Universidad ESAN,universidad esan,079,079,Privada
+IV_2025,Universidad Tecnológica del Perú SAC,universidad tecnologica del peru,065,065,Privada
+IV_2025,Universidad Marcelino Champagnat,universidad marcelino champagnat,049,049,Privada
+IV_2025,Universidad María Auxiliadora SAC,universidad maria auxiliadora,136,136,Privada
+IV_2025,Universidad La Salle,universidad la salle,133,133,Privada
+IV_2025,Universidad Peruana Los Andes,universidad peruana los andes,037,037,Privada
+IV_2025,Universidad Le Cordon Bleu SAC,universidad le cordon bleu,104,104,Privada
+IV_2025,Universidad Andina del Cusco,universidad andina del cusco,039,039,Privada
+IV_2025,Universidad Católica Sedes Sapientiae,universidad catolica sedes sapientiae,071,071,Privada
+IV_2025,Universidad de Huánuco,universidad de huanuco,047,047,Privada
+IV_2025,Universidad Jaime Bausate y Meza,universidad jaime bausate y meza,100,100,Privada
+IV_2025,Universidad Tecnológica de los Andes,universidad tecnologica de los andes,040,040,Privada
+V_2026,Universidad Peruana Cayetano Heredia,universidad peruana cayetano heredia,014,014,Privada
+V_2026,Universidad de San Martín de Porres,universidad de san martin de porres,019,019,Privada
+V_2026,Pontificia Universidad Católica del Perú,pontificia universidad catolica del peru,008,008,Privada
+V_2026,Universidad de Ingeniería y Tecnología,universidad de ingenieria y tecnologia,132,132,Privada
+V_2026,Universidad Científica del Sur S.A.C.,universidad cientifica del sur,068,068,Privada
+V_2026,Universidad San Ignacio de Loyola S.R.L.,universidad san ignacio de loyola,057,057,Privada
+V_2026,Universidad César Vallejo S.A.C.,universidad cesar vallejo,052,052,Privada
+V_2026,Universidad del Pacífico,universidad del pacifico,017,017,Privada
+V_2026,Universidad Peruana de Ciencias Aplicadas S.A.C.,universidad peruana de ciencias aplicadas,054,054,Privada
+V_2026,Universidad Católica de Santa María,universidad catolica de santa maria,015,015,Privada
+V_2026,Universidad Ricardo Palma,universidad ricardo palma,030,030,Privada
+V_2026,Universidad Señor de Sipán S.A.C.,universidad senor de sipan,072,072,Privada
+V_2026,Universidad Peruana Unión,universidad peruana union,038,038,Privada
+V_2026,Universidad de Piura,universidad de piura,029,029,Privada
+V_2026,Universidad ESAN,universidad esan,079,079,Privada
+V_2026,Universidad de Lima,universidad de lima,018,018,Privada
+V_2026,Universidad Privada del Norte S.A.C.,universidad privada del norte,055,055,Privada
+V_2026,Universidad Continental S.A.C.,universidad continental,067,067,Privada
+V_2026,Universidad Católica San Pablo,universidad catolica san pablo,062,062,Privada
+V_2026,Universidad Privada San Juan Bautista S.A.C.,universidad privada san juan bautista,064,064,Privada
+V_2026,Universidad Le Cordon Bleu S.A.C.,universidad le cordon bleu,104,104,Privada
+V_2026,Universidad Privada Norbert Wiener S.A.,universidad privada norbert wiener,061,061,Privada
+V_2026,Universidad Antonio Ruiz de Montoya,universidad antonio ruiz de montoya,080,080,Privada
+V_2026,Universidad Tecnológica del Perú S.A.C.,universidad tecnologica del peru,065,065,Privada
+V_2026,Universidad Marcelino Champagnat,universidad marcelino champagnat,049,049,Privada
+V_2026,Universidad Femenina del Sagrado Corazón,universidad femenina del sagrado corazon,020,020,Privada
+V_2026,Universidad Andina del Cusco,universidad andina del cusco,039,039,Privada
+V_2026,Universidad La Salle,universidad la salle,133,133,Privada
+V_2026,Facultad de Teología Pontificia y Civil de Lima,facultad de teologia pontificia y civil de lima,,X-facultad-de-teologia-pontificia-y-civil-de-lima,Privada
+V_2026,Universidad Autónoma del Perú S.A.C.,universidad autonoma del peru,096,096,Privada
+V_2026,Universidad Católica Santo Toribio de Mogrovejo,universidad catolica santo toribio de mogrovejo,069,069,Privada
+V_2026,Universidad Privada de Tacna,universidad privada de tacna,043,043,Privada
+V_2026,Universidad de Huánuco,universidad de huanuco,047,047,Privada
+V_2026,Universidad Privada Antenor Orrego,universidad privada antenor orrego,046,046,Privada
+V_2026,Universidad Tecnológica de los Andes,universidad tecnologica de los andes,040,040,Privada
+V_2026,Asociación Civil Universidad de Ciencias y Humanidades,universidad de ciencias y humanidades,097,097,Privada
+V_2026,Universidad de Ciencias y Artes de América Latina S.A.C.,universidad de ciencias y artes de america latina,,X-universidad-de-ciencias-y-artes-de-america-latina,Privada
+V_2026,Universidad Autónoma de Ica S.A.C.,universidad autonoma de ica,087,087,Privada
+V_2026,Universidad Católica de Trujillo Benedicto XVI,universidad catolica de trujillo benedicto xvi,074,074,Privada
+V_2026,Universidad Jaime Bausate y Meza,universidad jaime bausate y meza,100,100,Privada
+V_2026,Universidad María Auxiliadora S.A.C.,universidad maria auxiliadora,136,136,Privada
+V_2026,Universidad Peruana Los Andes,universidad peruana los andes,037,037,Privada
+V_2026,Universidad Católica Sedes Sapientiae,universidad catolica sedes sapientiae,071,071,Privada
+V_2026,Universidad Privada de Huancayo Franklin Roosevelt S.A.C.,universidad privada de huancayo franklin roosevelt,105,105,Privada
+V_2026,Universidad para el Desarrollo Andino,universidad para el desarrollo andino,082,082,Privada
+V_2026,Universidad Nacional Agraria La Molina,universidad nacional agraria la molina,007,007,Pública
+V_2026,Universidad Nacional Mayor de San Marcos,universidad nacional mayor de san marcos,001,001,Pública
+V_2026,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,universidad nacional toribio rodriguez de mendoza de amazonas,076,076,Pública
+V_2026,Universidad Nacional José María Arguedas,universidad nacional jose maria arguedas,089,089,Pública
+V_2026,Universidad Nacional de la Amazonía Peruana,universidad nacional de la amazonia peruana,011,011,Pública
+V_2026,Universidad Nacional de San Agustín de Arequipa,universidad nacional de san agustin de arequipa,005,005,Pública
+V_2026,Universidad Nacional de Ingeniería,universidad nacional de ingenieria,006,006,Pública
+V_2026,Universidad Nacional Autónoma de Huanta,universidad nacional autonoma de huanta,,X-universidad-nacional-autonoma-de-huanta,Pública
+V_2026,Universidad Nacional de Moquegua,universidad nacional de moquegua,095,095,Pública
+V_2026,Universidad Nacional de Frontera,universidad nacional de frontera,106,106,Pública
+V_2026,Universidad Nacional de Jaén,universidad nacional de jaen,101,101,Pública
+V_2026,Universidad Nacional de Trujillo,universidad nacional de trujillo,004,004,Pública
+V_2026,Universidad Nacional de San Antonio Abad del Cusco,universidad nacional de san antonio abad del cusco,003,003,Pública
+V_2026,Universidad Nacional Tecnológica de Lima Sur,universidad nacional tecnologica de lima sur,088,088,Pública
+V_2026,Universidad Nacional Santiago Antúnez de Mayolo,universidad nacional santiago antunez de mayolo,033,033,Pública
+V_2026,Universidad Nacional del Altiplano,universidad nacional del altiplano,012,012,Pública
+V_2026,Universidad Nacional Hermilio Valdizán de Huánuco,universidad nacional hermilio valdizan de huanuco,023,023,Pública
+V_2026,Universidad Nacional Federico Villarreal,universidad nacional federico villarreal,021,021,Pública
+V_2026,Universidad Nacional de Barranca,universidad nacional de barranca,121,121,Pública
+V_2026,Universidad Nacional San Luis Gonzaga,universidad nacional san luis gonzaga,009,009,Pública
+V_2026,Universidad Nacional de San Martín,universidad nacional de san martin,034,034,Pública
+V_2026,Universidad Nacional del Centro del Perú,universidad nacional del centro del peru,010,010,Pública
+V_2026,Universidad Nacional de Piura,universidad nacional de piura,013,013,Pública
+V_2026,Universidad Nacional Intercultural de la Amazonía,universidad nacional intercultural de la amazonia,084,084,Pública
+V_2026,Universidad Nacional Amazónica de Madre de Dios,universidad nacional amazonica de madre de dios,075,075,Pública
+V_2026,Universidad Nacional de Juliaca,universidad nacional de juliaca,098,098,Pública
+V_2026,Universidad Nacional de Cañete,universidad nacional de canete,122,122,Pública
+V_2026,Universidad Nacional Daniel Alcides Carrión,universidad nacional daniel alcides carrion,026,026,Pública
+V_2026,Universidad Nacional del Callao,universidad nacional del callao,027,027,Pública
+V_2026,Universidad Nacional de Tumbes,universidad nacional de tumbes,041,041,Pública
+V_2026,Universidad Nacional Agraria de la Selva,universidad nacional agraria de la selva,022,022,Pública
+V_2026,Universidad Nacional Micaela Bastidas de Apurímac,universidad nacional micaela bastidas de apurimac,077,077,Pública
+V_2026,Universidad Nacional Autónoma de Alto Amazonas,universidad nacional autonoma de alto amazonas,126,126,Pública
+V_2026,Universidad Nacional de San Cristóbal de Huamanga,universidad nacional de san cristobal de huamanga,002,002,Pública
+V_2026,Universidad Nacional de Cajamarca,universidad nacional de cajamarca,016,016,Pública
+V_2026,Universidad Nacional Jorge Basadre Grohmann,universidad nacional jorge basadre grohmann,032,032,Pública
+V_2026,Universidad Nacional José Faustino Sánchez Carrión,universidad nacional jose faustino sanchez carrion,028,028,Pública
+V_2026,Universidad Nacional de Educación Enrique Guzmán y Valle,universidad nacional de educacion enrique guzman y valle,025,025,Pública
+V_2026,Universidad Nacional Autónoma de Chota,universidad nacional autonoma de chota,120,120,Pública
+V_2026,Universidad Nacional de Huancavelica,universidad nacional de huancavelica,,X-universidad-nacional-de-huancavelica,Pública
+V_2026,Universidad Nacional del Santa,universidad nacional del santa,042,042,Pública
+V_2026,Universidad Nacional de Ucayali,universidad nacional de ucayali,,X-universidad-nacional-de-ucayali,Pública

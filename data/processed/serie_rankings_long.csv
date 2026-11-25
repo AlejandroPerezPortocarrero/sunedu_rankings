@@ -1,0 +1,504 @@
+edicion,anio_publicacion,ranking_id,periodo_datos,ambito_ranking,grupo_comparabilidad,id_univ,codigo_sunedu,gestion,nombre_fuente,posicion_publicada,puntaje_publicado,con_dato,posicion_en_sector,n_en_sector,percentil_en_sector
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,008,008,Privada,Pontificia Universidad Católica del Perú,1.0,100.0,True,1.0,19,1.0
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,014,014,Privada,Universidad Peruana Cayetano Heredia,2.0,69.187,True,2.0,19,0.9473684210526316
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,068,068,Privada,Universidad Científica del Sur,8.0,19.865,True,3.0,19,0.8947368421052632
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,029,029,Privada,Universidad de Piura,9.0,14.843,True,4.0,19,0.8421052631578947
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,017,017,Privada,Universidad del Pacífico,10.0,11.088,True,5.0,19,0.7894736842105263
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,054,054,Privada,Universidad Peruana de Ciencias Aplicadas,12.0,9.976,True,6.0,19,0.736842105263158
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,019,019,Privada,Universidad de San Martín de Porres,14.0,8.183,True,7.0,19,0.6842105263157895
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,018,018,Privada,Universidad de Lima,15.0,7.585,True,8.0,19,0.631578947368421
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,079,079,Privada,Universidad ESAN,17.0,6.844,True,9.0,19,0.5789473684210527
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,030,030,Privada,Universidad Ricardo Palma,18.0,6.227,True,10.0,19,0.5263157894736843
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,062,062,Privada,Universidad Católica San Pablo,19.0,4.198,True,11.0,19,0.4736842105263158
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,057,057,Privada,Universidad Privada San Ignacio de Loyola,20.0,4.005,True,12.0,19,0.42105263157894735
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,015,015,Privada,Universidad Católica de Santa María,23.0,2.765,True,13.0,19,0.368421052631579
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,046,046,Privada,Universidad Privada Antenor Orrego,25.0,1.565,True,14.0,19,0.3157894736842105
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-alas-peruanas,,Privada,Universidad Alas Peruanas,27.0,0.819,True,15.0,19,0.26315789473684215
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,133,133,Privada,Universidad La Salle,29.0,0.42,True,16.0,19,0.21052631578947367
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,064,064,Privada,Universidad Privada San Juan Bautista S.A.C,30.0,0.292,True,17.0,19,0.1578947368421053
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,039,039,Privada,Universidad Andina del Cusco,31.0,0.281,True,18.0,19,0.10526315789473684
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,055,055,Privada,Universidad Privada del Norte,32.0,0.063,True,19.0,19,0.052631578947368474
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-andina-nestor-caceres-velasquez,,Privada,Universidad Andina Néstor Cáceres Velásquez,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,080,080,Privada,Universidad Antonio Ruiz de Montoya,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-jose-carlos-mariategui,,Privada,Universidad José Carlos Mariátegui,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-latinoamericana-cima,,Privada,Universidad Latinoamericana Cima,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,104,104,Privada,Universidad Le Cordon Bleu,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,136,136,Privada,Universidad María Auxiliadora,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-maritima-del-peru,,Privada,Universidad Marítima del Perú,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,087,087,Privada,Universidad Autónoma de Ica SAC,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,096,096,Privada,Universidad Autónoma del Perú,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-autonoma-san-francisco,,Privada,Universidad Autónoma San Francisco,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,074,074,Privada,Universidad Católica de Trujillo Benedicto XVI,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-catolica-los-angeles-de-chimbote,,Privada,Universidad Católica los Ángeles de Chimbote,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,069,069,Privada,Universidad Católica Santo Toribio de Mogrovejo,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,071,071,Privada,Universidad Católica Sedes Sapientiae,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-ciencias-de-la-salud,,Privada,Universidad Ciencias de la Salud,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-cientifica-del-peru,,Privada,Universidad Científica del Perú,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,067,067,Privada,Universidad Continental,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-de-ayacucho-federico-froebel,,Privada,Universidad de Ayacucho Federico Froebel,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-de-ciencias-y-artes-de-america-latina,,Privada,Universidad de Ciencias y Artes de América Latina,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,097,097,Privada,Universidad de Ciencias y Humanidades,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,047,047,Privada,Universidad de Huánuco,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,132,132,Privada,Universidad de Ingeniería y Tecnología,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-de-la-amazonia-mario-pelaez-bazan,,Privada,Universidad de la Amazonía Mario Peláez Bazán,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-de-lambayeque,,Privada,Universidad de Lambayeque,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,020,020,Privada,Universidad Femenina del Sagrado Corazón,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-global-del-cusco,,Privada,Universidad Global del Cusco,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-inca-garcilaso-de-la-vega,,Privada,Universidad Inca Garcilaso de la Vega,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-interamericana-para-el-desarrollo,,Privada,Universidad Interamericana para el Desarrollo,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,100,100,Privada,Universidad Jaime Bausate y Meza,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-simon-bolivar,,Privada,Universidad Peruana Simón Bolívar,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,038,038,Privada,Universidad Peruana Unión,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-antonio-guillermo-urrelo,,Privada,Universidad Privada Antonio Guillermo Urrelo,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-arzobispo-loayza,,Privada,Universidad Privada Arzobispo Loayza,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-autonoma-del-sur,,Privada,Universidad Privada Autónoma del Sur,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,052,052,Privada,Universidad Privada César Vallejo,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,105,105,Privada,"Universidad Privada de Huancayo ""Franklin Roosevelt""",33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-de-ica,,Privada,Universidad Privada de Ica S.A.,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-de-la-selva-peruana,,Privada,Universidad Privada de La Selva Peruana,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-de-pucallpa,,Privada,Universidad Privada de Pucallpa,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,043,043,Privada,Universidad Privada de Tacna,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-de-trujillo,,Privada,Universidad Privada de Trujillo,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-juan-mejia-baca,,Privada,Universidad Privada Juan Mejía Baca,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-juan-pablo-ii,,Privada,Universidad Privada Juan Pablo II,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-leonardo-da-vinci,,Privada,Universidad Privada Leonardo da Vinci S.A.C.,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-lider-peruana,,Privada,Universidad Privada Líder Peruana,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,049,049,Privada,Universidad Privada Marcelino Champagnat,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,061,061,Privada,Universidad Privada Norbert Wiener,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-san-carlos,,Privada,Universidad Privada San Carlos,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-sise,,Privada,Universidad Privada SISE,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-privada-telesup,,Privada,Universidad Privada Telesup,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-san-andres,,Privada,Universidad San Andrés,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-san-pedro,,Privada,Universidad San Pedro,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-santo-domingo-de-guzman,,Privada,Universidad Santo Domingo de Guzmán,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,082,082,Privada,Universidad Para el Desarrollo Andino,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-particular-de-chiclayo,,Privada,Universidad Particular de Chiclayo,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-austral-del-cusco,,Privada,Universidad Peruana Austral del Cusco,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-de-arte-orval,,Privada,Universidad Peruana de Arte Orval,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-de-ciencias-e-informatica,,Privada,Universidad Peruana de Ciencias e Informática,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-de-integracion-global,,Privada,Universidad Peruana de Integración Global,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-de-investigacion-y-negocios,,Privada,Universidad Peruana de Investigación y Negocios,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-de-las-americas,,Privada,Universidad Peruana de las Américas,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-del-centro,,Privada,Universidad Peruana del Centro,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-peruana-del-oriente,,Privada,Universidad Peruana del Oriente S.A.C.,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,037,037,Privada,Universidad Peruana Los Andes,33.0,0.0,False,,19,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,001,001,Pública,Universidad Nacional Mayor de San Marcos,3.0,54.548,True,1.0,13,1.0
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,007,007,Pública,Universidad Nacional Agraria La Molina,4.0,38.432,True,2.0,13,0.9230769230769231
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,006,006,Pública,Universidad Nacional de Ingeniería,5.0,26.086,True,3.0,13,0.8461538461538461
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,6.0,23.584,True,4.0,13,0.7692307692307692
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,004,004,Pública,Universidad Nacional de Trujillo,7.0,20.045,True,5.0,13,0.6923076923076923
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,012,012,Pública,Universidad Nacional del Altiplano,11.0,10.987,True,6.0,13,0.6153846153846154
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,011,011,Pública,Universidad Nacional de la Amazonía Peruana,13.0,9.671,True,7.0,13,0.5384615384615384
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,005,005,Pública,Universidad Nacional de San Agustín,16.0,7.562,True,8.0,13,0.46153846153846156
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,021,021,Pública,Universidad Nacional Federico Villarreal,21.0,3.909,True,9.0,13,0.3846153846153846
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,013,013,Pública,Universidad Nacional de Piura,22.0,3.097,True,10.0,13,0.3076923076923077
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-nacional-pedro-ruiz-gallo,,Pública,Universidad Nacional Pedro Ruiz Gallo,24.0,2.309,True,11.0,13,0.23076923076923073
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,027,027,Pública,Universidad Nacional del Callao,26.0,1.235,True,12.0,13,0.15384615384615385
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,041,041,Pública,Universidad Nacional de Tumbes,28.0,0.439,True,13.0,13,0.07692307692307687
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,022,022,Pública,Universidad Nacional Agraria de la Selva,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,075,075,Pública,Universidad Nacional Amazónica de Madre de Dios,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,120,120,Pública,Universidad Nacional Autónoma de Chota,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,026,026,Pública,Universidad Nacional Daniel Alcides Carrión,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,121,121,Pública,Universidad Nacional de Barranca,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,016,016,Pública,Universidad Nacional de Cajamarca,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,122,122,Pública,Universidad Nacional de Cañete,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,025,025,Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,106,106,Pública,Universidad Nacional de Frontera,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-nacional-de-huancavelica,,Pública,Universidad Nacional de Huancavelica,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,101,101,Pública,Universidad Nacional de Jaén,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,098,098,Pública,Universidad Nacional de Juliaca,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,095,095,Pública,Universidad Nacional de Moquegua,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,002,002,Pública,Universidad Nacional de San Cristóbal de Huamanga,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,034,034,Pública,Universidad Nacional de San Martín,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,X-universidad-nacional-de-ucayali,,Pública,Universidad Nacional de Ucayali,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,010,010,Pública,Universidad Nacional del Centro del Perú,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,042,042,Pública,Universidad Nacional del Santa,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,023,023,Pública,Universidad Nacional Hermilio Valdizán,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,084,084,Pública,Universidad Nacional Intercultural de la Amazonía,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,032,032,Pública,Universidad Nacional Jorge Basadre Grohmann,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,028,028,Pública,Universidad Nacional José Faustino Sánchez Carrión,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,089,089,Pública,Universidad Nacional José María Arguedas,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,077,077,Pública,Universidad Nacional Micaela Bastidas De Apurímac,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,009,009,Pública,Universidad Nacional San Luis Gonzaga de Ica,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,033,033,Pública,Universidad Nacional Santiago Antúnez de Mayolo,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,088,088,Pública,Universidad Nacional Tecnológica de Lima Sur,33.0,0.0,False,,13,
+I,2018,I_2018_general,Publicaciones 2014-2016; índice H 1996-2016,nacional,A_investigacion_nacional,076,076,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,33.0,0.0,False,,13,
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,014,014,Privada,Universidad Peruana Cayetano Heredia,1.0,100.0,True,1.0,28,1.0
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,008,008,Privada,Pontificia Universidad Católica del Perú,2.0,80.69,True,2.0,28,0.9642857142857143
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,068,068,Privada,Universidad Científica del Sur,5.0,35.14,True,3.0,28,0.9285714285714286
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,132,132,Privada,Universidad de Ingeniería y Tecnología,6.0,33.03,True,4.0,28,0.8928571428571429
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,054,054,Privada,Universidad Peruana de Ciencias Aplicadas,9.0,21.84,True,5.0,28,0.8571428571428572
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,017,017,Privada,Universidad del Pacífico,10.0,20.27,True,6.0,28,0.8214285714285714
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,097,097,Privada,Universidad de Ciencias y Humanidades,11.0,17.24,True,7.0,28,0.7857142857142857
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,019,019,Privada,Universidad de San Martín de Porres,13.0,13.39,True,8.0,28,0.75
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,029,029,Privada,Universidad de Piura,15.0,10.16,True,9.0,28,0.7142857142857143
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,079,079,Privada,Universidad ESAN,17.0,9.96,True,10.0,28,0.6785714285714286
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,057,057,Privada,Universidad Privada San Ignacio de Loyola,18.0,9.57,True,11.0,28,0.6428571428571428
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,030,030,Privada,Universidad Ricardo Palma,19.0,8.52,True,12.0,28,0.6071428571428572
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,062,062,Privada,Universidad Católica San Pablo,20.0,7.94,True,13.0,28,0.5714285714285714
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,067,067,Privada,Universidad Continental,21.0,6.44,True,14.0,28,0.5357142857142857
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,018,018,Privada,Universidad de Lima,22.0,5.7,True,15.0,28,0.5
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,133,133,Privada,Universidad La Salle,23.0,5.34,True,16.0,28,0.4642857142857143
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,055,055,Privada,Universidad Privada del Norte,24.0,5.11,True,17.0,28,0.4285714285714286
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,046,046,Privada,Universidad Privada Antenor Orrego,25.0,4.87,True,18.0,28,0.3928571428571429
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,015,015,Privada,Universidad Católica de Santa María,29.0,4.37,True,19.0,28,0.3571428571428571
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,052,052,Privada,Universidad Privada César Vallejo,35.0,2.72,True,20.0,28,0.3214285714285714
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,064,064,Privada,Universidad Privada San Juan Bautista S. A. C.,39.0,2.5,True,21.0,28,0.2857142857142857
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,069,069,Privada,Universidad Católica Santo Toribio de Mogrovejo,40.0,2.36,True,22.0,28,0.25
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,071,071,Privada,Universidad Católica Sedes Sapientiae,41.0,2.21,True,23.0,28,0.2142857142857143
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,038,038,Privada,Universidad Peruana Unión,46.0,1.74,True,24.0,28,0.1785714285714286
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,043,043,Privada,Universidad Privada de Tacna,47.0,1.72,True,25.0,28,0.1428571428571429
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,096,096,Privada,Universidad Autónoma del Perú,50.0,1.34,True,26.0,28,0.1071428571428571
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,039,039,Privada,Universidad Andina del Cusco,51.0,1.33,True,27.0,28,0.0714285714285714
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,080,080,Privada,Universidad Antonio Ruiz de Montoya,52.0,0.65,True,28.0,28,0.0357142857142857
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,001,001,Pública,Universidad Nacional Mayor de San Marcos,3.0,46.68,True,1.0,25,1.0
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,007,007,Pública,Universidad Nacional Agraria La Molina,4.0,35.78,True,2.0,25,0.96
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,006,006,Pública,Universidad Nacional de Ingeniería,7.0,27.95,True,3.0,25,0.92
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,8.0,26.31,True,4.0,25,0.88
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,011,011,Pública,Universidad Nacional de la Amazonía Peruana,12.0,16.12,True,5.0,25,0.84
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,005,005,Pública,Universidad Nacional de San Agustín,14.0,12.04,True,6.0,25,0.8
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,004,004,Pública,Universidad Nacional de Trujillo,16.0,10.05,True,7.0,25,0.76
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,012,012,Pública,Universidad Nacional del Altiplano,26.0,4.59,True,8.0,25,0.72
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,084,084,Pública,Universidad Nacional Intercultural de la Amazonía,27.0,4.52,True,9.0,25,0.6799999999999999
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,016,016,Pública,Universidad Nacional de Cajamarca,28.0,4.41,True,10.0,25,0.64
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,076,076,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,30.0,4.03,True,11.0,25,0.6
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,002,002,Pública,Universidad Nacional de San Cristóbal de Huamanga,31.0,3.6,True,12.0,25,0.56
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,033,033,Pública,Universidad Nacional Santiago Antúnez de Mayolo,32.0,3.51,True,13.0,25,0.52
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,089,089,Pública,Universidad Nacional José María Arguedas,33.0,3.44,True,14.0,25,0.48
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,022,022,Pública,Universidad Nacional Agraria de la Selva,34.0,2.75,True,15.0,25,0.43999999999999995
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,010,010,Pública,Universidad Nacional del Centro del Perú,36.0,2.67,True,16.0,25,0.4
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,042,042,Pública,Universidad Nacional del Santa,37.0,2.65,True,17.0,25,0.36
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,120,120,Pública,Universidad Nacional Autónoma de Chota,38.0,2.56,True,18.0,25,0.31999999999999995
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,026,026,Pública,Universidad Nacional Daniel Alcides Carrión,42.0,2.15,True,19.0,25,0.28
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,X-universidad-nacional-de-ucayali,,Pública,Universidad Nacional de Ucayali,43.0,2.0,True,20.0,25,0.24
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,X-universidad-nacional-de-huancavelica,,Pública,Universidad Nacional de Huancavelica,44.0,1.91,True,21.0,25,0.19999999999999996
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,032,032,Pública,Universidad Nacional Jorge Basadre Grohmann,45.0,1.85,True,22.0,25,0.16000000000000003
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,034,034,Pública,Universidad Nacional de San Martín,48.0,1.43,True,23.0,25,0.12
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,023,023,Pública,Universidad Nacional Hermilio Valdizán,49.0,1.43,True,23.0,25,0.12
+II,2020,II_2020_scopus,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,088,088,Pública,Universidad Nacional Tecnológica de Lima Sur,53.0,0.2,True,25.0,25,0.040000000000000036
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,014,014,Privada,Universidad Peruana Cayetano Heredia,1.0,100.0,True,1.0,28,1.0
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,008,008,Privada,Pontificia Universidad Católica del Perú,2.0,81.04,True,2.0,28,0.9642857142857143
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,132,132,Privada,Universidad de Ingeniería y Tecnología,4.0,46.43,True,3.0,28,0.9285714285714286
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,068,068,Privada,Universidad Científica del Sur,6.0,39.93,True,4.0,28,0.8928571428571429
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,017,017,Privada,Universidad del Pacífico,7.0,30.02,True,5.0,28,0.8571428571428572
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,054,054,Privada,Universidad Peruana de Ciencias Aplicadas,10.0,23.82,True,6.0,28,0.8214285714285714
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,019,019,Privada,Universidad de San Martín de Porres,12.0,14.97,True,7.0,28,0.7857142857142857
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,029,029,Privada,Universidad de Piura,13.0,14.06,True,8.0,28,0.75
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,097,097,Privada,Universidad de Ciencias y Humanidades,15.0,13.15,True,9.0,28,0.7142857142857143
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,079,079,Privada,Universidad ESAN,16.0,10.75,True,10.0,28,0.6785714285714286
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,030,030,Privada,Universidad Ricardo Palma,17.0,10.23,True,11.0,28,0.6428571428571428
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,062,062,Privada,Universidad Católica San Pablo,18.0,10.16,True,12.0,28,0.6071428571428572
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,057,057,Privada,Universidad Privada San Ignacio de Loyola,20.0,8.6,True,13.0,28,0.5714285714285714
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,018,018,Privada,Universidad de Lima,22.0,6.55,True,14.0,28,0.5357142857142857
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,133,133,Privada,Universidad La Salle,23.0,5.76,True,15.0,28,0.5
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,067,067,Privada,Universidad Continental,26.0,5.23,True,16.0,28,0.4642857142857143
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,015,015,Privada,Universidad Católica de Santa María,28.0,5.0,True,17.0,28,0.4285714285714286
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,055,055,Privada,Universidad Privada del Norte,29.0,4.77,True,18.0,28,0.3928571428571429
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,046,046,Privada,Universidad Privada Antenor Orrego,30.0,4.65,True,19.0,28,0.3571428571428571
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,064,064,Privada,Universidad Privada San Juan Bautista S. A. C.,32.0,3.37,True,20.0,28,0.3214285714285714
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,071,071,Privada,Universidad Católica Sedes Sapientiae,33.0,2.94,True,21.0,28,0.2857142857142857
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,038,038,Privada,Universidad Peruana Unión,34.0,2.93,True,22.0,28,0.25
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,043,043,Privada,Universidad Privada de Tacna,37.0,2.2,True,23.0,28,0.2142857142857143
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,080,080,Privada,Universidad Antonio Ruiz de Montoya,41.0,1.64,True,24.0,28,0.1785714285714286
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,096,096,Privada,Universidad Autónoma del Perú,42.0,1.6,True,25.0,28,0.1428571428571429
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,039,039,Privada,Universidad Andina del Cusco,43.0,1.54,True,26.0,28,0.1071428571428571
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,052,052,Privada,Universidad Privada César Vallejo,44.0,1.2,True,27.0,28,0.0714285714285714
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,069,069,Privada,Universidad Católica Santo Toribio de Mogrovejo,45.0,0.12,True,28.0,28,0.0357142857142857
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,001,001,Pública,Universidad Nacional Mayor de San Marcos,3.0,49.94,True,1.0,17,1.0
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,007,007,Pública,Universidad Nacional Agraria La Molina,5.0,41.87,True,2.0,17,0.9411764705882353
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,8.0,27.52,True,3.0,17,0.8823529411764706
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,006,006,Pública,Universidad Nacional de Ingeniería,9.0,24.05,True,4.0,17,0.8235294117647058
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,011,011,Pública,Universidad Nacional de la Amazonía Peruana,11.0,17.18,True,5.0,17,0.7647058823529411
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,005,005,Pública,Universidad Nacional de San Agustín,14.0,13.46,True,6.0,17,0.7058823529411764
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,004,004,Pública,Universidad Nacional de Trujillo,19.0,9.09,True,7.0,17,0.6470588235294117
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,076,076,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,21.0,6.74,True,8.0,17,0.5882352941176471
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,033,033,Pública,Universidad Nacional Santiago Antúnez de Mayolo,24.0,5.71,True,9.0,17,0.5294117647058824
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,012,012,Pública,Universidad Nacional del Altiplano,25.0,5.43,True,10.0,17,0.47058823529411764
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,016,016,Pública,Universidad Nacional de Cajamarca,27.0,5.11,True,11.0,17,0.4117647058823529
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,X-universidad-nacional-de-huancavelica,,Pública,Universidad Nacional de Huancavelica,31.0,4.03,True,12.0,17,0.3529411764705882
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,032,032,Pública,Universidad Nacional Jorge Basadre Grohmann,35.0,2.7,True,13.0,17,0.2941176470588235
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,022,022,Pública,Universidad Nacional Agraria de la Selva,36.0,2.64,True,14.0,17,0.23529411764705888
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,X-universidad-nacional-de-ucayali,,Pública,Universidad Nacional de Ucayali,38.0,2.04,True,15.0,17,0.17647058823529416
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,002,002,Pública,Universidad Nacional de San Cristóbal de Huamanga,39.0,1.89,True,16.0,17,0.11764705882352944
+II,2020,II_2020_wos,Publicaciones 2016-2018; H5 2014-2018,nacional,A_investigacion_nacional,088,088,Pública,Universidad Nacional Tecnológica de Lima Sur,40.0,1.78,True,17.0,17,0.05882352941176472
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,014,014,Privada,Universidad Peruana Cayetano Heredia,1.0,100.0,True,1.0,13,1.0
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,008,008,Privada,Pontificia Universidad Católica del Perú,2.0,81.04,True,2.0,13,0.9230769230769231
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,068,068,Privada,Universidad Científica del Sur S.A.C.,4.0,29.19,True,3.0,13,0.8461538461538461
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,017,017,Privada,Universidad del Pacífico,5.0,25.8,True,4.0,13,0.7692307692307692
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,057,057,Privada,Universidad San Ignacio de Loyola S.A.,8.0,17.85,True,5.0,13,0.6923076923076923
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,054,054,Privada,Universidad Peruana de Ciencias Aplicadas S.A.C.,9.0,17.42,True,6.0,13,0.6153846153846154
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,019,019,Privada,Universidad de San Martín de Porres,10.0,14.97,True,7.0,13,0.5384615384615384
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,018,018,Privada,Universidad de Lima,11.0,14.94,True,8.0,13,0.46153846153846156
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,079,079,Privada,Universidad ESAN,13.0,8.08,True,9.0,13,0.3846153846153846
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,038,038,Privada,Universidad Peruana Unión,14.0,4.94,True,10.0,13,0.3076923076923077
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,055,055,Privada,Universidad Privada del Norte S.A.C.,15.0,4.17,True,11.0,13,0.23076923076923073
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,029,029,Privada,Universidad de Piura,16.0,3.79,True,12.0,13,0.15384615384615385
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,067,067,Privada,Universidad Continental S.A.C.,17.0,3.4,True,13.0,13,0.07692307692307687
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,001,001,Pública,Universidad Nacional Mayor de San Marcos,3.0,58.62,True,1.0,6,1.0
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,007,007,Pública,Universidad Nacional Agraria La Molina,6.0,25.38,True,2.0,6,0.8333333333333334
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,005,005,Pública,Universidad Nacional de San Agustín de Arequipa,7.0,19.94,True,3.0,6,0.6666666666666667
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,006,006,Pública,Universidad Nacional de Ingeniería,12.0,14.35,True,4.0,6,0.5
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,18.0,0.02,True,5.0,6,0.33333333333333337
+III,2021,III_2021_excelencia,Nature/Science 2016-2020; SCIE/SSCI 2020; premios históricos,nacional,X_excelencia_ARWU,011,011,Pública,Universidad Nacional de la Amazonía Peruana,19.0,0.0,True,6.0,6,0.16666666666666663
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,014,014,Privada,Universidad Peruana Cayetano Heredia,1.0,100.0,True,1.0,33,1.0
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,008,008,Privada,Pontificia Universidad Católica del Perú,2.0,78.25,True,2.0,33,0.9696969696969697
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,054,054,Privada,Universidad Peruana de Ciencias Aplicadas S.A.C.,7.0,15.65,True,3.0,33,0.9393939393939394
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,068,068,Privada,Universidad Científica del Sur S.A.C.,10.0,12.03,True,4.0,33,0.9090909090909091
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,019,019,Privada,Universidad de San Martín de Porres,12.0,10.21,True,5.0,33,0.8787878787878788
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,029,029,Privada,Universidad de Piura,13.0,9.2,True,6.0,33,0.8484848484848485
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,017,017,Privada,Universidad del Pacífico,14.0,9.16,True,7.0,33,0.8181818181818181
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,018,018,Privada,Universidad de Lima,15.0,8.54,True,8.0,33,0.7878787878787878
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,132,132,Privada,Universidad de Ingeniería y Tecnología,16.0,8.05,True,9.0,33,0.7575757575757576
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,057,057,Privada,Universidad San Ignacio de Loyola S.A.,18.0,6.15,True,10.0,33,0.7272727272727273
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,030,030,Privada,Universidad Ricardo Palma,19.0,5.86,True,11.0,33,0.696969696969697
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,079,079,Privada,Universidad ESAN,20.0,5.74,True,12.0,33,0.6666666666666667
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,055,055,Privada,Universidad Privada del Norte S.A.C.,21.0,5.36,True,13.0,33,0.6363636363636364
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,015,015,Privada,Universidad Católica de Santa María,23.0,4.29,True,14.0,33,0.6060606060606061
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,062,062,Privada,Universidad Católica San Pablo,25.0,3.84,True,15.0,33,0.5757575757575757
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,067,067,Privada,Universidad Continental S.A.C.,27.0,3.61,True,16.0,33,0.5454545454545454
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,097,097,Privada,Asociación Civil Universidad de Ciencias y Humanidades,30.0,2.85,True,17.0,33,0.5151515151515151
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,046,046,Privada,Universidad Privada Antenor Orrego,31.0,2.79,True,18.0,33,0.48484848484848486
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,038,038,Privada,Universidad Peruana Unión,37.0,1.86,True,19.0,33,0.4545454545454546
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,064,064,Privada,Universidad Privada San Juan Bautista S.A.C.,40.0,1.43,True,20.0,33,0.4242424242424242
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,052,052,Privada,Universidad César Vallejo S.A.C.,42.0,1.32,True,21.0,33,0.3939393939393939
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,071,071,Privada,Universidad Católica Sedes Sapientiae,44.0,1.07,True,22.0,33,0.36363636363636365
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,039,039,Privada,Universidad Andina del Cusco,45.0,0.94,True,23.0,33,0.33333333333333337
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,080,080,Privada,Universidad Antonio Ruiz de Montoya,47.0,0.76,True,24.0,33,0.303030303030303
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,061,061,Privada,Universidad Privada Norbert Wiener S.A.,49.0,0.7,True,25.0,33,0.2727272727272727
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,072,072,Privada,Universidad Señor de Sipán S.A.C.,50.0,0.61,True,26.0,33,0.24242424242424243
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,043,043,Privada,Universidad Privada de Tacna,51.0,0.6,True,27.0,33,0.21212121212121215
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,065,065,Privada,Universidad Tecnológica del Perú S.A.C.,52.0,0.55,True,28.0,33,0.18181818181818177
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,133,133,Privada,Universidad La Salle,54.0,0.39,True,29.0,33,0.1515151515151515
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,096,096,Privada,Universidad Autónoma del Perú S.A.C.,55.0,0.37,True,30.0,33,0.12121212121212122
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,037,037,Privada,Universidad Peruana Los Andes,56.0,0.34,True,31.0,33,0.09090909090909094
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,069,069,Privada,Universidad Católica Santo Toribio de Mogrovejo,57.0,0.16,True,32.0,33,0.06060606060606055
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,136,136,Privada,Universidad María Auxiliadora S.A.C.,58.0,0.0,True,33.0,33,0.030303030303030276
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,020,020,Privada,Universidad Femenina del Sagrado Corazón,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,082,082,Privada,Universidad para el Desarrollo Andino,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-de-ciencias-y-artes-de-america-latina,,Privada,Universidad de Ciencias y Artes de América Latina S.A.C.,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-facultad-de-teologia-pontificia-y-civil-de-lima,,Privada,Facultad de Teología Pontificia y Civil de Lima,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,104,104,Privada,Universidad Le Cordon Bleu S.A.C.,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,040,040,Privada,Universidad Tecnológica de los Andes,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-escuela-de-postgrado-neumann,,Privada,Escuela de Postgrado Neumann S.A.C.,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,049,049,Privada,Universidad Marcelino Champagnat,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,100,100,Privada,Universidad Jaime Bausate y Meza,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,105,105,Privada,Universidad Privada de Huancayo Franklin Roosevelt S.A.C.,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,074,074,Privada,Universidad Católica de Trujillo Benedicto XVI,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-escuela-de-postgrado-gerens,,Privada,Escuela de Postgrado Gerens S.A.,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,047,047,Privada,Universidad de Huánuco,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,087,087,Privada,Universidad Autónoma de Ica S.A.C.,,,False,,33,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,001,001,Pública,Universidad Nacional Mayor de San Marcos,3.0,54.72,True,1.0,25,1.0
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,006,006,Pública,Universidad Nacional de Ingeniería,4.0,25.3,True,2.0,25,0.96
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,007,007,Pública,Universidad Nacional Agraria La Molina,5.0,24.9,True,3.0,25,0.92
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,6.0,23.1,True,4.0,25,0.88
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,011,011,Pública,Universidad Nacional de la Amazonía Peruana,8.0,13.01,True,5.0,25,0.84
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,005,005,Pública,Universidad Nacional de San Agustín de Arequipa,9.0,12.04,True,6.0,25,0.8
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,004,004,Pública,Universidad Nacional de Trujillo,11.0,11.49,True,7.0,25,0.76
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,012,012,Pública,Universidad Nacional del Altiplano,17.0,7.16,True,8.0,25,0.72
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,021,021,Pública,Universidad Nacional Federico Villarreal,22.0,4.77,True,9.0,25,0.6799999999999999
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,016,016,Pública,Universidad Nacional de Cajamarca,24.0,3.86,True,10.0,25,0.64
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,013,013,Pública,Universidad Nacional de Piura,26.0,3.71,True,11.0,25,0.6
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,002,002,Pública,Universidad Nacional de San Cristóbal de Huamanga,28.0,2.91,True,12.0,25,0.56
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,022,022,Pública,Universidad Nacional Agraria de la Selva,29.0,2.89,True,13.0,25,0.52
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,032,032,Pública,Universidad Nacional Jorge Basadre Grohmann,32.0,2.74,True,14.0,25,0.48
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,027,027,Pública,Universidad Nacional del Callao,33.0,2.64,True,15.0,25,0.43999999999999995
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,076,076,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,34.0,2.49,True,16.0,25,0.4
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,033,033,Pública,Universidad Nacional Santiago Antúnez de Mayolo,35.0,2.4,True,17.0,25,0.36
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,075,075,Pública,Universidad Nacional Amazónica de Madre de Dios,36.0,2.19,True,18.0,25,0.31999999999999995
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-de-huancavelica,,Pública,Universidad Nacional de Huancavelica,38.0,1.77,True,19.0,25,0.28
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,041,041,Pública,Universidad Nacional de Tumbes,39.0,1.54,True,20.0,25,0.24
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,025,025,Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,41.0,1.33,True,21.0,25,0.19999999999999996
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,077,077,Pública,Universidad Nacional Micaela Bastidas de Apurímac,43.0,1.19,True,22.0,25,0.16000000000000003
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,023,023,Pública,Universidad Nacional Hermilio Valdizán de Huánuco,46.0,0.8,True,23.0,25,0.12
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-de-ucayali,,Pública,Universidad Nacional de Ucayali,48.0,0.75,True,24.0,25,0.07999999999999996
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,088,088,Pública,Universidad Nacional Tecnológica de Lima Sur,53.0,0.46,True,25.0,25,0.040000000000000036
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,122,122,Pública,Universidad Nacional de Cañete,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-intercultural-de-la-selva-central-juan-santos-atahualpa,,Pública,Universidad Nacional Intercultural de la Selva Central Juan Santos Atahualpa,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,101,101,Pública,Universidad Nacional de Jaén,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,095,095,Pública,Universidad Nacional de Moquegua,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-autonoma-de-tayacaja-daniel-hernandez-morillo,,Pública,Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-intercultural-fabiola-salazar-leguia-de-bagua,,Pública,Universidad Nacional Intercultural Fabiola Salazar Leguía de Bagua,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-intercultural-de-quillabamba,,Pública,Universidad Nacional Intercultural de Quillabamba,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,010,010,Pública,Universidad Nacional del Centro del Perú,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,042,042,Pública,Universidad Nacional del Santa,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,028,028,Pública,Universidad Nacional José Faustino Sánchez Carrión,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-autonoma-altoandina-de-tarma,,Pública,Universidad Nacional Autónoma Altoandina de Tarma,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,084,084,Pública,Universidad Nacional Intercultural de la Amazonía,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,121,121,Pública,Universidad Nacional de Barranca,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,120,120,Pública,Universidad Nacional Autónoma de Chota,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,X-universidad-nacional-autonoma-de-huanta,,Pública,Universidad Nacional Autónoma de Huanta,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,026,026,Pública,Universidad Nacional Daniel Alcides Carrión,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,098,098,Pública,Universidad Nacional de Juliaca,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,126,126,Pública,Universidad Nacional Autónoma de Alto Amazonas,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,089,089,Pública,Universidad Nacional José María Arguedas,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,034,034,Pública,Universidad Nacional de San Martín,,,False,,25,
+III,2021,III_2021_historico,Publicaciones y citas 1980-2020,nacional,A_investigacion_nacional,106,106,Pública,Universidad Nacional de Frontera,,,False,,25,
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,014,014,Privada,Universidad Peruana Cayetano Heredia,1.0,100.0,True,1.0,43,1.0
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,008,008,Privada,Pontificia Universidad Católica Del Perú,2.0,78.4,True,2.0,43,0.9767441860465116
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,068,068,Privada,Universidad Científica Del Sur,3.0,47.7,True,3.0,43,0.9534883720930233
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,054,054,Privada,Universidad Peruana de Ciencias Aplicadas,4.0,35.5,True,4.0,43,0.9302325581395349
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,057,057,Privada,Universidad San Ignacio de Loyola,5.0,24.1,True,5.0,43,0.9069767441860466
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,019,019,Privada,Universidad de San Martín de Porres,6.0,24.0,True,6.0,43,0.8837209302325582
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,052,052,Privada,Universidad César Vallejo SAC,7.0,21.3,True,7.0,43,0.8604651162790697
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,067,067,Privada,Universidad Continental SAC,8.0,17.8,True,8.0,43,0.8372093023255813
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,030,030,Privada,Universidad Ricardo Palma,9.0,17.7,True,9.0,43,0.813953488372093
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,018,018,Privada,Universidad de Lima,10.0,17.1,True,10.0,43,0.7906976744186046
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,055,055,Privada,Universidad Privada del Norte,11.0,16.4,True,11.0,43,0.7674418604651163
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,064,064,Privada,Universidad Privada San Juan Bautista,12.0,16.2,True,12.0,43,0.7441860465116279
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,038,038,Privada,Universidad Peruana Unión,13.0,14.2,True,13.0,43,0.7209302325581395
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,132,132,Privada,Universidad de Ingeniería y Tecnología,14.0,13.8,True,14.0,43,0.6976744186046512
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,017,017,Privada,Universidad del Pacífico,15.0,13.8,True,15.0,43,0.6744186046511628
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,069,069,Privada,Universidad Católica Santo Toribio de Mogrovejo,16.0,12.6,True,16.0,43,0.6511627906976745
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,020,020,Privada,Universidad Femenina del Sagrado Corazón,17.0,11.0,True,17.0,43,0.627906976744186
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,087,087,Privada,Universidad Autónoma de Ica SAC,18.0,10.9,True,18.0,43,0.6046511627906976
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,029,029,Privada,Universidad de Piura,19.0,10.8,True,19.0,43,0.5813953488372092
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,061,061,Privada,Universidad Privada Norbert Wiener SA,20.0,10.5,True,20.0,43,0.5581395348837209
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,080,080,Privada,Universidad Antonio Ruiz de Montoya,21.0,10.0,True,21.0,43,0.5348837209302326
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,097,097,Privada,Asociación Civil Universidad de Ciencias y Humanidades,22.0,9.9,True,22.0,43,0.5116279069767442
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,015,015,Privada,Universidad Católica de Santa María,23.0,9.5,True,23.0,43,0.4883720930232558
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,074,074,Privada,Universidad Católica de Trujillo Benedicto XVI,24.0,9.4,True,24.0,43,0.4651162790697675
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,072,072,Privada,Universidad Señor de Sipán SAC,25.0,9.0,True,25.0,43,0.4418604651162791
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,046,046,Privada,Universidad Privada Antenor Orrego,26.0,8.6,True,26.0,43,0.41860465116279066
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,043,043,Privada,Universidad Privada de Tacna,27.0,8.5,True,27.0,43,0.39534883720930236
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,096,096,Privada,Universidad Autónoma del Perú SAC,28.0,7.4,True,28.0,43,0.37209302325581395
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,062,062,Privada,Universidad Católica San Pablo,29.0,7.4,True,29.0,43,0.34883720930232553
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,105,105,Privada,Universidad Privada de Huancayo Franklin Roosevelt,30.0,7.2,True,30.0,43,0.32558139534883723
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,082,082,Privada,Universidad para el Desarrollo Andino,31.0,7.1,True,31.0,43,0.3023255813953488
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,079,079,Privada,Universidad ESAN,32.0,7.0,True,32.0,43,0.2790697674418605
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,065,065,Privada,Universidad Tecnológica del Perú SAC,33.0,6.5,True,33.0,43,0.2558139534883721
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,049,049,Privada,Universidad Marcelino Champagnat,34.0,6.2,True,34.0,43,0.2325581395348837
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,136,136,Privada,Universidad María Auxiliadora SAC,35.0,5.6,True,35.0,43,0.2093023255813954
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,133,133,Privada,Universidad La Salle,36.0,5.0,True,36.0,43,0.18604651162790697
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,037,037,Privada,Universidad Peruana Los Andes,37.0,3.2,True,37.0,43,0.16279069767441856
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,104,104,Privada,Universidad Le Cordon Bleu SAC,38.0,1.8,True,38.0,43,0.13953488372093026
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,039,039,Privada,Universidad Andina del Cusco,39.0,1.7,True,39.0,43,0.11627906976744184
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,071,071,Privada,Universidad Católica Sedes Sapientiae,40.0,1.4,True,40.0,43,0.09302325581395354
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,047,047,Privada,Universidad de Huánuco,41.0,0.9,True,41.0,43,0.06976744186046513
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,100,100,Privada,Universidad Jaime Bausate y Meza,42.0,0.7,True,42.0,43,0.046511627906976716
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,040,040,Privada,Universidad Tecnológica de los Andes,43.0,0.0,True,43.0,43,0.023255813953488413
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,001,001,Pública,Universidad Nacional Mayor de San Marcos,1.0,100.0,True,1.0,39,1.0
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,005,005,Pública,Universidad Nacional de San Agustín de Arequipa,2.0,41.3,True,2.0,39,0.9743589743589743
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,006,006,Pública,Universidad Nacional de Ingeniería,3.0,35.3,True,3.0,39,0.9487179487179487
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,007,007,Pública,Universidad Nacional Agraria La Molina,4.0,34.5,True,4.0,39,0.9230769230769231
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,004,004,Pública,Universidad Nacional de Trujillo,5.0,29.7,True,5.0,39,0.8974358974358975
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,021,021,Pública,Universidad Nacional Federico Villarreal,6.0,25.2,True,6.0,39,0.8717948717948718
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,095,095,Pública,Universidad Nacional de Moquegua,7.0,22.7,True,7.0,39,0.8461538461538461
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,8.0,19.1,True,8.0,39,0.8205128205128205
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,076,076,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,9.0,18.3,True,9.0,39,0.7948717948717949
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,012,012,Pública,Universidad Nacional del Altiplano,10.0,16.6,True,10.0,39,0.7692307692307692
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,023,023,Pública,Universidad Nacional Hermilio Valdizán de Huánuco,11.0,16.2,True,11.0,39,0.7435897435897436
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,032,032,Pública,Universidad Nacional Jorge Basadre Grohmann,12.0,16.0,True,12.0,39,0.717948717948718
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,011,011,Pública,Universidad Nacional de la Amazonía Peruana,13.0,15.2,True,13.0,39,0.6923076923076923
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,121,121,Pública,Universidad Nacional de Barranca,14.0,14.9,True,14.0,39,0.6666666666666667
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,041,041,Pública,Universidad Nacional de Tumbes,15.0,14.9,True,15.0,39,0.641025641025641
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,016,016,Pública,Universidad Nacional de Cajamarca,16.0,14.5,True,16.0,39,0.6153846153846154
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,010,010,Pública,Universidad Nacional del Centro del Perú,17.0,13.9,True,17.0,39,0.5897435897435898
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,120,120,Pública,Universidad Nacional Autónoma de Chota,18.0,12.2,True,18.0,39,0.5641025641025641
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,075,075,Pública,Universidad Nacional Amazónica de Madre de Dios,19.0,11.5,True,19.0,39,0.5384615384615384
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,002,002,Pública,Universidad Nacional de San Cristóbal de Huamanga,20.0,11.0,True,20.0,39,0.5128205128205128
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,033,033,Pública,Universidad Nacional Santiago Antúnez de Mayolo,21.0,10.9,True,21.0,39,0.4871794871794872
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,088,088,Pública,Universidad Nacional Tecnológica de Lima Sur,22.0,10.7,True,22.0,39,0.46153846153846156
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,034,034,Pública,Universidad Nacional de San Martín,23.0,10.5,True,23.0,39,0.4358974358974359
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,013,013,Pública,Universidad Nacional de Piura,24.0,10.3,True,24.0,39,0.41025641025641024
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,042,042,Pública,Universidad Nacional del Santa,25.0,9.5,True,25.0,39,0.3846153846153846
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,025,025,Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,26.0,9.3,True,26.0,39,0.3589743589743589
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,101,101,Pública,Universidad Nacional de Jaén,27.0,9.2,True,27.0,39,0.33333333333333337
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,009,009,Pública,Universidad Nacional San Luis Gonzaga,28.0,8.6,True,28.0,39,0.3076923076923077
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,028,028,Pública,Universidad Nacional José Faustino Sánchez Carrión,29.0,7.7,True,29.0,39,0.28205128205128205
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,077,077,Pública,Universidad Nacional Micaela Bastidas de Apurímac,30.0,7.0,True,30.0,39,0.2564102564102564
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,089,089,Pública,Universidad Nacional José María Arguedas,31.0,6.9,True,31.0,39,0.23076923076923073
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,026,026,Pública,Universidad Nacional Daniel Alcides Carrión,32.0,6.4,True,32.0,39,0.20512820512820518
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,027,027,Pública,Universidad Nacional del Callao,33.0,4.1,True,33.0,39,0.17948717948717952
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,022,022,Pública,Universidad Nacional Agraria de la Selva,34.0,4.1,True,34.0,39,0.15384615384615385
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,106,106,Pública,Universidad Nacional de Frontera,35.0,3.9,True,35.0,39,0.1282051282051282
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,122,122,Pública,Universidad Nacional de Cañete,36.0,3.5,True,36.0,39,0.10256410256410253
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,084,084,Pública,Universidad Nacional Intercultural de la Amazonía,37.0,1.4,True,37.0,39,0.07692307692307687
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,126,126,Pública,Universidad Nacional Autónoma de Alto Amazonas,38.0,0.9,True,38.0,39,0.05128205128205132
+IV,2025,IV_2025,Ámbito formativo 2021-2022; publicaciones Scopus 2018-2022,por_sector,B_multidimensional_por_sector,098,098,Pública,Universidad Nacional de Juliaca,39.0,0.0,True,39.0,39,0.02564102564102566
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,014,014,Privada,Universidad Peruana Cayetano Heredia,1.0,100.0,True,1.0,45,1.0
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,019,019,Privada,Universidad de San Martín de Porres,2.0,77.15,True,2.0,45,0.9777777777777777
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,008,008,Privada,Pontificia Universidad Católica del Perú,3.0,76.04,True,3.0,45,0.9555555555555556
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,132,132,Privada,Universidad de Ingeniería y Tecnología,4.0,61.74,True,4.0,45,0.9333333333333333
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,068,068,Privada,Universidad Científica del Sur S.A.C.,5.0,56.14,True,5.0,45,0.9111111111111111
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,057,057,Privada,Universidad San Ignacio de Loyola S.R.L.,6.0,52.5,True,6.0,45,0.8888888888888888
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,052,052,Privada,Universidad César Vallejo S.A.C.,7.0,50.51,True,7.0,45,0.8666666666666667
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,017,017,Privada,Universidad del Pacífico,8.0,47.9,True,8.0,45,0.8444444444444444
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,054,054,Privada,Universidad Peruana de Ciencias Aplicadas S.A.C.,9.0,45.71,True,9.0,45,0.8222222222222222
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,015,015,Privada,Universidad Católica de Santa María,10.0,42.77,True,10.0,45,0.8
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,030,030,Privada,Universidad Ricardo Palma,11.0,38.39,True,11.0,45,0.7777777777777778
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,072,072,Privada,Universidad Señor de Sipán S.A.C.,12.0,38.31,True,12.0,45,0.7555555555555555
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,038,038,Privada,Universidad Peruana Unión,13.0,37.52,True,13.0,45,0.7333333333333334
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,029,029,Privada,Universidad de Piura,14.0,36.6,True,14.0,45,0.7111111111111111
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,079,079,Privada,Universidad ESAN,15.0,36.09,True,15.0,45,0.6888888888888889
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,018,018,Privada,Universidad de Lima,16.0,33.31,True,16.0,45,0.6666666666666667
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,055,055,Privada,Universidad Privada del Norte S.A.C.,17.0,31.34,True,17.0,45,0.6444444444444444
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,067,067,Privada,Universidad Continental S.A.C.,18.0,30.13,True,18.0,45,0.6222222222222222
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,062,062,Privada,Universidad Católica San Pablo,19.0,29.36,True,19.0,45,0.6
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,064,064,Privada,Universidad Privada San Juan Bautista S.A.C.,20.0,28.57,True,20.0,45,0.5777777777777777
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,104,104,Privada,Universidad Le Cordon Bleu S.A.C.,21.0,28.24,True,21.0,45,0.5555555555555556
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,061,061,Privada,Universidad Privada Norbert Wiener S.A.,22.0,28.05,True,22.0,45,0.5333333333333333
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,080,080,Privada,Universidad Antonio Ruiz de Montoya,23.0,27.66,True,23.0,45,0.5111111111111111
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,065,065,Privada,Universidad Tecnológica del Perú S.A.C.,24.0,27.31,True,24.0,45,0.48888888888888893
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,049,049,Privada,Universidad Marcelino Champagnat,25.0,26.57,True,25.0,45,0.4666666666666667
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,020,020,Privada,Universidad Femenina del Sagrado Corazón,26.0,25.32,True,26.0,45,0.4444444444444444
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,039,039,Privada,Universidad Andina del Cusco,27.0,24.85,True,27.0,45,0.4222222222222223
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,133,133,Privada,Universidad La Salle,28.0,24.69,True,28.0,45,0.4
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,X-facultad-de-teologia-pontificia-y-civil-de-lima,,Privada,Facultad de Teología Pontificia y Civil de Lima,29.0,24.04,True,29.0,45,0.37777777777777777
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,096,096,Privada,Universidad Autónoma del Perú S.A.C.,30.0,23.95,True,30.0,45,0.3555555555555555
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,069,069,Privada,Universidad Católica Santo Toribio de Mogrovejo,31.0,22.34,True,31.0,45,0.33333333333333337
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,043,043,Privada,Universidad Privada de Tacna,32.0,21.32,True,32.0,45,0.3111111111111111
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,047,047,Privada,Universidad de Huánuco,33.0,20.09,True,33.0,45,0.28888888888888886
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,046,046,Privada,Universidad Privada Antenor Orrego,34.0,18.48,True,34.0,45,0.2666666666666667
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,040,040,Privada,Universidad Tecnológica de los Andes,35.0,18.28,True,35.0,45,0.24444444444444446
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,097,097,Privada,Asociación Civil Universidad de Ciencias y Humanidades,36.0,15.08,True,36.0,45,0.2222222222222222
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,X-universidad-de-ciencias-y-artes-de-america-latina,,Privada,Universidad de Ciencias y Artes de América Latina S.A.C.,37.0,14.41,True,37.0,45,0.19999999999999996
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,087,087,Privada,Universidad Autónoma de Ica S.A.C.,38.0,13.19,True,38.0,45,0.1777777777777778
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,074,074,Privada,Universidad Católica de Trujillo Benedicto XVI,39.0,12.71,True,39.0,45,0.15555555555555556
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,100,100,Privada,Universidad Jaime Bausate y Meza,40.0,11.67,True,40.0,45,0.1333333333333333
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,136,136,Privada,Universidad María Auxiliadora S.A.C.,41.0,11.46,True,41.0,45,0.11111111111111116
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,037,037,Privada,Universidad Peruana Los Andes,42.0,11.08,True,42.0,45,0.0888888888888889
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,071,071,Privada,Universidad Católica Sedes Sapientiae,43.0,10.94,True,43.0,45,0.06666666666666665
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,105,105,Privada,Universidad Privada de Huancayo Franklin Roosevelt S.A.C.,44.0,9.3,True,44.0,45,0.0444444444444444
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,082,082,Privada,Universidad para el Desarrollo Andino,45.0,1.0,True,45.0,45,0.022222222222222254
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,007,007,Pública,Universidad Nacional Agraria La Molina,1.0,100.0,True,1.0,42,1.0
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,001,001,Pública,Universidad Nacional Mayor de San Marcos,2.0,93.75,True,2.0,42,0.9761904761904762
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,076,076,Pública,Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas,3.0,81.84,True,3.0,42,0.9523809523809523
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,089,089,Pública,Universidad Nacional José María Arguedas,4.0,74.51,True,4.0,42,0.9285714285714286
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,011,011,Pública,Universidad Nacional de la Amazonía Peruana,5.0,71.91,True,5.0,42,0.9047619047619048
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,005,005,Pública,Universidad Nacional de San Agustín de Arequipa,6.0,71.23,True,6.0,42,0.8809523809523809
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,006,006,Pública,Universidad Nacional de Ingeniería,7.0,69.05,True,7.0,42,0.8571428571428572
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,X-universidad-nacional-autonoma-de-huanta,,Pública,Universidad Nacional Autónoma de Huanta,8.0,68.82,True,8.0,42,0.8333333333333334
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,095,095,Pública,Universidad Nacional de Moquegua,9.0,68.26,True,9.0,42,0.8095238095238095
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,106,106,Pública,Universidad Nacional de Frontera,10.0,64.79,True,10.0,42,0.7857142857142857
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,101,101,Pública,Universidad Nacional de Jaén,11.0,59.32,True,11.0,42,0.7619047619047619
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,004,004,Pública,Universidad Nacional de Trujillo,12.0,59.11,True,12.0,42,0.7380952380952381
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,003,003,Pública,Universidad Nacional de San Antonio Abad del Cusco,13.0,58.56,True,13.0,42,0.7142857142857143
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,088,088,Pública,Universidad Nacional Tecnológica de Lima Sur,14.0,56.73,True,14.0,42,0.6904761904761905
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,033,033,Pública,Universidad Nacional Santiago Antúnez de Mayolo,15.0,55.48,True,15.0,42,0.6666666666666667
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,012,012,Pública,Universidad Nacional del Altiplano,16.0,55.4,True,16.0,42,0.6428571428571428
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,023,023,Pública,Universidad Nacional Hermilio Valdizán de Huánuco,17.0,53.51,True,17.0,42,0.6190476190476191
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,021,021,Pública,Universidad Nacional Federico Villarreal,18.0,53.37,True,18.0,42,0.5952380952380952
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,121,121,Pública,Universidad Nacional de Barranca,19.0,52.55,True,19.0,42,0.5714285714285714
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,009,009,Pública,Universidad Nacional San Luis Gonzaga,20.0,51.62,True,20.0,42,0.5476190476190477
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,034,034,Pública,Universidad Nacional de San Martín,21.0,51.32,True,21.0,42,0.5238095238095238
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,010,010,Pública,Universidad Nacional del Centro del Perú,22.0,51.25,True,22.0,42,0.5
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,013,013,Pública,Universidad Nacional de Piura,23.0,50.03,True,23.0,42,0.47619047619047616
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,084,084,Pública,Universidad Nacional Intercultural de la Amazonía,24.0,48.81,True,24.0,42,0.45238095238095233
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,075,075,Pública,Universidad Nacional Amazónica de Madre de Dios,25.0,47.67,True,25.0,42,0.4285714285714286
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,098,098,Pública,Universidad Nacional de Juliaca,26.0,46.66,True,26.0,42,0.40476190476190477
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,122,122,Pública,Universidad Nacional de Cañete,27.0,43.15,True,27.0,42,0.38095238095238093
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,026,026,Pública,Universidad Nacional Daniel Alcides Carrión,28.0,42.75,True,28.0,42,0.3571428571428571
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,027,027,Pública,Universidad Nacional del Callao,29.0,40.41,True,29.0,42,0.33333333333333337
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,041,041,Pública,Universidad Nacional de Tumbes,30.0,40.38,True,30.0,42,0.30952380952380953
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,022,022,Pública,Universidad Nacional Agraria de la Selva,31.0,38.84,True,31.0,42,0.2857142857142857
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,077,077,Pública,Universidad Nacional Micaela Bastidas de Apurímac,32.0,37.63,True,32.0,42,0.26190476190476186
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,126,126,Pública,Universidad Nacional Autónoma de Alto Amazonas,33.0,36.61,True,33.0,42,0.23809523809523814
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,002,002,Pública,Universidad Nacional de San Cristóbal de Huamanga,34.0,35.97,True,34.0,42,0.2142857142857143
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,016,016,Pública,Universidad Nacional de Cajamarca,35.0,35.27,True,35.0,42,0.19047619047619047
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,032,032,Pública,Universidad Nacional Jorge Basadre Grohmann,36.0,34.77,True,36.0,42,0.16666666666666663
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,028,028,Pública,Universidad Nacional José Faustino Sánchez Carrión,37.0,34.15,True,37.0,42,0.1428571428571429
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,025,025,Pública,Universidad Nacional de Educación Enrique Guzmán y Valle,38.0,22.8,True,38.0,42,0.11904761904761907
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,120,120,Pública,Universidad Nacional Autónoma de Chota,39.0,5.83,True,39.0,42,0.09523809523809523
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,X-universidad-nacional-de-huancavelica,,Pública,Universidad Nacional de Huancavelica,40.0,4.23,True,40.0,42,0.0714285714285714
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,042,042,Pública,Universidad Nacional del Santa,41.0,1.63,True,41.0,42,0.04761904761904767
+V,2026,V_2026,2023-2024 (semestres 2023-I a 2024-II),por_sector,B_multidimensional_por_sector,X-universidad-nacional-de-ucayali,,Pública,Universidad Nacional de Ucayali,42.0,1.0,True,42.0,42,0.023809523809523836
