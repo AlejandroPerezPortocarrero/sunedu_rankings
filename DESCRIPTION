@@ -1,0 +1,32 @@
+Package: sunedurankings
+Type: Package
+Title: Rankings Universitarios de los Informes Bienales de SUNEDU, 2018-2026
+Version: 1.0.0
+Authors@R:
+    person("Alejandro", "Pérez Portocarrero",
+           email = "alejandroperezportocarrero@gmail.com",
+           role = c("aut", "cre"))
+Description: Serie histórica de los rankings universitarios publicados por la
+    Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) en
+    sus cinco Informes Bienales sobre la realidad universitaria en el Perú
+    (2018, 2020, 2021, 2025 y 2026). Incluye la transcripción de cada tabla
+    publicada, la metodología de cada edición (indicadores, pesos, fuentes,
+    ventanas y universo), un identificador único por universidad, la réplica
+    de los puntajes a partir de los indicadores publicados y análisis de
+    comparabilidad y robustez para distinguir el progreso de las universidades
+    de los cambios de metodología.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+LazyData: true
+LazyDataCompression: xz
+Depends:
+    R (>= 3.5.0)
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+URL: https://github.com/AlejandroPerezPortocarrero/sunedu_rankings
+BugReports: https://github.com/AlejandroPerezPortocarrero/sunedu_rankings/issues

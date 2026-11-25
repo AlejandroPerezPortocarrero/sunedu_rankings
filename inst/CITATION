@@ -1,0 +1,14 @@
+bibentry(
+  bibtype = "Manual",
+  title = "sunedu_rankings (paquete de R sunedurankings): Rankings universitarios de los Informes Bienales de SUNEDU, 2018-2026",
+  author = person("Alejandro", "Pérez Portocarrero"),
+  year = "2026",
+  note = "Paquete de R y base de datos, versión 1.0.0",
+  url = "https://github.com/AlejandroPerezPortocarrero/sunedu_rankings",
+  textVersion = paste(
+    "Pérez Portocarrero, A. (2026).",
+    "sunedu_rankings (paquete de R sunedurankings): Rankings universitarios",
+    "de los Informes Bienales de SUNEDU, 2018-2026. Versión 1.0.0.",
+    "https://github.com/AlejandroPerezPortocarrero/sunedu_rankings"
+  )
+)

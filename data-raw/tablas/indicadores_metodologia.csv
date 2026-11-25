@@ -1,0 +1,41 @@
+ranking_id,ambito,sigla,indicador,peso_pct,fuente,ventana,tipo_medida,sentido,definicion_resumida
+I_2018_general,Investigación (x6 áreas OCDE),PUB,Número de publicaciones (solo articles) en WoS Core Collection,25 (dentro de cada área),WoS / InCites,2014-2016,volumen,ascendente,"Artículos de investigación originales en SCI, SSCI y A&HCI"
+I_2018_general,Investigación (x6 áreas OCDE),DOC,Número de documentos citables,25 (dentro de cada área),WoS / InCites,2014-2016,volumen,ascendente,Todos los tipos de documento citables de WoS
+I_2018_general,Investigación (x6 áreas OCDE),H,Índice H de la universidad,25 (dentro de cada área),WoS / InCites,Documentos 1996-2016; citas al 08/09/2017,volumen e impacto,ascendente,Índice h institucional
+I_2018_general,Investigación (x6 áreas OCDE),TOP10,Número de artículos en el 10% más citado (por área y año),25 (dentro de cada área),WoS / InCites,2014-2016,volumen (excelencia),ascendente,Conteo de artículos en el decil superior de citación mundial
+II_2020_wos,Investigación,PPC,Producción científica per cápita,33.33,WoS,2016-2018,intensidad (por docente),ascendente,"(Artículos x4 + reviews, proceedings, capítulos y libros x1) / total de docentes (SIBE 2017)"
+II_2020_wos,Investigación,H5,Impacto científico: índice H5,33.33,WoS,Documentos 2014-2018; citas al 15/09/2019,volumen e impacto,ascendente,Índice h de los documentos de los últimos 5 años
+II_2020_wos,Investigación,EXC,Excelencia internacional: documentos en el 10% más citado,33.33,WoS,2016-2018,volumen (excelencia),ascendente,Todas las áreas en conjunto
+II_2020_scopus,Investigación,PPC,Producción científica per cápita,33.33,Scopus (Concytec),2016-2018,intensidad (por docente),ascendente,Igual que en la versión WoS
+II_2020_scopus,Investigación,H5,Impacto científico: índice H5,33.33,Scopus (Concytec),2014-2018,volumen e impacto,ascendente,Igual que en la versión WoS
+II_2020_scopus,Investigación,EXC,Excelencia internacional: documentos en el 10% más citado,33.33,Scopus (Concytec),2016-2018,volumen (excelencia),ascendente,Igual que en la versión WoS
+III_2021_historico,Investigación,PROD,Producción científica histórica,31.67,WoS / InCites,1980-2020,volumen acumulado,ascendente,"Artículos, reviews, proceedings, capítulos y libros; primera afiliación"
+III_2021_historico,Investigación,H,Impacto científico histórico (índice H),31.67,WoS / InCites,1980-2020,volumen e impacto,ascendente,Índice h institucional
+III_2021_historico,Investigación,TOP10,Excelencia internacional histórica (top 10% más citado),31.67,WoS / InCites,1980-2020,volumen (excelencia),ascendente,Conteo de documentos en el 10% más citado
+III_2021_historico,Innovación,PAT,Número de patentes vigentes,5,Indecopi,Vigentes a set./oct. 2021,volumen,ascendente,Invenciones y modelos de utilidad
+III_2021_excelencia,Excelencia,ALUMNI,Alumnos con Nobel o medalla Fields,10,ARWU,Histórico ponderado por década,volumen,ascendente,Metodología ARWU
+III_2021_excelencia,Excelencia,AWARD,Docentes con Nobel o medalla Fields,20,ARWU,Histórico ponderado por década,volumen,ascendente,Metodología ARWU
+III_2021_excelencia,Excelencia,HICI,Investigadores altamente citados (Clarivate),20,Clarivate,Lista anual,volumen,ascendente,Metodología ARWU
+III_2021_excelencia,Excelencia,NS,Artículos en Nature y Science,20,WoS,2016-2020,volumen,ascendente,"Ponderado por posición de autor (100/50/25/10%)"
+III_2021_excelencia,Excelencia,PUB,Artículos en SCIE y SSCI,20,WoS,2020,volumen,ascendente,Los de SSCI cuentan doble
+III_2021_excelencia,Excelencia,PCP,Desempeño per cápita,10,ARWU,—,intensidad,ascendente,Puntajes anteriores / docentes a tiempo completo
+IV_2025,Formativo,DE,Ratio docente-estudiante (rotulado 'TA' en las tablas),15,SIU-Sunedu,2021-2022,intensidad,ascendente,Puestos docentes / estudiantes (promedio ponderado 2021-2022)
+IV_2025,Formativo,TPT,Tiempo promedio de titulación,15,RNGT-Sunedu,Bachilleres 2021-2022,intensidad,descendente (entra como 1-TPT),Meses promedio de bachiller a título x % de bachilleres sin título
+IV_2025,Investigación,PI,Publicaciones indizadas,23.33,Scopus / SCImago IBER,2018-2022,volumen,ascendente,Número de publicaciones
+IV_2025,Investigación,PAC,Publicaciones de alta calidad (Q1),23.33,Scopus / SCImago IBER,2018-2022,volumen,ascendente,Número de documentos en revistas del 25% superior de su categoría
+IV_2025,Investigación,IN,Impacto normalizado (ponderado por volumen),23.33,Scopus / SCImago IBER,2018-2022,volumen e impacto,ascendente,"Impacto normalizado x total de publicaciones (los valores publicados son niveles, p. ej. 3 930 para la UPCH)"
+V_2026,Formativo,PDD,Proporción de docentes con doctorado,12.86,SIU + RNGT,2023-2024,intensidad,ascendente,Promedio de los ratios anuales
+V_2026,Formativo,RED,Ratio estudiante-docente,12.86,SIU,2023-I a 2024-II,intensidad,descendente (entra como inversa),Matriculados / docentes por semestre
+V_2026,Formativo,TC,Tasa de continuidad,12.86,SIU,2023-I a 2024-II,intensidad,ascendente,Matriculados con hasta 3 años desde el ingreso que siguen matriculados en t+1
+V_2026,Investigación,PIN,Impacto normalizado (FWCI promedio),12.86,Scopus / SciVal,2023-2024,intensidad (promedio por documento),ascendente,"Field-Weighted Citation Impact promedio; 1 = promedio mundial. Ya no se pondera por volumen (a diferencia del IV)"
+V_2026,Investigación,PIC,Publicaciones indexadas ponderadas por decil de citación,12.86,Scopus / SciVal,2023-2024,volumen,ascendente,"Suma de publicaciones x peso del decil (D1=10 ... D10=1); sin umbral mínimo; autocitas sin tratamiento"
+V_2026,Investigación,PAC,Proporción de publicaciones de alta calidad (Q1 y Q2),12.86,Scopus / SciVal (SJR),2023-2024,intensidad,ascendente,"(Q1 x 2 + Q2 x 1) / artículos y reviews (rango 0-2)"
+V_2026,Investigación,DR,Proporción de docentes en Renacyt (ponderada por nivel),12.86,SIU + Renacyt,2023-I a 2024-II,intensidad,ascendente,"Docentes Renacyt x ponderador de nivel (1,00 Distinguido ... 0,05 Nivel VII) / total de docentes"
+V_2026,Capacidad institucional,DTC,Proporción de docentes a tiempo completo o dedicación exclusiva,3.33,SIU,2023-I a 2024-II,intensidad,ascendente,Promedio semestral
+V_2026,Capacidad institucional,TPT,Tiempo promedio para obtener el título profesional,3.33,RNGT,Títulos 2023-2024,intensidad,descendente (entra como inversa),Meses entre el diploma de bachiller y el de título
+V_2026,Capacidad institucional,TPB,Tiempo promedio para obtener el grado de bachiller,3.33,RNGT,Bachilleres 2023-2024,intensidad,descendente (entra como inversa),Meses entre el egreso y el diploma de bachiller
+V_2026,Bonificador (formativo),PAA,Proporción de programas acreditados,hasta +10% sobre el ámbito,Sineace (declaración de las universidades),Vigentes 2024,intensidad,ascendente,Tasa proporcional al máximo
+V_2026,Bonificador (investigación),PV,Patentes vigentes por docente a tiempo completo,hasta +10% sobre el ámbito,Indecopi + SIU,2024,intensidad,ascendente,(Modelos de utilidad x1 + invenciones x3) / docentes a tiempo completo
+V_2026,Bonificador (investigación),PICDA,Publicaciones citadas en patentes o documentos de política,hasta +10% sobre el ámbito,Scopus / SciVal,2023-2024,intensidad,ascendente,Proporción sobre el total de publicaciones
+V_2026,Bonificador (capacidad institucional),RSAUP,Gestión ambiental (Reporte de Sostenibilidad Ambiental),hasta +10% sobre el ámbito,MINAM,2024,puntaje,ascendente,Puntaje total del RSAUP
+V_2026,Bonificador (global),PAI,Acreditación institucional,hasta +3% sobre el puntaje final,Sineace,2024,años de vigencia,ascendente,Años de vigencia / máximo

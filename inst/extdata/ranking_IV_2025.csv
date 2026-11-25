@@ -1,0 +1,83 @@
+"id_univ","codigo_publicado","universidad","tipo_gestion","puntaje","posicion","DE","TPT","PI","PAC","IN"
+"014","014","Universidad Peruana Cayetano Heredia","Privada",100,1,0.15,6.31,2933,1507,3930
+"008","008","Pontificia Universidad Católica Del Perú","Privada",78.4,2,0.08,9.48,3323,1093,3290
+"068","068","Universidad Científica Del Sur","Privada",47.7,3,0.1,6.96,1669,479,1335
+"054","054","Universidad Peruana de Ciencias Aplicadas","Privada",35.5,4,0.05,14.53,2294,317,1491
+"057","057","Universidad San Ignacio de Loyola","Privada",24.1,5,0.04,19.58,1211,379,1247
+"019","019","Universidad de San Martín de Porres","Privada",24,6,0.06,11.99,1029,165,1091
+"052","052A","Universidad César Vallejo SAC","Privada",21.3,7,0.04,1.56,1112,74,545
+"067","067","Universidad Continental SAC","Privada",17.8,8,0.03,11.81,1050,121,725
+"030","030","Universidad Ricardo Palma","Privada",17.7,9,0.08,9.82,520,65,369
+"018","018","Universidad de Lima","Privada",17.1,10,0.05,15.38,717,192,839
+"055","055","Universidad Privada del Norte","Privada",16.4,11,0.03,14.99,1280,127,704
+"064","064A","Universidad Privada San Juan Bautista","Privada",16.2,12,0.06,7.93,523,89,382
+"038","038","Universidad Peruana Unión","Privada",14.2,13,0.07,12.38,389,87,338
+"132","132","Universidad de Ingeniería y Tecnología","Privada",13.8,14,0.07,11.15,368,89,287
+"017","017","Universidad del Pacífico","Privada",13.8,15,0.08,25.38,573,206,476
+"069","069","Universidad Católica Santo Toribio de Mogrovejo","Privada",12.6,16,0.07,6.03,176,11,55
+"020","020","Universidad Femenina del Sagrado Corazón","Privada",11,17,0.09,12.1,32,3,20
+"087","087A","Universidad Autónoma de Ica SAC","Privada",10.9,18,0.06,4.46,43,1,30
+"029","029","Universidad de Piura","Privada",10.8,19,0.08,21.24,358,76,208
+"061","061","Universidad Privada Norbert Wiener SA","Privada",10.5,20,0.04,13.01,516,99,402
+"080","080","Universidad Antonio Ruiz de Montoya","Privada",10,21,0.12,19.22,24,9,23
+"097","097","Asociación Civil Universidad de Ciencias y Humanidades","Privada",9.9,22,0.05,13.98,610,27,232
+"015","015","Universidad Católica de Santa María","Privada",9.5,23,0.04,13.8,448,89,237
+"074","074A","Universidad Católica de Trujillo Benedicto XVI","Privada",9.4,24,0.06,9.61,29,6,31
+"072","072","Universidad Señor de Sipán SAC","Privada",9,25,0.03,8.35,296,42,166
+"046","046","Universidad Privada Antenor Orrego","Privada",8.6,26,0.04,12.28,397,35,147
+"043","043","Universidad Privada de Tacna","Privada",8.5,27,0.07,12.91,103,18,56
+"096","096","Universidad Autónoma del Perú SAC","Privada",7.4,28,0.04,10.54,266,17,128
+"062","062","Universidad Católica San Pablo","Privada",7.4,29,0.06,17.96,308,51,188
+"105","105","Universidad Privada de Huancayo Franklin Roosevelt","Privada",7.2,30,0.03,2.93,4,0,1
+"082","082","Universidad para el Desarrollo Andino","Privada",7.1,31,0.08,16.47,1,0,0
+"079","079","Universidad ESAN","Privada",7,32,0.07,20.92,216,58,158
+"065","065","Universidad Tecnológica del Perú SAC","Privada",6.5,33,0.03,22.54,668,56,548
+"049","049","Universidad Marcelino Champagnat","Privada",6.2,34,0.04,7.44,8,0,6
+"136","136","Universidad María Auxiliadora SAC","Privada",5.6,35,0.03,5.81,76,14,36
+"133","133","Universidad La Salle","Privada",5,36,0.06,15.96,43,2,12
+"037","037","Universidad Peruana Los Andes","Privada",3.2,37,0.05,19.9,151,10,44
+"104","104","Universidad Le Cordon Bleu SAC","Privada",1.8,38,0.07,22.54,11,2,3
+"039","039","Universidad Andina del Cusco","Privada",1.7,39,0.05,19.39,64,8,68
+"071","071","Universidad Católica Sedes Sapientiae","Privada",1.4,40,0.04,18.95,47,7,27
+"047","047","Universidad de Huánuco","Privada",0.9,41,0.04,18.57,53,7,42
+"100","100A","Universidad Jaime Bausate y Meza","Privada",0.7,42,0.06,21.02,3,0,1
+"040","040","Universidad Tecnológica de los Andes","Privada",0,43,0.05,22.23,65,8,27
+"001","001","Universidad Nacional Mayor de San Marcos","Pública",100,1,0.08,13.72,3892,775,2335
+"005","005","Universidad Nacional de San Agustín de Arequipa","Pública",41.3,2,0.06,17.1,1498,268,1064
+"006","006","Universidad Nacional de Ingeniería","Pública",35.3,3,0.1,21.95,1035,211,745
+"007","007","Universidad Nacional Agraria La Molina","Pública",34.5,4,0.09,22.33,1024,295,727
+"004","004","Universidad Nacional de Trujillo","Pública",29.7,5,0.09,13.19,681,126,409
+"021","021","Universidad Nacional Federico Villarreal","Pública",25.2,6,0.11,20.43,609,68,341
+"095","095","Universidad Nacional de Moquegua","Pública",22.7,7,0.1,15.08,156,54,220
+"003","003","Universidad Nacional de San Antonio Abad del Cusco","Pública",19.1,8,0.06,20.15,522,154,553
+"076","076","Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas","Pública",18.3,9,0.08,15.91,283,93,184
+"012","012","Universidad Nacional del Altiplano","Pública",16.6,10,0.08,19.2,421,54,232
+"023","023","Universidad Nacional Hermilio Valdizán de Huánuco","Pública",16.2,11,0.07,12.21,187,20,108
+"032","032","Universidad Nacional Jorge Basadre Grohmann","Pública",16,12,0.07,14.38,171,46,180
+"011","011","Universidad Nacional de la Amazonía Peruana","Pública",15.2,13,0.06,17.68,274,104,258
+"121","121","Universidad Nacional de Barranca","Pública",14.9,14,0.1,16.03,32,4,12
+"041","041","Universidad Nacional de Tumbes","Pública",14.9,15,0.07,12.13,135,15,74
+"016","016","Universidad Nacional de Cajamarca","Pública",14.5,16,0.09,15.13,135,18,65
+"010","010","Universidad Nacional del Centro del Perú","Pública",13.9,17,0.07,17.52,293,40,211
+"120","120","Universidad Nacional Autónoma de Chota","Pública",12.2,18,0.08,16.49,91,8,94
+"075","075","Universidad Nacional Amazónica de Madre de Dios","Pública",11.5,19,0.07,16.18,84,18,60
+"002","002","Universidad Nacional de San Cristóbal de Huamanga","Pública",11,20,0.06,15.96,154,31,79
+"033","033","Universidad Nacional Santiago Antúnez de Mayolo","Pública",10.9,21,0.08,20.47,137,18,122
+"088","088","Universidad Nacional Tecnológica de Lima Sur","Pública",10.7,22,0.06,19.94,217,18,206
+"034","034","Universidad Nacional de San Martín","Pública",10.5,23,0.06,15.27,92,18,50
+"013","013","Universidad Nacional de Piura","Pública",10.3,24,0.06,17.51,207,34,128
+"042","042","Universidad Nacional del Santa","Pública",9.5,25,0.08,17.55,94,19,62
+"025","025","Universidad Nacional de Educación Enrique Guzmán y Valle","Pública",9.3,26,0.11,27.79,142,13,68
+"101","101","Universidad Nacional de Jaén","Pública",9.2,27,0.06,14.77,77,19,40
+"009","009","Universidad Nacional San Luis Gonzaga","Pública",8.6,28,0.07,21.84,194,31,142
+"028","028","Universidad Nacional José Faustino Sánchez Carrión","Pública",7.7,29,0.06,17.99,100,5,51
+"077","077","Universidad Nacional Micaela Bastidas de Apurímac","Pública",7,30,0.07,20.94,169,9,76
+"089","089","Universidad Nacional José María Arguedas","Pública",6.9,31,0.07,22.72,92,16,55
+"026","026","Universidad Nacional Daniel Alcides Carrión","Pública",6.4,32,0.08,22.2,60,8,43
+"027","027","Universidad Nacional del Callao","Pública",4.1,33,0.05,21.84,184,13,90
+"022","022","Universidad Nacional Agraria de la Selva","Pública",4.1,34,0.07,24.35,83,14,34
+"106","106","Universidad Nacional de Frontera","Pública",3.9,35,0.06,24.39,105,13,64
+"122","122","Universidad Nacional de Cañete","Pública",3.5,36,0.06,23.44,66,1,28
+"084","084","Universidad Nacional Intercultural de la Amazonía","Pública",1.4,37,0.07,26.25,60,8,28
+"126","126","Universidad Nacional Autónoma de Alto Amazonas","Pública",0.9,38,0.06,24.9,31,8,17
+"098","098","Universidad Nacional de Juliaca","Pública",0,39,0.06,25.88,60,7,44

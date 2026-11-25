@@ -1,5 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.tar.gz
+*.Rcheck/
+vignettes/*.html
+inst/doc
+.DS_Store
+__pycache__/
 fuentes/
 *.pdf
 *.docx
-__pycache__/
-.DS_Store

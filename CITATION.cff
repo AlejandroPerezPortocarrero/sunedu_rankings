@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos como se indica abajo."
+type: dataset
+title: "sunedu_rankings (paquete de R sunedurankings): Rankings universitarios de los Informes Bienales de SUNEDU, 2018-2026"
+version: 1.0.0
+date-released: 2026-11-25
+license: MIT
+authors:
+  - family-names: "Pérez Portocarrero"
+    given-names: "Alejandro"
+    email: "alejandroperezportocarrero@gmail.com"
+    affiliation: "University of Manchester"
+repository-code: "https://github.com/AlejandroPerezPortocarrero/sunedu_rankings"
+keywords:
+  - Perú
+  - SUNEDU
+  - universidades
+  - rankings universitarios
+  - educación superior
+  - bibliometría
+  - R
+references:
+  - type: report
+    title: "Informe Bienal sobre la Realidad Universitaria Peruana"
+    authors:
+      - name: "Superintendencia Nacional de Educación Superior Universitaria"
+    year: 2018
+    url: "https://cdn.www.gob.pe/uploads/document/file/747830/Informe-Bienal-sobre-realidad.pdf"
+  - type: report
+    title: "II Informe Bienal sobre la Realidad Universitaria en el Perú"
+    authors:
+      - name: "Superintendencia Nacional de Educación Superior Universitaria"
+    year: 2020
+    isbn: "978-612-47125-1-7"
+    url: "https://www.gob.pe/institucion/sunedu/informes-publicaciones/1093280-ii-informe-bienal-sobre-la-realidad-universitaria-en-el-peru"
+  - type: report
+    title: "III Informe Bienal sobre la Realidad Universitaria en el Perú"
+    authors:
+      - name: "Superintendencia Nacional de Educación Superior Universitaria"
+    year: 2021
+    url: "https://www.gob.pe/institucion/sunedu/informes-publicaciones/2824150-iii-informe-bienal-sobre-la-realidad-universitaria-en-el-peru"
+  - type: report
+    title: "IV Informe Bienal sobre la realidad universitaria en Perú (2021-2022)"
+    authors:
+      - name: "Superintendencia Nacional de Educación Superior Universitaria"
+    year: 2025
+    url: "https://repositorio.minedu.gob.pe/handle/20.500.12799/11743"
+  - type: report
+    title: "Ranking Universitario del V Informe Bienal 2023-2024"
+    authors:
+      - name: "Superintendencia Nacional de Educación Superior Universitaria"
+    year: 2026
+    url: "https://www.gob.pe/institucion/sunedu/informes-publicaciones/8838541-ranking-universitario-del-v-informe-bienal-2023-2024"
