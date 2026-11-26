@@ -4,7 +4,7 @@ Los scripts de esta carpeta transcriben las tablas publicadas por SUNEDU y const
 
 | Paso | Script | Qué hace | Salida |
 |---|---|---|---|
-| 1 | `01_extraer_rankings.py <carpeta>` | Transcribe las tablas de ranking de los PDF y del DOCX | `tablas/I_2018_*.csv` … `tablas/V_*.csv` |
+| 1 | `01_extraer_rankings.py` | Transcribe las tablas de ranking de los PDF y del DOCX | `tablas/I_2018_*.csv` … `tablas/V_*.csv` |
 | 2 | `02_construir_serie.py` | Identificadores únicos, equivalencia de nombres y serie armonizada | `tablas/universidades.csv`, `alias_universidades.csv`, `serie_rankings_*.csv` |
 | 3 | `03_replicar_rankings.py` | Reproduce los puntajes del I, II, IV y V a partir de sus componentes | `tablas/*_indicadores_y_replica.csv`, `*_contribuciones_por_indicador.csv`, `validacion/replicacion.txt` |
 | 4 | `04_robustez.py` | Recalcula el IV y el V con especificaciones alternativas; alertas | `tablas/robustez_*.csv`, `alertas_valores_atipicos.csv` |
@@ -18,7 +18,7 @@ Requisitos: Python 3 con `pandas`, `numpy`, `python-docx` y `matplotlib` (`requi
 
 ## Documentos fuente
 
-Guarda los documentos en una carpeta (por ejemplo `fuentes/`, excluida del repositorio) con estos nombres:
+Los documentos fuente están en `fuentes/`, con estos nombres (son copias de las versiones publicadas por SUNEDU; el V corresponde a la versión descargada el 24/11/2026):
 
 | Archivo esperado | Documento | Páginas usadas (PDF) | Tablas |
 |---|---|---|---|

@@ -4,7 +4,7 @@ Extrae (transcribe) las tablas de ranking publicadas en los Informes Bienales de
 a archivos CSV en data-raw/tablas/, tal como aparecen en las fuentes (sin corregir nombres).
 
 Uso:
-    python data-raw/01_extraer_rankings.py <carpeta_con_fuentes>
+    python data-raw/01_extraer_rankings.py [carpeta_con_fuentes]   # por defecto, data-raw/fuentes/
 
 La carpeta debe contener los documentos originales con estos nombres
 (ver data-raw/README.md para los enlaces de descarga):
@@ -25,7 +25,7 @@ from pathlib import Path
 
 import pandas as pd
 
-SRC = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("fuentes")
+SRC = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).resolve().parent / "fuentes"
 RAW = Path(__file__).resolve().parent / "tablas"
 RAW.mkdir(parents=True, exist_ok=True)
 

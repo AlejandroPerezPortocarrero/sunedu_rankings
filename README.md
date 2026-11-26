@@ -140,11 +140,11 @@ Cada dataset está documentado en R: por ejemplo, `?rankings` o `?robustez`.
 
 ## Reconstruir los datos
 
-Los documentos fuente no se incluyen por su tamaño. Descárgalos (ver [Fuentes](#fuentes)) en una carpeta `fuentes/` con los nombres que indica [`data-raw/README.md`](data-raw/README.md) y ejecuta, desde la raíz del repositorio:
+Los documentos fuente están en [`data-raw/fuentes/`](data-raw/fuentes/) (ver [Fuentes](#fuentes)). Para reconstruir los datos, ejecuta desde la raíz del repositorio:
 
 ```bash
 pip install -r data-raw/requirements.txt          # además: poppler-utils (pdftotext)
-python data-raw/01_extraer_rankings.py fuentes/   # transcribe las tablas a data-raw/tablas/
+python data-raw/01_extraer_rankings.py           # transcribe las tablas de data-raw/fuentes/ a data-raw/tablas/
 python data-raw/02_construir_serie.py             # serie armonizada e identificadores
 python data-raw/03_replicar_rankings.py           # réplica de los puntajes (validación)
 python data-raw/04_robustez.py                    # especificaciones alternativas y alertas

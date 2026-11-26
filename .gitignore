@@ -8,6 +8,3 @@ vignettes/*.html
 inst/doc
 .DS_Store
 __pycache__/
-fuentes/
-*.pdf
-*.docx
